@@ -1,0 +1,20 @@
+services:
+  db:
+    build: ./
+    container_name: sql1
+    hostname: sql1h
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_PID=Developer
+      - MSSQL_SA_PASSWORD=Ch@ngeM3
+      - PROJECT_WD=/tmp/csci226
+    ports:
+      - 1433:1433
+    volumes:
+      - ./migrations:/tmp/csci226/migrations/
+      - ./data:/tmp/csci226/data/
+    entrypoint:
+      - /tmp/csci226/entrypoint.sh
+volumes:
+  migrations:
+  data:
