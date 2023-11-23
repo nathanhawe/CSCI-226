@@ -1,13 +1,13 @@
 IF (NOT EXISTS(SELECT 1 FROM CSCI226.INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME='EpaCrsi'))
-  CREATE TABLE CSCI226.dbo.EpaCrsi (
-      EpaRegion INT NOT NULL
-    , UsState NVARCHAR(255) NOT NULL
-    , County NVARCHAR(255) NOT NULL
-    , ReportYear INT NOT NULL
-    , Risk NUMERIC(6,3) NOT NULL
-    , Governance NUMERIC(6,3) NOT NULL
-    , BuiltEnvironment NUMERIC(6,3) NOT NULL
-    , NaturalEnvironment NUMERIC(6,3) NOT NULL
-    , Society NUMERIC(6,3) NOT NULL
-    , Crsi NUMERIC(6,3) NOT NULL
-  )
+	CREATE TABLE CSCI226.dbo.EpaCrsi (
+		EpaRegion INT NOT NULL
+		, UsState NVARCHAR(255) NOT NULL
+		, County NVARCHAR(255) NOT NULL
+		, ReportYear INT NOT NULL
+		, Risk NUMERIC(6,3) NOT NULL
+		, Governance NUMERIC(6,3) NOT NULL
+		, BuiltEnvironment NUMERIC(6,3) NOT NULL
+		, NaturalEnvironment NUMERIC(6,3) NOT NULL
+		, Society NUMERIC(6,3) NOT NULL
+		, Crsi NUMERIC(6,3) NOT NULL
+	)
