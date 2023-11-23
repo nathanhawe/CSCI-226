@@ -1,7 +1,9 @@
 #!/bin/bash
 # Wait some time to allow SQL server to start
-echo "Waiting 10 seconds for SQL to start"
-sleep 10
+until /opt/mssql-tools/bin/sqlcmd -Q "SELECT db_id('ANY')" -U sa -P $MSSQL_SA_PASSWORD -S $HOSTNAME; do
+	echo "Waiting 1 seconds for SQL..."
+	sleep 1
+done
 
 # Run Migrations
 for file in $PROJECT_WD/migrations/*.sql
@@ -18,3 +20,6 @@ echo "Importing 2020 Decennial Census Data (DP1)"
 
 echo "Importing 2020 Educational Attainment Data (S1501)"
 /opt/mssql-tools/bin/bcp CSCI226.dbo.S1501 in $PROJECT_WD/data/ACSST5Y2020.S1501-Data.dat -S $HOSTNAME -U sa -P $MSSQL_SA_PASSWORD -F 2 -f $PROJECT_WD/data/S1501-c.fmt
+
+echo "Importing 2020 Field of Bachelor's Degree for First Major Data (S1502)"
+/opt/mssql-tools/bin/bcp CSCI226.dbo.S1502 in $PROJECT_WD/data/ACSST5Y2020.S1502-Data.dat -S $HOSTNAME -U sa -P $MSSQL_SA_PASSWORD -F 2 -f $PROJECT_WD/data/S1502-c.fmt
