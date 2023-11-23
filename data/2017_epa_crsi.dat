@@ -3,14 +3,14 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 1	Connecticut	Hartford	2017	0.650	0.869	0.646	0.311	0.525	2.135
 1	Connecticut	Litchfield	2017	0.224	0.890	0.489	0.431	0.657	6.881
 1	Connecticut	Middlesex	2017	0.420	0.874	0.396	0.439	0.598	2.816
-1	Connecticut	New	2017 Haven	0.491	0.863	0.659	0.403	0.499	3.243
-1	Connecticut	New	2017 London	0.273	0.849	0.587	0.433	0.490	5.285
+1	Connecticut	New Haven	2017	0.491	0.863	0.659	0.403	0.499	3.243
+1	Connecticut	New London	2017	0.273	0.849	0.587	0.433	0.490	5.285
 1	Connecticut	Tolland	2017	0.306	0.892	0.341	0.403	0.551	2.855
 1	Connecticut	Windham	2017	0.289	0.887	0.370	0.420	0.561	3.483
 1	Maine	Androscoggin	2017	0.174	0.887	0.424	0.365	0.565	5.895
 1	Maine	Aroostook	2017	0.101	0.943	0.744	0.413	0.546	19.853
 1	Maine	Cumberland	2017	0.298	0.892	0.671	0.525	0.615	7.302
-1	Maine	Franklin	2017	0.094	0.934	0.490	0od .421	0.502	13.434
+1	Maine	Franklin	2017	0.094	0.934	0.490	0.421	0.502	13.434
 1	Maine	Hancock	2017	0.038	0.925	0.543	0.603	0.559	50.855
 1	Maine	Kennebec	2017	0.145	0.897	0.533	0.395	0.581	9.871
 1	Maine	Knox	2017	0.076	0.914	0.344	0.617	0.621	20.753
@@ -37,27 +37,27 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 1	Massachusetts	Plymouth	2017	0.469	0.878	0.614	0.542	0.598	4.303
 1	Massachusetts	Suffolk	2017	0.465	0.875	0.417	0.426	0.465	2.037
 1	Massachusetts	Worcester	2017	0.550	0.886	0.804	0.359	0.604	3.813
-1	New Hampshire	Belknap	0.151	0.883	0.350	0.385	0.621	6.505
-1	New Hampshire	Carroll	0.169	0.870	0.441	0.445	0.599	7.792
-1	New Hampshire	Cheshire	0.108	0.856	0.457	0.400	0.574	10.981
-1	New Hampshire	Coos	0.112	0.922	0.536	0.549	0.640	17.434
-1	New Hampshire	Grafton	0.129	0.905	0.785	0.468	0.571	17.559
-1	New Hampshire	Hillsborough	0.461	0.900	0.631	0.334	0.574	3.327
-1	New Hampshire	Merrimack	0.149	0.908	0.667	0.410	0.728	14.260
-1	New Hampshire	Rockingham	0.555	0.888	0.578	0.420	0.554	2.788
-1	New Hampshire	Strafford	0.338	0.877	0.380	0.419	0.505	2.697
-1	New Hampshire	Sullivan	0.120	0.920	0.363	0.379	0.594	8.200
-1	Rhode Island	Bristol	0.385	0.869	0.110	0.531	0.584	1.601
-1	Rhode Island	Kent	0.510	0.862	0.240	0.443	0.605	1.529
-1	Rhode Island	Newport	0.207	0.854	0.232	0.643	0.551	5.483
-1	Rhode Island	Providence	0.510	0.863	0.535	0.326	0.551	2.298
-1	Rhode Island	Washington	0.248	0.874	0.391	0.614	0.637	6.756
+1	New Hampshire	Belknap	2017	0.151	0.883	0.350	0.385	0.621	6.505
+1	New Hampshire	Carroll	2017	0.169	0.870	0.441	0.445	0.599	7.792
+1	New Hampshire	Cheshire	2017	0.108	0.856	0.457	0.400	0.574	10.981
+1	New Hampshire	Coos	2017	0.112	0.922	0.536	0.549	0.640	17.434
+1	New Hampshire	Grafton	2017	0.129	0.905	0.785	0.468	0.571	17.559
+1	New Hampshire	Hillsborough	2017	0.461	0.900	0.631	0.334	0.574	3.327
+1	New Hampshire	Merrimack	2017	0.149	0.908	0.667	0.410	0.728	14.260
+1	New Hampshire	Rockingham	2017	0.555	0.888	0.578	0.420	0.554	2.788
+1	New Hampshire	Strafford	2017	0.338	0.877	0.380	0.419	0.505	2.697
+1	New Hampshire	Sullivan	2017	0.120	0.920	0.363	0.379	0.594	8.200
+1	Rhode Island	Bristol	2017	0.385	0.869	0.110	0.531	0.584	1.601
+1	Rhode Island	Kent	2017	0.510	0.862	0.240	0.443	0.605	1.529
+1	Rhode Island	Newport	2017	0.207	0.854	0.232	0.643	0.551	5.483
+1	Rhode Island	Providence	2017	0.510	0.863	0.535	0.326	0.551	2.298
+1	Rhode Island	Washington	2017	0.248	0.874	0.391	0.614	0.637	6.756
 1	Vermont	Addison	2017	0.089	0.989	0.473	0.490	0.712	20.832
 1	Vermont	Bennington	2017	0.154	0.933	0.435	0.469	0.613	9.414
 1	Vermont	Caledonia	2017	0.115	0.942	0.401	0.396	0.815	13.744
 1	Vermont	Chittenden	2017	0.261	0.912	0.661	0.387	0.604	6.946
 1	Vermont	Franklin	2017	0.242	0.923	0.427	0.386	0.651	5.319
-1	Vermont	Grand	2017 Isle	0.063	0.985	0.334	0.365	0.714	18.709
+1	Vermont	Grand Isle	2017	0.063	0.985	0.334	0.365	0.714	18.709
 1	Vermont	Lamoille	2017	0.080	0.922	0.389	0.438	0.665	16.702
 1	Vermont	Orange	2017	0.140	0.961	0.400	0.351	0.689	8.895
 1	Vermont	Orleans	2017	0.185	0.957	0.436	0.439	0.793	9.509
@@ -65,95 +65,95 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 1	Vermont	Washington	2017	0.110	0.937	0.469	0.381	0.720	13.996
 1	Vermont	Windham	2017	0.104	0.932	0.467	0.364	0.638	12.735
 1	Vermont	Windsor	2017	0.188	0.915	0.558	0.367	0.651	8.435
-2	New Jersey	Atlantic	0.477	0.770	0.520	0.507	0.431	2.617
-2	New Jersey	Bergen	0.582	0.804	0.464	0.202	0.586	1.184
-2	New Jersey	Burlington	0.538	0.812	0.567	0.558	0.547	3.290
-2	New Jersey	Camden	0.532	0.795	0.444	0.296	0.506	1.315
-2	New Jersey	Cape May	0.382	0.755	0.401	0.565	0.462	2.934
-2	New Jersey	Cumberland	0.313	0.794	0.437	0.549	0.444	3.780
-2	New Jersey	Essex	0.519	0.791	0.467	0.100	0.531	0.628
-2	New Jersey	Gloucester	0.553	0.806	0.453	0.379	0.489	1.638
-2	New Jersey	Hudson	0.525	0.797	0.402	0.233	0.465	0.679
-2	New Jersey	Hunterdon	0.386	0.839	0.512	0.480	0.598	4.034
-2	New Jersey	Mercer	0.496	0.797	0.448	0.362	0.492	1.708
-2	New Jersey	Middlesex	0.522	0.785	0.601	0.253	0.561	2.125
-2	New Jersey	Monmouth	0.728	0.784	0.615	0.485	0.534	2.282
-2	New Jersey	Morris	0.511	0.826	0.524	0.449	0.595	2.929
-2	New Jersey	Ocean	0.806	0.781	0.596	0.546	0.448	1.974
-2	New Jersey	Passaic	0.494	0.816	0.384	0.432	0.522	1.877
-2	New Jersey	Salem	0.209	0.816	0.338	0.503	0.459	4.096
-2	New Jersey	Somerset	0.585	0.815	0.486	0.339	0.573	1.829
-2	New Jersey	Sussex	0.406	0.860	0.405	0.468	0.563	2.945
-2	New Jersey	Union	0.337	0.777	0.388	0.129	0.561	0.685
-2	New Jersey	Warren	0.339	0.850	0.441	0.493	0.513	3.671
-2	New York	Albany	0.455	0.807	0.542	0.343	0.639	2.973
-2	New York	Allegany	0.118	0.871	0.482	0.343	0.385	6.393
-2	New York	Bronx	0.529	0.785	0.297	0.203	0.409	-0.225
-2	New York	Broome	0.381	0.822	0.505	0.335	0.497	2.543
-2	New York	Cattaraugus	0.186	0.856	0.560	0.460	0.421	7.030
-2	New York	Cayuga	0.139	0.878	0.464	0.368	0.571	8.215
-2	New York	Chautauqua	0.152	0.834	0.567	0.399	0.414	7.490
-2	New York	Chemung	0.204	0.829	0.339	0.304	0.472	2.002
-2	New York	Chenango	0.160	0.867	0.393	0.362	0.474	4.597
-2	New York	Clinton	0.154	0.837	0.587	0.412	0.534	9.484
-2	New York	Columbia	0.155	0.829	0.412	0.387	0.603	6.865
-2	New York	Cortland	0.146	0.863	0.331	0.341	0.527	4.245
-2	New York	Delaware	0.210	0.836	0.519	0.375	0.485	5.207
-2	New York	Dutchess	0.521	0.823	0.612	0.366	0.587	2.895
-2	New York	Erie	0.463	0.810	0.713	0.296	0.550	3.278
-2	New York	Essex	0.126	0.850	0.530	0.493	0.561	12.497
-2	New York	Franklin	0.138	0.853	0.440	0.560	0.531	10.467
-2	New York	Fulton	0.140	0.813	0.282	0.406	0.464	3.386
-2	New York	Genesee	0.205	0.864	0.377	0.393	0.544	4.406
-2	New York	Greene	0.188	0.830	0.465	0.356	0.495	4.869
-2	New York	Hamilton	0.062	0.937	0.354	0.565	0.556	22.062
-2	New York	Herkimer	0.112	0.850	0.503	0.490	0.422	10.901
-2	New York	Jefferson	0.147	0.856	0.672	0.446	0.485	11.523
-2	New York	Kings	0.366	0.768	0.310	0.330	0.502	1.065
-2	New York	Lewis	0.095	0.901	0.463	0.456	0.516	13.405
-2	New York	Livingston	0.116	0.869	0.480	0.449	0.539	11.341
-2	New York	Madison	0.144	0.853	0.420	0.403	0.538	7.063
-2	New York	Monroe	0.375	0.832	0.623	0.364	0.519	3.765
-2	New York	Montgomery	0.143	0.856	0.260	0.322	0.492	2.146
-2	New York	Nassau	0.351	0.772	0.564	0.342	0.703	4.263
-2	New York	New York	0.569	0.756	0.376	0.259	0.460	0.523
-2	New York	Niagara	0.279	0.822	0.432	0.425	0.481	3.453
-2	New York	Oneida	0.235	0.820	0.676	0.398	0.525	6.946
-2	New York	Onondaga	0.458	0.831	0.590	0.353	0.567	3.025
-2	New York	Ontario	0.159	0.855	0.528	0.413	0.555	8.615
-2	New York	Orange	0.520	0.828	0.704	0.362	0.591	3.379
-2	New York	Orleans	0.162	0.858	0.325	0.431	0.443	4.025
-2	New York	Oswego	0.166	0.852	0.565	0.330	0.389	5.619
-2	New York	Otsego	0.149	0.857	0.441	0.337	0.528	6.022
-2	New York	Putnam	0.411	0.825	0.403	0.463	0.633	3.106
-2	New York	Queens	0.336	0.764	0.467	0.318	0.578	2.750
-2	New York	Rensselaer	0.371	0.838	0.478	0.359	0.531	2.802
-2	New York	Richmond	0.508	0.789	0.314	0.431	0.579	1.620
-2	New York	Rockland	0.556	0.811	0.345	0.340	0.618	1.402
-2	New York	Saratoga	0.473	0.836	0.535	0.355	0.566	2.631
-2	New York	Schenectady	0.390	0.820	0.218	0.274	0.528	0.282
-2	New York	Schoharie	0.077	0.887	0.320	0.310	0.525	6.912
-2	New York	Schuyler	0.099	0.872	0.312	0.394	0.545	7.514
-2	New York	Seneca	0.134	0.879	0.328	0.427	0.492	5.743
-2	New York	St. Lawrence	0.117	0.857	0.691	0.508	0.453	15.680
-2	New York	Steuben	0.105	0.862	0.707	0.353	0.445	14.118
-2	New York	Suffolk	0.383	0.787	0.738	0.512	0.683	6.145
-2	New York	Sullivan	0.183	0.815	0.553	0.361	0.512	6.476
-2	New York	Tioga	0.266	0.836	0.343	0.321	0.450	1.596
-2	New York	Tompkins	0.111	0.823	0.457	0.343	0.459	7.105
-2	New York	Ulster	0.219	0.824	0.636	0.455	0.542	7.770
-2	New York	Warren	0.139	0.847	0.435	0.439	0.599	9.113
-2	New York	Washington	0.147	0.863	0.408	0.365	0.484	5.411
-2	New York	Wayne	0.132	0.847	0.403	0.365	0.466	5.586
-2	New York	Westchester	0.591	0.802	0.544	0.310	0.589	1.979
-2	New York	Wyoming	0.122	0.882	0.406	0.353	0.504	6.711
-2	New York	Yates	0.110	0.860	0.322	0.376	0.542	6.465
+2	New Jersey	Atlantic	2017	0.477	0.770	0.520	0.507	0.431	2.617
+2	New Jersey	Bergen	2017	0.582	0.804	0.464	0.202	0.586	1.184
+2	New Jersey	Burlington	2017	0.538	0.812	0.567	0.558	0.547	3.290
+2	New Jersey	Camden	2017	0.532	0.795	0.444	0.296	0.506	1.315
+2	New Jersey	Cape May	2017	0.382	0.755	0.401	0.565	0.462	2.934
+2	New Jersey	Cumberland	2017	0.313	0.794	0.437	0.549	0.444	3.780
+2	New Jersey	Essex	2017	0.519	0.791	0.467	0.100	0.531	0.628
+2	New Jersey	Gloucester	2017	0.553	0.806	0.453	0.379	0.489	1.638
+2	New Jersey	Hudson	2017	0.525	0.797	0.402	0.233	0.465	0.679
+2	New Jersey	Hunterdon	2017	0.386	0.839	0.512	0.480	0.598	4.034
+2	New Jersey	Mercer	2017	0.496	0.797	0.448	0.362	0.492	1.708
+2	New Jersey	Middlesex	2017	0.522	0.785	0.601	0.253	0.561	2.125
+2	New Jersey	Monmouth	2017	0.728	0.784	0.615	0.485	0.534	2.282
+2	New Jersey	Morris	2017	0.511	0.826	0.524	0.449	0.595	2.929
+2	New Jersey	Ocean	2017	0.806	0.781	0.596	0.546	0.448	1.974
+2	New Jersey	Passaic	2017	0.494	0.816	0.384	0.432	0.522	1.877
+2	New Jersey	Salem	2017	0.209	0.816	0.338	0.503	0.459	4.096
+2	New Jersey	Somerset	2017	0.585	0.815	0.486	0.339	0.573	1.829
+2	New Jersey	Sussex	2017	0.406	0.860	0.405	0.468	0.563	2.945
+2	New Jersey	Union	2017	0.337	0.777	0.388	0.129	0.561	0.685
+2	New Jersey	Warren	2017	0.339	0.850	0.441	0.493	0.513	3.671
+2	New York	Albany	2017	0.455	0.807	0.542	0.343	0.639	2.973
+2	New York	Allegany	2017	0.118	0.871	0.482	0.343	0.385	6.393
+2	New York	Bronx	2017	0.529	0.785	0.297	0.203	0.409	-0.225
+2	New York	Broome	2017	0.381	0.822	0.505	0.335	0.497	2.543
+2	New York	Cattaraugus	2017	0.186	0.856	0.560	0.460	0.421	7.030
+2	New York	Cayuga	2017	0.139	0.878	0.464	0.368	0.571	8.215
+2	New York	Chautauqua	2017	0.152	0.834	0.567	0.399	0.414	7.490
+2	New York	Chemung	2017	0.204	0.829	0.339	0.304	0.472	2.002
+2	New York	Chenango	2017	0.160	0.867	0.393	0.362	0.474	4.597
+2	New York	Clinton	2017	0.154	0.837	0.587	0.412	0.534	9.484
+2	New York	Columbia	2017	0.155	0.829	0.412	0.387	0.603	6.865
+2	New York	Cortland	2017	0.146	0.863	0.331	0.341	0.527	4.245
+2	New York	Delaware	2017	0.210	0.836	0.519	0.375	0.485	5.207
+2	New York	Dutchess	2017	0.521	0.823	0.612	0.366	0.587	2.895
+2	New York	Erie	2017	0.463	0.810	0.713	0.296	0.550	3.278
+2	New York	Essex	2017	0.126	0.850	0.530	0.493	0.561	12.497
+2	New York	Franklin	2017	0.138	0.853	0.440	0.560	0.531	10.467
+2	New York	Fulton	2017	0.140	0.813	0.282	0.406	0.464	3.386
+2	New York	Genesee	2017	0.205	0.864	0.377	0.393	0.544	4.406
+2	New York	Greene	2017	0.188	0.830	0.465	0.356	0.495	4.869
+2	New York	Hamilton	2017	0.062	0.937	0.354	0.565	0.556	22.062
+2	New York	Herkimer	2017	0.112	0.850	0.503	0.490	0.422	10.901
+2	New York	Jefferson	2017	0.147	0.856	0.672	0.446	0.485	11.523
+2	New York	Kings	2017	0.366	0.768	0.310	0.330	0.502	1.065
+2	New York	Lewis	2017	0.095	0.901	0.463	0.456	0.516	13.405
+2	New York	Livingston	2017	0.116	0.869	0.480	0.449	0.539	11.341
+2	New York	Madison	2017	0.144	0.853	0.420	0.403	0.538	7.063
+2	New York	Monroe	2017	0.375	0.832	0.623	0.364	0.519	3.765
+2	New York	Montgomery	2017	0.143	0.856	0.260	0.322	0.492	2.146
+2	New York	Nassau	2017	0.351	0.772	0.564	0.342	0.703	4.263
+2	New York	New York	2017	0.569	0.756	0.376	0.259	0.460	0.523
+2	New York	Niagara	2017	0.279	0.822	0.432	0.425	0.481	3.453
+2	New York	Oneida	2017	0.235	0.820	0.676	0.398	0.525	6.946
+2	New York	Onondaga	2017	0.458	0.831	0.590	0.353	0.567	3.025
+2	New York	Ontario	2017	0.159	0.855	0.528	0.413	0.555	8.615
+2	New York	Orange	2017	0.520	0.828	0.704	0.362	0.591	3.379
+2	New York	Orleans	2017	0.162	0.858	0.325	0.431	0.443	4.025
+2	New York	Oswego	2017	0.166	0.852	0.565	0.330	0.389	5.619
+2	New York	Otsego	2017	0.149	0.857	0.441	0.337	0.528	6.022
+2	New York	Putnam	2017	0.411	0.825	0.403	0.463	0.633	3.106
+2	New York	Queens	2017	0.336	0.764	0.467	0.318	0.578	2.750
+2	New York	Rensselaer	2017	0.371	0.838	0.478	0.359	0.531	2.802
+2	New York	Richmond	2017	0.508	0.789	0.314	0.431	0.579	1.620
+2	New York	Rockland	2017	0.556	0.811	0.345	0.340	0.618	1.402
+2	New York	Saratoga	2017	0.473	0.836	0.535	0.355	0.566	2.631
+2	New York	Schenectady	2017	0.390	0.820	0.218	0.274	0.528	0.282
+2	New York	Schoharie	2017	0.077	0.887	0.320	0.310	0.525	6.912
+2	New York	Schuyler	2017	0.099	0.872	0.312	0.394	0.545	7.514
+2	New York	Seneca	2017	0.134	0.879	0.328	0.427	0.492	5.743
+2	New York	St. Lawrence	2017	0.117	0.857	0.691	0.508	0.453	15.680
+2	New York	Steuben	2017	0.105	0.862	0.707	0.353	0.445	14.118
+2	New York	Suffolk	2017	0.383	0.787	0.738	0.512	0.683	6.145
+2	New York	Sullivan	2017	0.183	0.815	0.553	0.361	0.512	6.476
+2	New York	Tioga	2017	0.266	0.836	0.343	0.321	0.450	1.596
+2	New York	Tompkins	2017	0.111	0.823	0.457	0.343	0.459	7.105
+2	New York	Ulster	2017	0.219	0.824	0.636	0.455	0.542	7.770
+2	New York	Warren	2017	0.139	0.847	0.435	0.439	0.599	9.113
+2	New York	Washington	2017	0.147	0.863	0.408	0.365	0.484	5.411
+2	New York	Wayne	2017	0.132	0.847	0.403	0.365	0.466	5.586
+2	New York	Westchester	2017	0.591	0.802	0.544	0.310	0.589	1.979
+2	New York	Wyoming	2017	0.122	0.882	0.406	0.353	0.504	6.711
+2	New York	Yates	2017	0.110	0.860	0.322	0.376	0.542	6.465
 3	Delaware	Kent	2017	0.434	0.747	0.566	0.609	0.463	3.832
-3	Delaware	New	2017 Castle	0.609	0.745	0.546	0.437	0.520	2.127
+3	Delaware	New Castle	2017	0.609	0.745	0.546	0.437	0.520	2.127
 3	Delaware	Sussex	2017	0.380	0.682	0.646	0.596	0.434	4.527
-3	District of Columbia	District of Columbia	0.676	0.745	0.402	0.200	0.506	0.445
+3	District of Columbia	District of Columbia	2017	0.676	0.745	0.402	0.200	0.506	0.445
 3	Maryland	Allegany	2017	0.277	0.716	0.421	0.429	0.441	2.728
-3	Maryland	Anne	2017 Arundel	0.675	0.760	0.539	0.446	0.553	2.044
+3	Maryland	Anne Arundel	2017	0.675	0.760	0.539	0.446	0.553	2.044
 3	Maryland	Baltimore	2017	0.594	0.706	0.393	0.156	0.381	-0.192
 3	Maryland	Baltimore	2017	0.494	0.719	0.567	0.363	0.585	2.576
 3	Maryland	Calvert	2017	0.317	0.786	0.440	0.472	0.541	3.734
@@ -168,10 +168,10 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	Maryland	Howard	2017	0.565	0.768	0.399	0.355	0.627	1.652
 3	Maryland	Kent	2017	0.190	0.717	0.428	0.555	0.492	6.265
 3	Maryland	Montgomery	2017	0.590	0.757	0.530	0.344	0.569	1.920
-3	Maryland	Prince	2017 George's	0.704	0.768	0.565	0.368	0.610	1.961
-3	Maryland	Queen	2017 Anne's	0.173	0.769	0.531	0.529	0.581	9.384
+3	Maryland	Prince George's	2017	0.704	0.768	0.565	0.368	0.610	1.961
+3	Maryland	Queen Anne's	2017	0.173	0.769	0.531	0.529	0.581	9.384
 3	Maryland	Somerset	2017	0.124	0.715	0.407	0.609	0.390	8.549
-3	Maryland	St	2017. Mary's	0.303	0.760	0.521	0.547	0.483	4.759
+3	Maryland	St. Mary's	2017	0.303	0.760	0.521	0.547	0.483	4.759
 3	Maryland	Talbot	2017	0.197	0.746	0.422	0.555	0.570	6.858
 3	Maryland	Washington	2017	0.470	0.709	0.549	0.419	0.497	2.505
 3	Maryland	Wicomico	2017	0.281	0.672	0.498	0.505	0.506	4.384
@@ -260,17 +260,17 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	Virginia	Brunswick	2017	0.115	0.640	0.361	0.427	0.532	6.082
 3	Virginia	Buchanan	2017	0.150	0.532	0.402	0.265	0.394	0.180
 3	Virginia	Buckingham	2017	0.170	0.708	0.360	0.391	0.502	3.616
-3	Virginia	Buena	2017 Vista	0.395	0.617	0.095	0.250	0.424	-1.733
+3	Virginia	Buena Vista	2017	0.395	0.617	0.095	0.250	0.424	-1.733
 3	Virginia	Campbell	2017	0.203	0.580	0.451	0.340	0.652	4.431
 3	Virginia	Caroline	2017	0.131	0.765	0.474	0.487	0.503	9.244
 3	Virginia	Carroll	2017	0.140	0.456	0.396	0.312	0.504	1.941
-3	Virginia	Charles	2017 City	0.101	0.839	0.329	0.520	0.524	10.148
+3	Virginia	Charles City	2017	0.101	0.839	0.329	0.520	0.524	10.148
 3	Virginia	Charlotte	2017	0.079	0.585	0.341	0.362	0.593	6.928
 3	Virginia	Charlottesville	2017	0.515	0.699	0.164	0.026	0.539	-1.437
 3	Virginia	Chesapeake	2017	0.714	0.688	0.398	0.481	0.544	1.398
 3	Virginia	Chesterfield	2017	0.626	0.728	0.510	0.407	0.581	1.964
 3	Virginia	Clarke	2017	0.106	0.778	0.320	0.389	0.646	8.111
-3	Virginia	Colonial	2017 Heights	0.655	0.703	0.158	0.169	0.593	-0.455
+3	Virginia	Colonial Heights	2017	0.655	0.703	0.158	0.169	0.593	-0.455
 3	Virginia	Covington	2017	0.309	0.597	0.010	0.207	0.590	-2.296
 3	Virginia	Craig	2017	0.159	0.542	0.258	0.502	0.555	3.492
 3	Virginia	Culpeper	2017	0.282	0.777	0.372	0.393	0.656	3.624
@@ -282,7 +282,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	Virginia	Essex	2017	0.216	0.729	0.343	0.508	0.684	5.729
 3	Virginia	Fairfax	2017	0.485	0.779	0.175	0.148	0.842	0.541
 3	Virginia	Fairfax	2017	0.569	0.755	0.474	0.308	0.557	1.529
-3	Virginia	Falls	2017 Church	0.320	0.973	0.152	0.225	0.766	1.369
+3	Virginia	Falls Church	2017	0.320	0.973	0.152	0.225	0.766	1.369
 3	Virginia	Fauquier	2017	0.243	0.780	0.546	0.436	0.678	6.738
 3	Virginia	Floyd	2017	0.128	0.447	0.336	0.285	0.552	0.985
 3	Virginia	Fluvanna	2017	0.158	0.749	0.397	0.359	0.511	4.382
@@ -305,11 +305,11 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	Virginia	Henry	2017	0.370	0.485	0.369	0.325	0.452	0.421
 3	Virginia	Highland	2017	0.113	0.623	0.266	0.507	0.695	8.343
 3	Virginia	Hopewell	2017	0.561	0.686	0.136	0.240	0.462	-0.813
-3	Virginia	Isle	2017 of Wight	0.348	0.710	0.390	0.487	0.585	3.149
-3	Virginia	James	2017 City	0.519	0.706	0.327	0.546	0.539	1.888
-3	Virginia	King	2017 and Queen	0.107	0.738	0.306	0.551	0.569	9.638
-3	Virginia	King	2017 George	0.252	0.774	0.418	0.478	0.464	3.861
-3	Virginia	King	2017 William	0.105	0.764	0.397	0.541	0.648	13.526
+3	Virginia	Isle of Wight	2017	0.348	0.710	0.390	0.487	0.585	3.149
+3	Virginia	James City	2017	0.519	0.706	0.327	0.546	0.539	1.888
+3	Virginia	King and Queen	2017	0.107	0.738	0.306	0.551	0.569	9.638
+3	Virginia	King George	2017	0.252	0.774	0.418	0.478	0.464	3.861
+3	Virginia	King William	2017	0.105	0.764	0.397	0.541	0.648	13.526
 3	Virginia	Lancaster	2017	0.301	0.719	0.322	0.597	0.711	4.793
 3	Virginia	Lee	2017	0.141	0.339	0.370	0.338	0.418	-0.164
 3	Virginia	Lexington	2017	0.240	0.621	0.067	0.078	0.681	-2.798
@@ -319,15 +319,15 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	Virginia	Lynchburg	2017	0.507	0.693	0.227	0.134	0.436	-1.017
 3	Virginia	Madison	2017	0.136	0.571	0.350	0.451	0.657	6.658
 3	Virginia	Manassas	2017	0.435	0.749	0.236	0.115	0.712	0.139
-3	Virginia	Manassas	2017 Park	0.395	0.777	0.147	0.108	0.584	-1.061
+3	Virginia	Manassas Park	2017	0.395	0.777	0.147	0.108	0.584	-1.061
 3	Virginia	Martinsville	2017	0.460	0.505	0.055	0.160	0.519	-2.032
 3	Virginia	Mathews	2017	0.232	0.698	0.264	0.735	0.702	6.852
 3	Virginia	Mecklenburg	2017	0.116	0.608	0.410	0.411	0.597	7.637
 3	Virginia	Middlesex	2017	0.253	0.727	0.317	0.631	0.632	5.394
 3	Virginia	Montgomery	2017	0.288	0.472	0.443	0.390	0.487	1.966
 3	Virginia	Nelson	2017	0.150	0.492	0.417	0.375	0.485	3.184
-3	Virginia	New	2017 Kent	0.164	0.751	0.422	0.499	0.622	8.082
-3	Virginia	Newport	2017 News	0.558	0.708	0.311	0.556	0.461	1.445
+3	Virginia	New Kent	2017	0.164	0.751	0.422	0.499	0.622	8.082
+3	Virginia	Newport News	2017	0.558	0.708	0.311	0.556	0.461	1.445
 3	Virginia	Norfolk	2017	0.523	0.725	0.294	0.386	0.433	0.587
 3	Virginia	Northampton	2017	0.209	0.693	0.335	0.673	0.561	6.402
 3	Virginia	Northumberland	2017	0.214	0.711	0.355	0.557	0.612	5.744
@@ -341,9 +341,9 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	Virginia	Poquoson	2017	0.253	0.742	0.165	0.596	0.527	2.687
 3	Virginia	Portsmouth	2017	0.668	0.719	0.238	0.271	0.487	-0.036
 3	Virginia	Powhatan	2017	0.140	0.761	0.390	0.461	0.650	8.661
-3	Virginia	Prince	2017 Edward	0.109	0.642	0.363	0.391	0.562	6.191
-3	Virginia	Prince	2017 George	0.319	0.700	0.445	0.554	0.482	3.739
-3	Virginia	Prince	2017 William	0.600	0.789	0.472	0.345	0.597	1.781
+3	Virginia	Prince Edward	2017	0.109	0.642	0.363	0.391	0.562	6.191
+3	Virginia	Prince George	2017	0.319	0.700	0.445	0.554	0.482	3.739
+3	Virginia	Prince William	2017	0.600	0.789	0.472	0.345	0.597	1.781
 3	Virginia	Pulaski	2017	0.189	0.451	0.369	0.401	0.518	2.308
 3	Virginia	Radford	2017	0.331	0.516	0.133	0.266	0.334	-2.477
 3	Virginia	Rappahannock	2017	0.132	0.656	0.346	0.439	0.561	5.738
@@ -366,7 +366,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	Virginia	Surry	2017	0.242	0.726	0.305	0.504	0.494	3.091
 3	Virginia	Sussex	2017	0.110	0.648	0.355	0.476	0.496	6.708
 3	Virginia	Tazewell	2017	0.164	0.388	0.409	0.324	0.457	1.061
-3	Virginia	Virginia	2017 Beach	0.468	0.687	0.377	0.520	0.509	2.070
+3	Virginia	Virginia Beach	2017	0.468	0.687	0.377	0.520	0.509	2.070
 3	Virginia	Warren	2017	0.363	0.771	0.333	0.354	0.577	1.818
 3	Virginia	Washington	2017	0.277	0.290	0.443	0.422	0.475	1.589
 3	Virginia	Waynesboro	2017	0.456	0.722	0.133	0.175	0.514	-1.059
@@ -376,61 +376,61 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	Virginia	Wise	2017	0.161	0.426	0.419	0.351	0.415	1.377
 3	Virginia	Wythe	2017	0.153	0.404	0.375	0.431	0.580	3.959
 3	Virginia	York	2017	0.590	0.727	0.326	0.679	0.595	2.428
-3	West Virginia	Barbour	0.090	0.708	0.327	0.293	0.445	1.920
-3	West Virginia	Berkeley	0.482	0.685	0.349	0.353	0.431	0.683
-3	West Virginia	Boone	0.127	0.689	0.276	0.276	0.436	-0.306
-3	West Virginia	Braxton	0.075	0.691	0.337	0.435	0.442	7.018
-3	West Virginia	Brooke	0.373	0.727	0.251	0.235	0.380	-0.757
-3	West Virginia	Cabell	0.243	0.699	0.295	0.323	0.449	0.666
-3	West Virginia	Calhoun	0.135	0.676	0.267	0.305	0.370	-0.997
-3	West Virginia	Clay	0.119	0.643	0.292	0.345	0.301	-1.175
-3	West Virginia	Doddridge	0.091	0.718	0.206	0.302	0.438	-1.444
-3	West Virginia	Fayette	0.112	0.624	0.461	0.380	0.551	7.788
-3	West Virginia	Gilmer	0.077	0.707	0.222	0.337	0.364	-2.020
-3	West Virginia	Grant	0.126	0.666	0.326	0.403	0.539	4.617
-3	West Virginia	Greenbrier	0.102	0.297	0.394	0.402	0.554	4.141
-3	West Virginia	Hampshire	0.105	0.607	0.417	0.364	0.373	3.285
-3	West Virginia	Hancock	0.354	0.700	0.168	0.259	0.359	-1.444
-3	West Virginia	Hardy	0.153	0.591	0.384	0.384	0.420	2.512
-3	West Virginia	Harrison	0.206	0.735	0.417	0.251	0.544	2.587
-3	West Virginia	Jackson	0.150	0.710	0.365	0.272	0.439	1.434
-3	West Virginia	Jefferson	0.332	0.732	0.401	0.339	0.449	1.550
-3	West Virginia	Kanawha	0.224	0.710	0.475	0.260	0.519	2.846
-3	West Virginia	Lewis	0.111	0.711	0.282	0.354	0.443	1.852
-3	West Virginia	Lincoln	0.145	0.650	0.316	0.256	0.322	-1.700
-3	West Virginia	Logan	0.120	0.679	0.373	0.236	0.363	-0.286
-3	West Virginia	Marion	0.222	0.723	0.351	0.280	0.506	1.533
-3	West Virginia	Marshall	0.206	0.723	0.358	0.261	0.412	0.629
-3	West Virginia	Mason	0.181	0.705	0.360	0.316	0.368	0.913
-3	West Virginia	McDowell	0.224	0.618	0.330	0.286	0.335	-0.630
-3	West Virginia	Mercer	0.144	0.510	0.345	0.282	0.458	0.153
-3	West Virginia	Mineral	0.153	0.681	0.350	0.369	0.377	1.715
-3	West Virginia	Mingo	0.143	0.673	0.371	0.276	0.296	-0.547
-3	West Virginia	Monongalia	0.399	0.725	0.385	0.289	0.404	0.646
-3	West Virginia	Monroe	0.086	0.504	0.317	0.347	0.557	3.462
-3	West Virginia	Morgan	0.105	0.691	0.270	0.340	0.362	-0.412
-3	West Virginia	Nicholas	0.112	0.563	0.357	0.391	0.407	2.448
-3	West Virginia	Ohio	0.394	0.732	0.199	0.172	0.569	-0.501
-3	West Virginia	Pendleton	0.177	0.591	0.332	0.472	0.463	3.080
-3	West Virginia	Pleasants	0.154	0.769	0.273	0.267	0.359	-0.908
-3	West Virginia	Pocahontas	0.108	0.574	0.309	0.554	0.588	8.469
-3	West Virginia	Preston	0.129	0.718	0.460	0.321	0.529	5.995
-3	West Virginia	Putnam	0.274	0.718	0.413	0.313	0.573	2.600
-3	West Virginia	Raleigh	0.174	0.615	0.408	0.334	0.530	3.242
-3	West Virginia	Randolph	0.103	0.593	0.387	0.433	0.519	6.881
-3	West Virginia	Ritchie	0.097	0.737	0.246	0.293	0.381	-1.430
-3	West Virginia	Roane	0.107	0.698	0.289	0.351	0.390	0.897
-3	West Virginia	Summers	0.077	0.522	0.230	0.422	0.482	1.549
-3	West Virginia	Taylor	0.107	0.709	0.198	0.317	0.530	0.510
-3	West Virginia	Tucker	0.066	0.711	0.320	0.476	0.486	10.510
-3	West Virginia	Tyler	0.106	0.761	0.223	0.309	0.421	-0.537
-3	West Virginia	Upshur	0.106	0.696	0.355	0.313	0.546	4.595
-3	West Virginia	Wayne	0.169	0.683	0.395	0.350	0.365	1.849
-3	West Virginia	Webster	0.137	0.565	0.249	0.418	0.222	-2.231
-3	West Virginia	Wetzel	0.147	0.718	0.267	0.291	0.397	-0.514
-3	West Virginia	Wirt	0.116	0.700	0.240	0.274	0.296	-3.493
-3	West Virginia	Wood	0.256	0.733	0.340	0.251	0.477	0.760
-3	West Virginia	Wyoming	0.217	0.638	0.317	0.309	0.369	-0.151
+3	West Virginia	Barbour	2017	0.090	0.708	0.327	0.293	0.445	1.920
+3	West Virginia	Berkeley	2017	0.482	0.685	0.349	0.353	0.431	0.683
+3	West Virginia	Boone	2017	0.127	0.689	0.276	0.276	0.436	-0.306
+3	West Virginia	Braxton	2017	0.075	0.691	0.337	0.435	0.442	7.018
+3	West Virginia	Brooke	2017	0.373	0.727	0.251	0.235	0.380	-0.757
+3	West Virginia	Cabell	2017	0.243	0.699	0.295	0.323	0.449	0.666
+3	West Virginia	Calhoun	2017	0.135	0.676	0.267	0.305	0.370	-0.997
+3	West Virginia	Clay	2017	0.119	0.643	0.292	0.345	0.301	-1.175
+3	West Virginia	Doddridge	2017	0.091	0.718	0.206	0.302	0.438	-1.444
+3	West Virginia	Fayette	2017	0.112	0.624	0.461	0.380	0.551	7.788
+3	West Virginia	Gilmer	2017	0.077	0.707	0.222	0.337	0.364	-2.020
+3	West Virginia	Grant	2017	0.126	0.666	0.326	0.403	0.539	4.617
+3	West Virginia	Greenbrier	2017	0.102	0.297	0.394	0.402	0.554	4.141
+3	West Virginia	Hampshire	2017	0.105	0.607	0.417	0.364	0.373	3.285
+3	West Virginia	Hancock	2017	0.354	0.700	0.168	0.259	0.359	-1.444
+3	West Virginia	Hardy	2017	0.153	0.591	0.384	0.384	0.420	2.512
+3	West Virginia	Harrison	2017	0.206	0.735	0.417	0.251	0.544	2.587
+3	West Virginia	Jackson	2017	0.150	0.710	0.365	0.272	0.439	1.434
+3	West Virginia	Jefferson	2017	0.332	0.732	0.401	0.339	0.449	1.550
+3	West Virginia	Kanawha	2017	0.224	0.710	0.475	0.260	0.519	2.846
+3	West Virginia	Lewis	2017	0.111	0.711	0.282	0.354	0.443	1.852
+3	West Virginia	Lincoln	2017	0.145	0.650	0.316	0.256	0.322	-1.700
+3	West Virginia	Logan	2017	0.120	0.679	0.373	0.236	0.363	-0.286
+3	West Virginia	Marion	2017	0.222	0.723	0.351	0.280	0.506	1.533
+3	West Virginia	Marshall	2017	0.206	0.723	0.358	0.261	0.412	0.629
+3	West Virginia	Mason	2017	0.181	0.705	0.360	0.316	0.368	0.913
+3	West Virginia	McDowell	2017	0.224	0.618	0.330	0.286	0.335	-0.630
+3	West Virginia	Mercer	2017	0.144	0.510	0.345	0.282	0.458	0.153
+3	West Virginia	Mineral	2017	0.153	0.681	0.350	0.369	0.377	1.715
+3	West Virginia	Mingo	2017	0.143	0.673	0.371	0.276	0.296	-0.547
+3	West Virginia	Monongalia	2017	0.399	0.725	0.385	0.289	0.404	0.646
+3	West Virginia	Monroe	2017	0.086	0.504	0.317	0.347	0.557	3.462
+3	West Virginia	Morgan	2017	0.105	0.691	0.270	0.340	0.362	-0.412
+3	West Virginia	Nicholas	2017	0.112	0.563	0.357	0.391	0.407	2.448
+3	West Virginia	Ohio	2017	0.394	0.732	0.199	0.172	0.569	-0.501
+3	West Virginia	Pendleton	2017	0.177	0.591	0.332	0.472	0.463	3.080
+3	West Virginia	Pleasants	2017	0.154	0.769	0.273	0.267	0.359	-0.908
+3	West Virginia	Pocahontas	2017	0.108	0.574	0.309	0.554	0.588	8.469
+3	West Virginia	Preston	2017	0.129	0.718	0.460	0.321	0.529	5.995
+3	West Virginia	Putnam	2017	0.274	0.718	0.413	0.313	0.573	2.600
+3	West Virginia	Raleigh	2017	0.174	0.615	0.408	0.334	0.530	3.242
+3	West Virginia	Randolph	2017	0.103	0.593	0.387	0.433	0.519	6.881
+3	West Virginia	Ritchie	2017	0.097	0.737	0.246	0.293	0.381	-1.430
+3	West Virginia	Roane	2017	0.107	0.698	0.289	0.351	0.390	0.897
+3	West Virginia	Summers	2017	0.077	0.522	0.230	0.422	0.482	1.549
+3	West Virginia	Taylor	2017	0.107	0.709	0.198	0.317	0.530	0.510
+3	West Virginia	Tucker	2017	0.066	0.711	0.320	0.476	0.486	10.510
+3	West Virginia	Tyler	2017	0.106	0.761	0.223	0.309	0.421	-0.537
+3	West Virginia	Upshur	2017	0.106	0.696	0.355	0.313	0.546	4.595
+3	West Virginia	Wayne	2017	0.169	0.683	0.395	0.350	0.365	1.849
+3	West Virginia	Webster	2017	0.137	0.565	0.249	0.418	0.222	-2.231
+3	West Virginia	Wetzel	2017	0.147	0.718	0.267	0.291	0.397	-0.514
+3	West Virginia	Wirt	2017	0.116	0.700	0.240	0.274	0.296	-3.493
+3	West Virginia	Wood	2017	0.256	0.733	0.340	0.251	0.477	0.760
+3	West Virginia	Wyoming	2017	0.217	0.638	0.317	0.309	0.369	-0.151
 4	Alabama	Autauga	2017	0.238	0.425	0.423	0.412	0.477	2.118
 4	Alabama	Baldwin	2017	0.418	0.376	0.772	0.490	0.446	3.624
 4	Alabama	Barbour	2017	0.093	0.461	0.372	0.449	0.337	2.351
@@ -489,7 +489,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 4	Alabama	Randolph	2017	0.119	0.379	0.360	0.319	0.388	-0.961
 4	Alabama	Russell	2017	0.196	0.448	0.391	0.387	0.389	1.050
 4	Alabama	Shelby	2017	0.531	0.351	0.597	0.376	0.495	1.582
-4	Alabama	St	2017. Clair	0.566	0.293	0.532	0.337	0.456	0.770
+4	Alabama	St. Clair	2017	0.566	0.293	0.532	0.337	0.456	0.770
 4	Alabama	Sumter	2017	0.275	0.502	0.234	0.434	0.270	-1.012
 4	Alabama	Talladega	2017	0.303	0.285	0.485	0.390	0.358	0.793
 4	Alabama	Tallapoosa	2017	0.336	0.320	0.404	0.400	0.451	0.794
@@ -527,7 +527,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 4	Florida	Highlands	2017	0.245	0.495	0.516	0.357	0.383	2.037
 4	Florida	Hillsborough	2017	0.604	0.564	0.867	0.298	0.445	2.455
 4	Florida	Holmes	2017	0.104	0.366	0.284	0.455	0.434	0.887
-4	Florida	Indian	2017 River	0.543	0.432	0.462	0.390	0.402	0.760
+4	Florida	Indian River	2017	0.543	0.432	0.462	0.390	0.402	0.760
 4	Florida	Jackson	2017	0.143	0.247	0.433	0.430	0.469	2.648
 4	Florida	Jefferson	2017	0.087	0.486	0.316	0.439	0.555	5.686
 4	Florida	Lafayette	2017	0.145	0.449	0.144	0.488	0.383	-1.490
@@ -540,23 +540,23 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 4	Florida	Manatee	2017	0.442	0.564	0.423	0.307	0.443	0.716
 4	Florida	Marion	2017	0.329	0.354	0.642	0.445	0.411	2.929
 4	Florida	Martin	2017	0.456	0.540	0.495	0.395	0.476	1.679
-4	Florida	Miami	2017-Dade	0.623	0.392	0.831	0.536	0.456	2.926
+4	Florida	Miami-Dade	2017	0.623	0.392	0.831	0.536	0.456	2.926
 4	Florida	Monroe	2017	0.156	0.195	0.595	0.628	0.489	8.239
 4	Florida	Nassau	2017	0.252	0.541	0.464	0.384	0.468	2.551
 4	Florida	Okaloosa	2017	0.318	0.302	0.595	0.474	0.482	3.146
 4	Florida	Okeechobee	2017	0.153	0.565	0.390	0.379	0.263	0.355
 4	Florida	Orange	2017	0.716	0.476	0.820	0.278	0.462	1.751
 4	Florida	Osceola	2017	0.441	0.541	0.652	0.335	0.404	2.032
-4	Florida	Palm	2017 Beach	0.494	0.592	0.817	0.407	0.470	3.428
+4	Florida	Palm Beach	2017	0.494	0.592	0.817	0.407	0.470	3.428
 4	Florida	Pasco	2017	0.380	0.513	0.588	0.367	0.378	1.908
 4	Florida	Pinellas	2017	0.436	0.546	0.598	0.391	0.436	2.200
 4	Florida	Polk	2017	0.514	0.416	0.834	0.329	0.429	2.513
 4	Florida	Putnam	2017	0.160	0.429	0.495	0.404	0.335	2.487
-4	Florida	Santa	2017 Rosa	0.470	0.381	0.557	0.469	0.440	1.875
+4	Florida	Santa Rosa	2017	0.470	0.381	0.557	0.469	0.440	1.875
 4	Florida	Sarasota	2017	0.428	0.563	0.476	0.285	0.519	1.286
 4	Florida	Seminole	2017	0.747	0.452	0.503	0.290	0.524	0.717
-4	Florida	St	2017. Johns	0.388	0.573	0.533	0.466	0.448	2.627
-4	Florida	St	2017. Lucie	0.532	0.503	0.449	0.311	0.398	0.464
+4	Florida	St. Johns	2017	0.388	0.573	0.533	0.466	0.448	2.627
+4	Florida	St. Lucie	2017	0.532	0.503	0.449	0.311	0.398	0.464
 4	Florida	Sumter	2017	0.381	0.406	0.427	0.426	0.346	0.713
 4	Florida	Suwannee	2017	0.120	0.427	0.368	0.345	0.446	1.112
 4	Florida	Taylor	2017	0.115	0.512	0.326	0.444	0.398	2.188
@@ -573,7 +573,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 4	Georgia	Banks	2017	0.230	0.627	0.246	0.316	0.411	-0.574
 4	Georgia	Barrow	2017	0.503	0.578	0.251	0.265	0.470	-0.357
 4	Georgia	Bartow	2017	0.583	0.274	0.388	0.387	0.452	0.256
-4	Georgia	Ben	2017 Hill	0.109	0.536	0.217	0.360	0.373	-2.450
+4	Georgia	Ben Hill	2017	0.109	0.536	0.217	0.360	0.373	-2.450
 4	Georgia	Berrien	2017	0.083	0.547	0.269	0.413	0.330	-0.901
 4	Georgia	Bibb	2017	0.531	0.554	0.287	0.253	0.502	-0.133
 4	Georgia	Bleckley	2017	0.100	0.518	0.267	0.456	0.449	2.342
@@ -644,7 +644,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 4	Georgia	Irwin	2017	0.086	0.533	0.207	0.370	0.437	-1.733
 4	Georgia	Jackson	2017	0.489	0.625	0.378	0.303	0.479	0.650
 4	Georgia	Jasper	2017	0.099	0.577	0.318	0.381	0.370	0.889
-4	Georgia	Jeff	2017 Davis	0.084	0.522	0.185	0.352	0.360	-4.915
+4	Georgia	Jeff Davis	2017	0.084	0.522	0.185	0.352	0.360	-4.915
 4	Georgia	Jefferson	2017	0.107	0.562	0.293	0.380	0.441	1.340
 4	Georgia	Jenkins	2017	0.088	0.457	0.117	0.424	0.334	-6.054
 4	Georgia	Johnson	2017	0.133	0.592	0.269	0.392	0.308	-0.904
@@ -876,7 +876,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 4	Mississippi	Jackson	2017	0.427	0.437	0.473	0.599	0.391	2.199
 4	Mississippi	Jasper	2017	0.262	0.547	0.365	0.493	0.343	1.541
 4	Mississippi	Jefferson	2017	0.298	0.511	0.248	0.409	0.248	-1.128
-4	Mississippi	Jefferson	2017 Davis	0.241	0.520	0.286	0.438	0.292	-0.279
+4	Mississippi	Jefferson Davis	2017	0.241	0.520	0.286	0.438	0.292	-0.279
 4	Mississippi	Jones	2017	0.260	0.496	0.415	0.455	0.435	2.216
 4	Mississippi	Kemper	2017	0.310	0.555	0.382	0.403	0.313	0.575
 4	Mississippi	Lafayette	2017	0.220	0.543	0.448	0.479	0.429	3.446
@@ -898,7 +898,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 4	Mississippi	Noxubee	2017	0.263	0.550	0.251	0.488	0.331	0.256
 4	Mississippi	Oktibbeha	2017	0.264	0.565	0.420	0.447	0.363	1.877
 4	Mississippi	Panola	2017	0.191	0.592	0.371	0.419	0.396	2.035
-4	Mississippi	Pearl	2017 River	0.384	0.366	0.427	0.472	0.405	1.202
+4	Mississippi	Pearl River	2017	0.384	0.366	0.427	0.472	0.405	1.202
 4	Mississippi	Perry	2017	0.211	0.412	0.318	0.655	0.307	2.234
 4	Mississippi	Pike	2017	0.237	0.510	0.346	0.439	0.471	1.841
 4	Mississippi	Pontotoc	2017	0.234	0.603	0.315	0.387	0.445	1.136
@@ -926,152 +926,152 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 4	Mississippi	Winston	2017	0.384	0.543	0.313	0.449	0.435	0.879
 4	Mississippi	Yalobusha	2017	0.095	0.610	0.260	0.460	0.360	1.472
 4	Mississippi	Yazoo	2017	0.241	0.600	0.333	0.490	0.296	1.140
-4	North Carolina	Alamance	0.376	0.562	0.435	0.336	0.471	1.258
-4	North Carolina	Alexander	0.200	0.517	0.335	0.345	0.466	0.856
-4	North Carolina	Alleghany	0.123	0.375	0.341	0.362	0.384	-0.577
-4	North Carolina	Anson	0.109	0.485	0.356	0.381	0.385	1.165
-4	North Carolina	Ashe	0.120	0.257	0.378	0.354	0.480	0.654
-4	North Carolina	Avery	0.174	0.259	0.393	0.434	0.481	1.810
-4	North Carolina	Beaufort	0.381	0.597	0.459	0.519	0.513	2.897
-4	North Carolina	Bertie	0.156	0.624	0.382	0.508	0.545	6.159
-4	North Carolina	Bladen	0.132	0.471	0.482	0.481	0.367	4.991
-4	North Carolina	Brunswick	0.356	0.541	0.589	0.491	0.418	3.199
-4	North Carolina	Buncombe	0.506	0.251	0.502	0.332	0.551	0.964
-4	North Carolina	Burke	0.286	0.253	0.444	0.441	0.383	0.953
-4	North Carolina	Cabarrus	0.649	0.655	0.363	0.322	0.508	0.633
-4	North Carolina	Caldwell	0.284	0.384	0.355	0.405	0.466	0.841
-4	North Carolina	Camden	0.226	0.630	0.335	0.556	0.437	3.310
-4	North Carolina	Carteret	0.307	0.625	0.440	0.697	0.481	4.747
-4	North Carolina	Caswell	0.127	0.570	0.380	0.394	0.347	1.840
-4	North Carolina	Catawba	0.506	0.458	0.519	0.370	0.509	1.484
-4	North Carolina	Chatham	0.226	0.526	0.535	0.396	0.498	4.002
-4	North Carolina	Cherokee	0.227	0.228	0.367	0.456	0.540	1.702
-4	North Carolina	Chowan	0.143	0.594	0.287	0.582	0.463	4.907
-4	North Carolina	Clay	0.169	0.212	0.325	0.522	0.556	2.681
-4	North Carolina	Cleveland	0.291	0.432	0.429	0.369	0.491	1.542
-4	North Carolina	Columbus	0.124	0.447	0.546	0.488	0.529	9.187
-4	North Carolina	Craven	0.383	0.577	0.512	0.616	0.436	3.427
-4	North Carolina	Cumberland	0.585	0.523	0.471	0.389	0.443	1.037
-4	North Carolina	Currituck	0.201	0.637	0.397	0.614	0.421	5.123
-4	North Carolina	Dare	0.389	0.546	0.444	0.742	0.553	4.219
-4	North Carolina	Davidson	0.317	0.599	0.457	0.366	0.466	1.989
-4	North Carolina	Davie	0.191	0.609	0.387	0.353	0.536	2.935
-4	North Carolina	Duplin	0.105	0.550	0.520	0.383	0.339	5.170
-4	North Carolina	Durham	0.585	0.540	0.394	0.328	0.451	0.483
-4	North Carolina	Edgecombe	0.150	0.539	0.375	0.438	0.425	2.980
-4	North Carolina	Forsyth	0.553	0.566	0.396	0.250	0.456	0.236
-4	North Carolina	Franklin	0.210	0.549	0.493	0.448	0.443	3.983
-4	North Carolina	Gaston	0.686	0.550	0.534	0.316	0.455	0.937
-4	North Carolina	Gates	0.129	0.631	0.318	0.532	0.486	5.737
-4	North Carolina	Graham	0.179	0.238	0.328	0.513	0.426	1.176
-4	North Carolina	Granville	0.217	0.553	0.416	0.421	0.443	2.599
-4	North Carolina	Greene	0.222	0.538	0.332	0.435	0.402	1.277
-4	North Carolina	Guilford	0.570	0.572	0.514	0.360	0.470	1.320
-4	North Carolina	Halifax	0.129	0.562	0.483	0.439	0.396	5.473
-4	North Carolina	Harnett	0.254	0.551	0.443	0.418	0.418	2.292
-4	North Carolina	Haywood	0.202	0.234	0.440	0.446	0.559	2.978
-4	North Carolina	Henderson	0.474	0.250	0.403	0.301	0.520	0.179
-4	North Carolina	Hertford	0.153	0.672	0.361	0.426	0.443	3.606
-4	North Carolina	Hoke	0.201	0.528	0.370	0.440	0.389	1.774
-4	North Carolina	Hyde	0.441	0.497	0.305	0.662	0.587	2.472
-4	North Carolina	Iredell	0.582	0.609	0.471	0.325	0.500	1.109
-4	North Carolina	Jackson	0.238	0.288	0.457	0.414	0.520	2.304
-4	North Carolina	Johnston	0.406	0.536	0.573	0.412	0.491	2.562
-4	North Carolina	Jones	0.191	0.606	0.341	0.605	0.365	3.757
-4	North Carolina	Lee	0.432	0.501	0.365	0.349	0.476	0.617
-4	North Carolina	Lenoir	0.184	0.530	0.363	0.427	0.465	2.497
-4	North Carolina	Lincoln	0.463	0.481	0.374	0.406	0.470	0.863
-4	North Carolina	Macon	0.309	0.231	0.407	0.472	0.591	2.070
-4	North Carolina	Madison	0.189	0.325	0.405	0.330	0.523	1.285
-4	North Carolina	Martin	0.154	0.568	0.434	0.504	0.478	5.856
-4	North Carolina	McDowell	0.262	0.280	0.358	0.445	0.360	0.140
-4	North Carolina	Mecklenburg	0.693	0.594	0.661	0.231	0.449	1.162
-4	North Carolina	Mitchell	0.148	0.226	0.306	0.378	0.522	-0.034
-4	North Carolina	Montgomery	0.134	0.522	0.420	0.379	0.355	2.021
-4	North Carolina	Moore	0.199	0.503	0.501	0.318	0.483	2.856
-4	North Carolina	Nash	0.222	0.551	0.501	0.433	0.474	3.977
-4	North Carolina	New Hanover	0.588	0.553	0.389	0.537	0.531	1.619
-4	North Carolina	Northampton	0.117	0.597	0.488	0.430	0.389	6.156
-4	North Carolina	Onslow	0.390	0.632	0.459	0.555	0.364	2.395
-4	North Carolina	Orange	0.184	0.560	0.365	0.442	0.442	2.646
-4	North Carolina	Pamlico	0.290	0.684	0.308	0.631	0.502	3.587
-4	North Carolina	Pasquotank	0.289	0.636	0.309	0.529	0.448	2.216
-4	North Carolina	Pender	0.126	0.567	0.471	0.499	0.494	8.065
-4	North Carolina	Perquimans	0.156	0.625	0.315	0.586	0.388	4.270
-4	North Carolina	Person	0.132	0.561	0.360	0.385	0.514	3.601
-4	North Carolina	Pitt	0.362	0.549	0.514	0.433	0.496	2.644
-4	North Carolina	Polk	0.191	0.458	0.370	0.284	0.556	1.232
-4	North Carolina	Randolph	0.187	0.564	0.539	0.391	0.435	4.376
-4	North Carolina	Richmond	0.195	0.484	0.419	0.366	0.354	0.995
-4	North Carolina	Robeson	0.176	0.497	0.561	0.445	0.429	5.291
-4	North Carolina	Rockingham	0.224	0.515	0.448	0.383	0.438	2.268
-4	North Carolina	Rowan	0.326	0.616	0.436	0.351	0.457	1.655
-4	North Carolina	Rutherford	0.195	0.314	0.493	0.376	0.453	2.253
-4	North Carolina	Sampson	0.126	0.555	0.489	0.401	0.417	5.259
-4	North Carolina	Scotland	0.172	0.529	0.398	0.405	0.386	1.992
-4	North Carolina	Stanly	0.204	0.596	0.380	0.329	0.545	2.394
-4	North Carolina	Stokes	0.148	0.473	0.415	0.296	0.485	1.761
-4	North Carolina	Surry	0.217	0.531	0.399	0.335	0.447	1.370
-4	North Carolina	Swain	0.195	0.209	0.417	0.542	0.544	3.698
-4	North Carolina	Transylvania	0.221	0.279	0.397	0.431	0.609	2.670
-4	North Carolina	Tyrrell	0.565	0.574	0.247	0.701	0.417	1.374
-4	North Carolina	Union	0.445	0.636	0.484	0.347	0.518	1.787
-4	North Carolina	Vance	0.141	0.513	0.336	0.411	0.490	2.707
-4	North Carolina	Wake	0.714	0.540	0.736	0.326	0.509	1.827
-4	North Carolina	Warren	0.136	0.572	0.407	0.432	0.347	2.952
-4	North Carolina	Washington	0.288	0.544	0.268	0.604	0.399	1.830
-4	North Carolina	Watauga	0.165	0.256	0.385	0.353	0.450	0.199
-4	North Carolina	Wayne	0.206	0.530	0.473	0.385	0.432	2.847
-4	North Carolina	Wilkes	0.150	0.483	0.379	0.341	0.401	0.803
-4	North Carolina	Wilson	0.308	0.540	0.380	0.451	0.484	1.978
-4	North Carolina	Yadkin	0.112	0.605	0.404	0.370	0.469	4.592
-4	North Carolina	Yancey	0.159	0.225	0.281	0.380	0.499	-0.685
-4	South Carolina	Abbeville	0.153	0.568	0.335	0.400	0.464	2.332
-4	South Carolina	Aiken	0.371	0.522	0.509	0.403	0.491	2.254
-4	South Carolina	Allendale	0.192	0.469	0.182	0.390	0.268	-2.910
-4	South Carolina	Anderson	0.536	0.567	0.506	0.441	0.506	1.847
-4	South Carolina	Bamberg	0.115	0.516	0.275	0.370	0.333	-1.619
-4	South Carolina	Barnwell	0.153	0.514	0.278	0.487	0.412	1.693
-4	South Carolina	Beaufort	0.432	0.536	0.372	0.502	0.493	1.691
-4	South Carolina	Berkeley	0.445	0.588	0.565	0.656	0.428	3.477
-4	South Carolina	Calhoun	0.142	0.553	0.338	0.361	0.511	2.412
-4	South Carolina	Charleston	0.586	0.574	0.553	0.611	0.508	2.643
-4	South Carolina	Cherokee	0.295	0.534	0.376	0.260	0.355	-0.436
-4	South Carolina	Chester	0.166	0.570	0.365	0.342	0.370	0.671
-4	South Carolina	Chesterfield	0.148	0.459	0.373	0.383	0.343	0.449
-4	South Carolina	Clarendon	0.142	0.588	0.401	0.457	0.380	3.698
-4	South Carolina	Colleton	0.150	0.530	0.419	0.488	0.496	5.458
-4	South Carolina	Darlington	0.172	0.428	0.402	0.400	0.409	1.665
-4	South Carolina	Dillon	0.098	0.498	0.341	0.399	0.338	0.521
-4	South Carolina	Dorchester	0.458	0.575	0.409	0.489	0.489	1.807
-4	South Carolina	Edgefield	0.157	0.549	0.282	0.510	0.371	1.778
-4	South Carolina	Fairfield	0.109	0.504	0.376	0.357	0.469	2.790
-4	South Carolina	Florence	0.323	0.500	0.466	0.456	0.501	2.626
-4	South Carolina	Georgetown	0.157	0.531	0.458	0.524	0.432	5.631
-4	South Carolina	Greenville	0.785	0.506	0.575	0.315	0.513	1.046
-4	South Carolina	Greenwood	0.226	0.496	0.325	0.370	0.504	1.163
-4	South Carolina	Hampton	0.105	0.522	0.287	0.420	0.411	1.189
-4	South Carolina	Horry	0.409	0.470	0.531	0.495	0.433	2.330
-4	South Carolina	Jasper	0.159	0.489	0.331	0.427	0.526	2.865
-4	South Carolina	Kershaw	0.207	0.454	0.434	0.341	0.526	2.331
-4	South Carolina	Lancaster	0.271	0.526	0.361	0.344	0.436	0.703
-4	South Carolina	Laurens	0.200	0.544	0.398	0.333	0.398	1.034
-4	South Carolina	Lee	0.105	0.514	0.298	0.412	0.322	-0.455
-4	South Carolina	Lexington	0.615	0.574	0.476	0.346	0.561	1.291
-4	South Carolina	Marion	0.097	0.452	0.354	0.498	0.444	5.097
-4	South Carolina	Marlboro	0.102	0.459	0.296	0.419	0.295	-1.373
-4	South Carolina	McCormick	0.169	0.516	0.278	0.551	0.343	1.682
-4	South Carolina	Newberry	0.172	0.543	0.326	0.437	0.549	3.290
-4	South Carolina	Oconee	0.360	0.229	0.411	0.449	0.459	0.919
-4	South Carolina	Orangeburg	0.152	0.577	0.511	0.404	0.456	5.443
-4	South Carolina	Pickens	0.420	0.475	0.427	0.380	0.491	1.218
-4	South Carolina	Richland	0.694	0.503	0.502	0.360	0.515	1.066
-4	South Carolina	Saluda	0.107	0.500	0.286	0.439	0.329	-0.116
-4	South Carolina	Spartanburg	0.747	0.588	0.521	0.302	0.483	0.893
-4	South Carolina	Sumter	0.287	0.533	0.374	0.409	0.486	1.710
-4	South Carolina	Union	0.140	0.571	0.363	0.358	0.353	0.788
-4	South Carolina	Williamsburg	0.103	0.537	0.365	0.512	0.459	6.506
-4	South Carolina	York	0.698	0.589	0.451	0.299	0.457	0.605
+4	North Carolina	Alamance	2017	0.376	0.562	0.435	0.336	0.471	1.258
+4	North Carolina	Alexander	2017	0.200	0.517	0.335	0.345	0.466	0.856
+4	North Carolina	Alleghany	2017	0.123	0.375	0.341	0.362	0.384	-0.577
+4	North Carolina	Anson	2017	0.109	0.485	0.356	0.381	0.385	1.165
+4	North Carolina	Ashe	2017	0.120	0.257	0.378	0.354	0.480	0.654
+4	North Carolina	Avery	2017	0.174	0.259	0.393	0.434	0.481	1.810
+4	North Carolina	Beaufort	2017	0.381	0.597	0.459	0.519	0.513	2.897
+4	North Carolina	Bertie	2017	0.156	0.624	0.382	0.508	0.545	6.159
+4	North Carolina	Bladen	2017	0.132	0.471	0.482	0.481	0.367	4.991
+4	North Carolina	Brunswick	2017	0.356	0.541	0.589	0.491	0.418	3.199
+4	North Carolina	Buncombe	2017	0.506	0.251	0.502	0.332	0.551	0.964
+4	North Carolina	Burke	2017	0.286	0.253	0.444	0.441	0.383	0.953
+4	North Carolina	Cabarrus	2017	0.649	0.655	0.363	0.322	0.508	0.633
+4	North Carolina	Caldwell	2017	0.284	0.384	0.355	0.405	0.466	0.841
+4	North Carolina	Camden	2017	0.226	0.630	0.335	0.556	0.437	3.310
+4	North Carolina	Carteret	2017	0.307	0.625	0.440	0.697	0.481	4.747
+4	North Carolina	Caswell	2017	0.127	0.570	0.380	0.394	0.347	1.840
+4	North Carolina	Catawba	2017	0.506	0.458	0.519	0.370	0.509	1.484
+4	North Carolina	Chatham	2017	0.226	0.526	0.535	0.396	0.498	4.002
+4	North Carolina	Cherokee	2017	0.227	0.228	0.367	0.456	0.540	1.702
+4	North Carolina	Chowan	2017	0.143	0.594	0.287	0.582	0.463	4.907
+4	North Carolina	Clay	2017	0.169	0.212	0.325	0.522	0.556	2.681
+4	North Carolina	Cleveland	2017	0.291	0.432	0.429	0.369	0.491	1.542
+4	North Carolina	Columbus	2017	0.124	0.447	0.546	0.488	0.529	9.187
+4	North Carolina	Craven	2017	0.383	0.577	0.512	0.616	0.436	3.427
+4	North Carolina	Cumberland	2017	0.585	0.523	0.471	0.389	0.443	1.037
+4	North Carolina	Currituck	2017	0.201	0.637	0.397	0.614	0.421	5.123
+4	North Carolina	Dare	2017	0.389	0.546	0.444	0.742	0.553	4.219
+4	North Carolina	Davidson	2017	0.317	0.599	0.457	0.366	0.466	1.989
+4	North Carolina	Davie	2017	0.191	0.609	0.387	0.353	0.536	2.935
+4	North Carolina	Duplin	2017	0.105	0.550	0.520	0.383	0.339	5.170
+4	North Carolina	Durham	2017	0.585	0.540	0.394	0.328	0.451	0.483
+4	North Carolina	Edgecombe	2017	0.150	0.539	0.375	0.438	0.425	2.980
+4	North Carolina	Forsyth	2017	0.553	0.566	0.396	0.250	0.456	0.236
+4	North Carolina	Franklin	2017	0.210	0.549	0.493	0.448	0.443	3.983
+4	North Carolina	Gaston	2017	0.686	0.550	0.534	0.316	0.455	0.937
+4	North Carolina	Gates	2017	0.129	0.631	0.318	0.532	0.486	5.737
+4	North Carolina	Graham	2017	0.179	0.238	0.328	0.513	0.426	1.176
+4	North Carolina	Granville	2017	0.217	0.553	0.416	0.421	0.443	2.599
+4	North Carolina	Greene	2017	0.222	0.538	0.332	0.435	0.402	1.277
+4	North Carolina	Guilford	2017	0.570	0.572	0.514	0.360	0.470	1.320
+4	North Carolina	Halifax	2017	0.129	0.562	0.483	0.439	0.396	5.473
+4	North Carolina	Harnett	2017	0.254	0.551	0.443	0.418	0.418	2.292
+4	North Carolina	Haywood	2017	0.202	0.234	0.440	0.446	0.559	2.978
+4	North Carolina	Henderson	2017	0.474	0.250	0.403	0.301	0.520	0.179
+4	North Carolina	Hertford	2017	0.153	0.672	0.361	0.426	0.443	3.606
+4	North Carolina	Hoke	2017	0.201	0.528	0.370	0.440	0.389	1.774
+4	North Carolina	Hyde	2017	0.441	0.497	0.305	0.662	0.587	2.472
+4	North Carolina	Iredell	2017	0.582	0.609	0.471	0.325	0.500	1.109
+4	North Carolina	Jackson	2017	0.238	0.288	0.457	0.414	0.520	2.304
+4	North Carolina	Johnston	2017	0.406	0.536	0.573	0.412	0.491	2.562
+4	North Carolina	Jones	2017	0.191	0.606	0.341	0.605	0.365	3.757
+4	North Carolina	Lee	2017	0.432	0.501	0.365	0.349	0.476	0.617
+4	North Carolina	Lenoir	2017	0.184	0.530	0.363	0.427	0.465	2.497
+4	North Carolina	Lincoln	2017	0.463	0.481	0.374	0.406	0.470	0.863
+4	North Carolina	Macon	2017	0.309	0.231	0.407	0.472	0.591	2.070
+4	North Carolina	Madison	2017	0.189	0.325	0.405	0.330	0.523	1.285
+4	North Carolina	Martin	2017	0.154	0.568	0.434	0.504	0.478	5.856
+4	North Carolina	McDowell	2017	0.262	0.280	0.358	0.445	0.360	0.140
+4	North Carolina	Mecklenburg	2017	0.693	0.594	0.661	0.231	0.449	1.162
+4	North Carolina	Mitchell	2017	0.148	0.226	0.306	0.378	0.522	-0.034
+4	North Carolina	Montgomery	2017	0.134	0.522	0.420	0.379	0.355	2.021
+4	North Carolina	Moore	2017	0.199	0.503	0.501	0.318	0.483	2.856
+4	North Carolina	Nash	2017	0.222	0.551	0.501	0.433	0.474	3.977
+4	North Carolina	New Hanover	2017	0.588	0.553	0.389	0.537	0.531	1.619
+4	North Carolina	Northampton	2017	0.117	0.597	0.488	0.430	0.389	6.156
+4	North Carolina	Onslow	2017	0.390	0.632	0.459	0.555	0.364	2.395
+4	North Carolina	Orange	2017	0.184	0.560	0.365	0.442	0.442	2.646
+4	North Carolina	Pamlico	2017	0.290	0.684	0.308	0.631	0.502	3.587
+4	North Carolina	Pasquotank	2017	0.289	0.636	0.309	0.529	0.448	2.216
+4	North Carolina	Pender	2017	0.126	0.567	0.471	0.499	0.494	8.065
+4	North Carolina	Perquimans	2017	0.156	0.625	0.315	0.586	0.388	4.270
+4	North Carolina	Person	2017	0.132	0.561	0.360	0.385	0.514	3.601
+4	North Carolina	Pitt	2017	0.362	0.549	0.514	0.433	0.496	2.644
+4	North Carolina	Polk	2017	0.191	0.458	0.370	0.284	0.556	1.232
+4	North Carolina	Randolph	2017	0.187	0.564	0.539	0.391	0.435	4.376
+4	North Carolina	Richmond	2017	0.195	0.484	0.419	0.366	0.354	0.995
+4	North Carolina	Robeson	2017	0.176	0.497	0.561	0.445	0.429	5.291
+4	North Carolina	Rockingham	2017	0.224	0.515	0.448	0.383	0.438	2.268
+4	North Carolina	Rowan	2017	0.326	0.616	0.436	0.351	0.457	1.655
+4	North Carolina	Rutherford	2017	0.195	0.314	0.493	0.376	0.453	2.253
+4	North Carolina	Sampson	2017	0.126	0.555	0.489	0.401	0.417	5.259
+4	North Carolina	Scotland	2017	0.172	0.529	0.398	0.405	0.386	1.992
+4	North Carolina	Stanly	2017	0.204	0.596	0.380	0.329	0.545	2.394
+4	North Carolina	Stokes	2017	0.148	0.473	0.415	0.296	0.485	1.761
+4	North Carolina	Surry	2017	0.217	0.531	0.399	0.335	0.447	1.370
+4	North Carolina	Swain	2017	0.195	0.209	0.417	0.542	0.544	3.698
+4	North Carolina	Transylvania	2017	0.221	0.279	0.397	0.431	0.609	2.670
+4	North Carolina	Tyrrell	2017	0.565	0.574	0.247	0.701	0.417	1.374
+4	North Carolina	Union	2017	0.445	0.636	0.484	0.347	0.518	1.787
+4	North Carolina	Vance	2017	0.141	0.513	0.336	0.411	0.490	2.707
+4	North Carolina	Wake	2017	0.714	0.540	0.736	0.326	0.509	1.827
+4	North Carolina	Warren	2017	0.136	0.572	0.407	0.432	0.347	2.952
+4	North Carolina	Washington	2017	0.288	0.544	0.268	0.604	0.399	1.830
+4	North Carolina	Watauga	2017	0.165	0.256	0.385	0.353	0.450	0.199
+4	North Carolina	Wayne	2017	0.206	0.530	0.473	0.385	0.432	2.847
+4	North Carolina	Wilkes	2017	0.150	0.483	0.379	0.341	0.401	0.803
+4	North Carolina	Wilson	2017	0.308	0.540	0.380	0.451	0.484	1.978
+4	North Carolina	Yadkin	2017	0.112	0.605	0.404	0.370	0.469	4.592
+4	North Carolina	Yancey	2017	0.159	0.225	0.281	0.380	0.499	-0.685
+4	South Carolina	Abbeville	2017	0.153	0.568	0.335	0.400	0.464	2.332
+4	South Carolina	Aiken	2017	0.371	0.522	0.509	0.403	0.491	2.254
+4	South Carolina	Allendale	2017	0.192	0.469	0.182	0.390	0.268	-2.910
+4	South Carolina	Anderson	2017	0.536	0.567	0.506	0.441	0.506	1.847
+4	South Carolina	Bamberg	2017	0.115	0.516	0.275	0.370	0.333	-1.619
+4	South Carolina	Barnwell	2017	0.153	0.514	0.278	0.487	0.412	1.693
+4	South Carolina	Beaufort	2017	0.432	0.536	0.372	0.502	0.493	1.691
+4	South Carolina	Berkeley	2017	0.445	0.588	0.565	0.656	0.428	3.477
+4	South Carolina	Calhoun	2017	0.142	0.553	0.338	0.361	0.511	2.412
+4	South Carolina	Charleston	2017	0.586	0.574	0.553	0.611	0.508	2.643
+4	South Carolina	Cherokee	2017	0.295	0.534	0.376	0.260	0.355	-0.436
+4	South Carolina	Chester	2017	0.166	0.570	0.365	0.342	0.370	0.671
+4	South Carolina	Chesterfield	2017	0.148	0.459	0.373	0.383	0.343	0.449
+4	South Carolina	Clarendon	2017	0.142	0.588	0.401	0.457	0.380	3.698
+4	South Carolina	Colleton	2017	0.150	0.530	0.419	0.488	0.496	5.458
+4	South Carolina	Darlington	2017	0.172	0.428	0.402	0.400	0.409	1.665
+4	South Carolina	Dillon	2017	0.098	0.498	0.341	0.399	0.338	0.521
+4	South Carolina	Dorchester	2017	0.458	0.575	0.409	0.489	0.489	1.807
+4	South Carolina	Edgefield	2017	0.157	0.549	0.282	0.510	0.371	1.778
+4	South Carolina	Fairfield	2017	0.109	0.504	0.376	0.357	0.469	2.790
+4	South Carolina	Florence	2017	0.323	0.500	0.466	0.456	0.501	2.626
+4	South Carolina	Georgetown	2017	0.157	0.531	0.458	0.524	0.432	5.631
+4	South Carolina	Greenville	2017	0.785	0.506	0.575	0.315	0.513	1.046
+4	South Carolina	Greenwood	2017	0.226	0.496	0.325	0.370	0.504	1.163
+4	South Carolina	Hampton	2017	0.105	0.522	0.287	0.420	0.411	1.189
+4	South Carolina	Horry	2017	0.409	0.470	0.531	0.495	0.433	2.330
+4	South Carolina	Jasper	2017	0.159	0.489	0.331	0.427	0.526	2.865
+4	South Carolina	Kershaw	2017	0.207	0.454	0.434	0.341	0.526	2.331
+4	South Carolina	Lancaster	2017	0.271	0.526	0.361	0.344	0.436	0.703
+4	South Carolina	Laurens	2017	0.200	0.544	0.398	0.333	0.398	1.034
+4	South Carolina	Lee	2017	0.105	0.514	0.298	0.412	0.322	-0.455
+4	South Carolina	Lexington	2017	0.615	0.574	0.476	0.346	0.561	1.291
+4	South Carolina	Marion	2017	0.097	0.452	0.354	0.498	0.444	5.097
+4	South Carolina	Marlboro	2017	0.102	0.459	0.296	0.419	0.295	-1.373
+4	South Carolina	McCormick	2017	0.169	0.516	0.278	0.551	0.343	1.682
+4	South Carolina	Newberry	2017	0.172	0.543	0.326	0.437	0.549	3.290
+4	South Carolina	Oconee	2017	0.360	0.229	0.411	0.449	0.459	0.919
+4	South Carolina	Orangeburg	2017	0.152	0.577	0.511	0.404	0.456	5.443
+4	South Carolina	Pickens	2017	0.420	0.475	0.427	0.380	0.491	1.218
+4	South Carolina	Richland	2017	0.694	0.503	0.502	0.360	0.515	1.066
+4	South Carolina	Saluda	2017	0.107	0.500	0.286	0.439	0.329	-0.116
+4	South Carolina	Spartanburg	2017	0.747	0.588	0.521	0.302	0.483	0.893
+4	South Carolina	Sumter	2017	0.287	0.533	0.374	0.409	0.486	1.710
+4	South Carolina	Union	2017	0.140	0.571	0.363	0.358	0.353	0.788
+4	South Carolina	Williamsburg	2017	0.103	0.537	0.365	0.512	0.459	6.506
+4	South Carolina	York	2017	0.698	0.589	0.451	0.299	0.457	0.605
 4	Tennessee	Anderson	2017	0.392	0.368	0.308	0.319	0.437	-0.428
 4	Tennessee	Bedford	2017	0.228	0.345	0.358	0.283	0.422	-0.765
 4	Tennessee	Benton	2017	0.148	0.453	0.212	0.409	0.398	-1.320
@@ -1159,7 +1159,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 4	Tennessee	Trousdale	2017	0.118	0.509	0.157	0.356	0.452	-2.638
 4	Tennessee	Unicoi	2017	0.159	0.204	0.258	0.458	0.403	-1.206
 4	Tennessee	Union	2017	0.162	0.367	0.204	0.364	0.366	-2.937
-4	Tennessee	Van	2017 Buren	0.175	0.305	0.251	0.364	0.210	-4.107
+4	Tennessee	Van Buren	2017	0.175	0.305	0.251	0.364	0.210	-4.107
 4	Tennessee	Warren	2017	0.116	0.270	0.303	0.296	0.392	-3.677
 4	Tennessee	Washington	2017	0.540	0.349	0.286	0.338	0.482	-0.206
 4	Tennessee	Wayne	2017	0.195	0.353	0.259	0.379	0.374	-1.494
@@ -1185,7 +1185,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Illinois	Cook	2017	0.687	0.667	0.828	0.199	0.498	1.953
 5	Illinois	Crawford	2017	0.186	0.651	0.282	0.487	0.450	2.589
 5	Illinois	Cumberland	2017	0.152	0.693	0.375	0.484	0.487	5.526
-5	Illinois	De	2017 Witt	0.349	0.681	0.327	0.530	0.597	2.947
+5	Illinois	De Witt	2017	0.349	0.681	0.327	0.530	0.597	2.947
 5	Illinois	DeKalb	2017	0.273	0.702	0.511	0.433	0.515	4.171
 5	Illinois	Douglas	2017	0.222	0.694	0.372	0.489	0.580	4.624
 5	Illinois	DuPage	2017	0.698	0.681	0.636	0.181	0.629	1.517
@@ -1209,7 +1209,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Illinois	Jasper	2017	0.101	0.669	0.317	0.516	0.571	8.943
 5	Illinois	Jefferson	2017	0.151	0.707	0.392	0.404	0.482	4.593
 5	Illinois	Jersey	2017	0.113	0.668	0.350	0.478	0.545	7.517
-5	Illinois	Jo	2017 Daviess	0.216	0.693	0.404	0.455	0.617	5.111
+5	Illinois	Jo Daviess	2017	0.216	0.693	0.404	0.455	0.617	5.111
 5	Illinois	Johnson	2017	0.198	0.639	0.372	0.660	0.372	4.975
 5	Illinois	Kane	2017	0.633	0.701	0.595	0.393	0.553	2.115
 5	Illinois	Kankakee	2017	0.282	0.689	0.486	0.515	0.500	4.374
@@ -1247,13 +1247,13 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Illinois	Putnam	2017	0.508	0.764	0.346	0.422	0.484	1.329
 5	Illinois	Randolph	2017	0.199	0.619	0.434	0.414	0.650	5.379
 5	Illinois	Richland	2017	0.116	0.620	0.290	0.465	0.458	3.769
-5	Illinois	Rock	2017 Island	0.333	0.661	0.411	0.456	0.489	2.513
+5	Illinois	Rock Island	2017	0.333	0.661	0.411	0.456	0.489	2.513
 5	Illinois	Saline	2017	0.202	0.589	0.343	0.556	0.416	3.408
 5	Illinois	Sangamon	2017	0.286	0.670	0.618	0.452	0.555	5.297
 5	Illinois	Schuyler	2017	0.110	0.653	0.286	0.479	0.536	5.881
 5	Illinois	Scott	2017	0.134	0.763	0.267	0.487	0.461	4.319
 5	Illinois	Shelby	2017	0.156	0.683	0.390	0.531	0.570	7.383
-5	Illinois	St	2017. Clair	0.728	0.646	0.506	0.364	0.464	1.100
+5	Illinois	St. Clair	2017	0.728	0.646	0.506	0.364	0.464	1.100
 5	Illinois	Stark	2017	0.204	0.754	0.283	0.577	0.590	5.309
 5	Illinois	Stephenson	2017	0.159	0.681	0.355	0.460	0.557	5.346
 5	Illinois	Tazewell	2017	0.534	0.666	0.549	0.507	0.567	2.793
@@ -1342,7 +1342,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Indiana	Scott	2017	0.161	0.651	0.233	0.452	0.497	2.225
 5	Indiana	Shelby	2017	0.186	0.698	0.323	0.487	0.599	5.019
 5	Indiana	Spencer	2017	0.167	0.699	0.375	0.455	0.655	6.609
-5	Indiana	St	2017. Joseph	0.513	0.667	0.480	0.403	0.473	1.690
+5	Indiana	St. Joseph	2017	0.513	0.667	0.480	0.403	0.473	1.690
 5	Indiana	Starke	2017	0.105	0.697	0.344	0.418	0.469	5.374
 5	Indiana	Steuben	2017	0.158	0.702	0.404	0.443	0.599	6.599
 5	Indiana	Sullivan	2017	0.112	0.665	0.391	0.460	0.574	8.657
@@ -1388,7 +1388,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Michigan	Genesee	2017	0.511	0.669	0.438	0.331	0.415	0.908
 5	Michigan	Gladwin	2017	0.065	0.743	0.378	0.485	0.421	11.933
 5	Michigan	Gogebic	2017	0.125	0.706	0.270	0.516	0.532	5.877
-5	Michigan	Grand	2017 Traverse	0.205	0.699	0.407	0.393	0.603	4.544
+5	Michigan	Grand Traverse	2017	0.205	0.699	0.407	0.393	0.603	4.544
 5	Michigan	Gratiot	2017	0.114	0.747	0.406	0.386	0.466	6.120
 5	Michigan	Hillsdale	2017	0.084	0.745	0.311	0.370	0.441	4.204
 5	Michigan	Houghton	2017	0.164	0.647	0.335	0.423	0.533	3.817
@@ -1431,16 +1431,16 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Michigan	Oscoda	2017	0.123	0.724	0.351	0.563	0.317	5.412
 5	Michigan	Otsego	2017	0.110	0.724	0.379	0.499	0.562	9.630
 5	Michigan	Ottawa	2017	0.247	0.684	0.584	0.314	0.588	4.728
-5	Michigan	Presque	2017 Isle	0.129	0.780	0.355	0.430	0.436	4.953
+5	Michigan	Presque Isle	2017	0.129	0.780	0.355	0.430	0.436	4.953
 5	Michigan	Roscommon	2017	0.090	0.684	0.388	0.567	0.395	9.825
 5	Michigan	Saginaw	2017	0.180	0.675	0.510	0.396	0.439	4.838
 5	Michigan	Sanilac	2017	0.083	0.765	0.467	0.477	0.451	12.926
 5	Michigan	Schoolcraft	2017	0.121	0.746	0.350	0.535	0.496	8.019
 5	Michigan	Shiawassee	2017	0.120	0.711	0.373	0.380	0.515	5.445
-5	Michigan	St	2017. Clair	0.188	0.708	0.541	0.403	0.480	5.738
-5	Michigan	St	2017. Joseph	0.162	0.717	0.403	0.416	0.376	3.420
+5	Michigan	St. Clair	2017	0.188	0.708	0.541	0.403	0.480	5.738
+5	Michigan	St. Joseph	2017	0.162	0.717	0.403	0.416	0.376	3.420
 5	Michigan	Tuscola	2017	0.093	0.738	0.490	0.415	0.509	11.398
-5	Michigan	Van	2017 Buren	0.162	0.705	0.425	0.301	0.453	2.888
+5	Michigan	Van Buren	2017	0.162	0.705	0.425	0.301	0.453	2.888
 5	Michigan	Washtenaw	2017	0.405	0.693	0.546	0.360	0.477	2.399
 5	Michigan	Wayne	2017	0.608	0.644	0.651	0.160	0.373	0.833
 5	Michigan	Wexford	2017	0.135	0.754	0.414	0.486	0.565	8.642
@@ -1449,8 +1449,8 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Minnesota	Becker	2017	0.154	0.817	0.455	0.567	0.769	12.528
 5	Minnesota	Beltrami	2017	0.172	0.764	0.515	0.616	0.654	11.243
 5	Minnesota	Benton	2017	0.208	0.758	0.343	0.323	0.745	4.465
-5	Minnesota	Big	2017 Stone	0.096	0.825	0.187	0.472	0.649	7.903
-5	Minnesota	Blue	2017 Earth	0.285	0.745	0.462	0.427	0.743	5.213
+5	Minnesota	Big Stone	2017	0.096	0.825	0.187	0.472	0.649	7.903
+5	Minnesota	Blue Earth	2017	0.285	0.745	0.462	0.427	0.743	5.213
 5	Minnesota	Brown	2017	0.142	0.746	0.358	0.375	0.822	8.693
 5	Minnesota	Carlton	2017	0.190	0.797	0.444	0.473	0.673	7.715
 5	Minnesota	Carver	2017	0.480	0.741	0.429	0.403	0.688	2.551
@@ -1461,7 +1461,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Minnesota	Clearwater	2017	0.140	0.884	0.238	0.601	0.622	8.657
 5	Minnesota	Cook	2017	0.120	0.700	0.318	0.434	0.913	11.740
 5	Minnesota	Cottonwood	2017	0.273	0.791	0.339	0.354	0.799	4.159
-5	Minnesota	Crow	2017 Wing	0.175	0.759	0.420	0.406	0.703	7.179
+5	Minnesota	Crow Wing	2017	0.175	0.759	0.420	0.406	0.703	7.179
 5	Minnesota	Dakota	2017	0.672	0.693	0.552	0.397	0.632	2.057
 5	Minnesota	Dodge	2017	0.143	0.815	0.353	0.449	0.823	10.325
 5	Minnesota	Douglas	2017	0.199	0.761	0.376	0.445	0.836	7.549
@@ -1480,10 +1480,10 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Minnesota	Kandiyohi	2017	0.204	0.779	0.462	0.429	0.739	7.463
 5	Minnesota	Kittson	2017	0.136	0.837	0.386	0.402	0.724	9.368
 5	Minnesota	Koochiching	2017	0.099	0.698	0.429	0.635	0.628	16.543
-5	Minnesota	Lac	2017 qui Parle	0.233	0.854	0.272	0.458	0.847	5.887
+5	Minnesota	Lac qui Parle	2017	0.233	0.854	0.272	0.458	0.847	5.887
 5	Minnesota	Lake	2017	0.121	0.719	0.359	0.653	0.699	13.677
-5	Minnesota	Lake	2017 of the Woods	0.162	0.699	0.249	0.628	0.848	9.685
-5	Minnesota	Le	2017 Sueur	0.241	0.810	0.317	0.415	0.754	4.789
+5	Minnesota	Lake of the Woods	2017	0.162	0.699	0.249	0.628	0.848	9.685
+5	Minnesota	Le Sueur	2017	0.241	0.810	0.317	0.415	0.754	4.789
 5	Minnesota	Lincoln	2017	0.076	0.866	0.351	0.376	0.935	20.574
 5	Minnesota	Lyon	2017	0.116	0.774	0.455	0.324	0.846	12.459
 5	Minnesota	Mahnomen	2017	0.236	0.865	0.319	0.778	0.380	5.812
@@ -1491,7 +1491,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Minnesota	Martin	2017	0.144	0.777	0.392	0.469	0.765	10.259
 5	Minnesota	McLeod	2017	0.177	0.775	0.373	0.441	0.788	7.933
 5	Minnesota	Meeker	2017	0.229	0.816	0.334	0.409	0.776	5.390
-5	Minnesota	Mille	2017 Lacs	0.144	0.826	0.351	0.404	0.776	8.861
+5	Minnesota	Mille Lacs	2017	0.144	0.826	0.351	0.404	0.776	8.861
 5	Minnesota	Morrison	2017	0.111	0.834	0.408	0.414	0.794	13.504
 5	Minnesota	Mower	2017	0.117	0.768	0.457	0.446	0.640	11.412
 5	Minnesota	Murray	2017	0.142	0.862	0.345	0.389	0.810	9.355
@@ -1499,14 +1499,14 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Minnesota	Nobles	2017	0.231	0.792	0.460	0.410	0.681	5.896
 5	Minnesota	Norman	2017	0.220	0.863	0.340	0.413	0.744	5.657
 5	Minnesota	Olmsted	2017	0.423	0.717	0.505	0.414	0.667	3.290
-5	Minnesota	Otter	2017 Tail	0.195	0.818	0.562	0.366	0.754	8.714
+5	Minnesota	Otter Tail	2017	0.195	0.818	0.562	0.366	0.754	8.714
 5	Minnesota	Pennington	2017	0.129	0.768	0.348	0.427	0.738	9.230
 5	Minnesota	Pine	2017	0.126	0.823	0.362	0.514	0.705	11.400
 5	Minnesota	Pipestone	2017	0.078	0.761	0.391	0.396	0.786	16.883
 5	Minnesota	Polk	2017	0.153	0.803	0.599	0.414	0.704	11.773
 5	Minnesota	Pope	2017	0.176	0.842	0.273	0.414	0.791	6.490
 5	Minnesota	Ramsey	2017	0.621	0.658	0.448	0.149	0.607	0.662
-5	Minnesota	Red	2017 Lake	0.152	0.861	0.313	0.407	0.597	5.723
+5	Minnesota	Red Lake	2017	0.152	0.861	0.313	0.407	0.597	5.723
 5	Minnesota	Redwood	2017	0.144	0.839	0.351	0.431	0.825	10.136
 5	Minnesota	Renville	2017	0.238	0.843	0.342	0.419	0.853	6.129
 5	Minnesota	Rice	2017	0.303	0.754	0.392	0.404	0.692	3.792
@@ -1515,7 +1515,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Minnesota	Scott	2017	0.504	0.740	0.421	0.404	0.666	2.307
 5	Minnesota	Sherburne	2017	0.472	0.740	0.411	0.366	0.770	2.643
 5	Minnesota	Sibley	2017	0.187	0.865	0.333	0.438	0.795	7.430
-5	Minnesota	St	2017. Louis	0.165	0.718	0.861	0.453	0.607	14.060
+5	Minnesota	St. Louis	2017	0.165	0.718	0.861	0.453	0.607	14.060
 5	Minnesota	Stearns	2017	0.314	0.743	0.587	0.412	0.746	5.688
 5	Minnesota	Steele	2017	0.389	0.748	0.376	0.408	0.708	2.943
 5	Minnesota	Stevens	2017	0.229	0.804	0.322	0.405	0.843	5.741
@@ -1530,7 +1530,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Minnesota	Wilkin	2017	0.134	0.804	0.368	0.415	0.870	11.310
 5	Minnesota	Winona	2017	0.149	0.737	0.398	0.598	0.628	10.114
 5	Minnesota	Wright	2017	0.455	0.754	0.469	0.440	0.762	3.478
-5	Minnesota	Yellow	2017 Medicine	0.185	0.865	0.336	0.454	0.818	8.004
+5	Minnesota	Yellow Medicine	2017	0.185	0.865	0.336	0.454	0.818	8.004
 5	Ohio	Adams	2017	0.129	0.636	0.365	0.375	0.387	2.256
 5	Ohio	Allen	2017	0.271	0.689	0.405	0.339	0.554	2.548
 5	Ohio	Ashland	2017	0.134	0.683	0.421	0.385	0.540	6.064
@@ -1611,7 +1611,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Ohio	Trumbull	2017	0.310	0.660	0.491	0.398	0.468	2.799
 5	Ohio	Tuscarawas	2017	0.260	0.676	0.490	0.301	0.558	3.156
 5	Ohio	Union	2017	0.198	0.661	0.429	0.402	0.527	4.160
-5	Ohio	Van	2017 Wert	0.270	0.689	0.336	0.388	0.531	2.147
+5	Ohio	Van Wert	2017	0.270	0.689	0.336	0.388	0.531	2.147
 5	Ohio	Vinton	2017	0.162	0.663	0.333	0.385	0.363	1.303
 5	Ohio	Warren	2017	0.644	0.664	0.408	0.357	0.529	1.041
 5	Ohio	Washington	2017	0.208	0.636	0.469	0.332	0.484	3.134
@@ -1636,13 +1636,13 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Wisconsin	Door	2017	0.107	0.740	0.507	0.407	0.732	14.253
 5	Wisconsin	Douglas	2017	0.183	0.748	0.409	0.461	0.570	5.975
 5	Wisconsin	Dunn	2017	0.123	0.784	0.519	0.377	0.630	10.843
-5	Wisconsin	Eau	2017 Claire	0.264	0.715	0.470	0.396	0.590	4.175
+5	Wisconsin	Eau Claire	2017	0.264	0.715	0.470	0.396	0.590	4.175
 5	Wisconsin	Florence	2017	0.081	0.774	0.347	0.617	0.472	14.071
-5	Wisconsin	Fond	2017 du Lac	0.237	0.735	0.538	0.463	0.647	6.653
+5	Wisconsin	Fond du Lac	2017	0.237	0.735	0.538	0.463	0.647	6.653
 5	Wisconsin	Forest	2017	0.098	0.794	0.359	0.616	0.613	14.998
 5	Wisconsin	Grant	2017	0.151	0.779	0.663	0.397	0.679	12.316
 5	Wisconsin	Green	2017	0.248	0.773	0.424	0.354	0.667	4.382
-5	Wisconsin	Green	2017 Lake	0.134	0.783	0.345	0.430	0.689	8.296
+5	Wisconsin	Green Lake	2017	0.134	0.783	0.345	0.430	0.689	8.296
 5	Wisconsin	Iowa	2017	0.115	0.841	0.475	0.353	0.699	11.706
 5	Wisconsin	Iron	2017	0.094	0.787	0.321	0.480	0.661	11.893
 5	Wisconsin	Jackson	2017	0.094	0.834	0.408	0.470	0.599	13.354
@@ -1650,7 +1650,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Wisconsin	Juneau	2017	0.158	0.794	0.464	0.460	0.570	8.118
 5	Wisconsin	Kenosha	2017	0.472	0.681	0.421	0.407	0.477	1.573
 5	Wisconsin	Kewaunee	2017	0.140	0.782	0.373	0.465	0.698	9.231
-5	Wisconsin	La	2017 Crosse	0.377	0.684	0.455	0.416	0.600	2.909
+5	Wisconsin	La Crosse	2017	0.377	0.684	0.455	0.416	0.600	2.909
 5	Wisconsin	Lafayette	2017	0.117	0.873	0.425	0.366	0.713	11.132
 5	Wisconsin	Langlade	2017	0.116	0.778	0.330	0.533	0.655	10.776
 5	Wisconsin	Lincoln	2017	0.209	0.761	0.400	0.497	0.672	6.561
@@ -1678,7 +1678,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 5	Wisconsin	Sawyer	2017	0.080	0.773	0.308	0.593	0.586	14.953
 5	Wisconsin	Shawano	2017	0.091	0.792	0.503	0.418	0.639	15.628
 5	Wisconsin	Sheboygan	2017	0.227	0.724	0.460	0.434	0.616	5.403
-5	Wisconsin	St	2017. Croix	0.312	0.765	0.520	0.431	0.673	4.911
+5	Wisconsin	St. Croix	2017	0.312	0.765	0.520	0.431	0.673	4.911
 5	Wisconsin	Taylor	2017	0.098	0.825	0.385	0.460	0.628	12.360
 5	Wisconsin	Trempealeau	2017	0.113	0.832	0.476	0.401	0.594	11.117
 5	Wisconsin	Vernon	2017	0.119	0.812	0.408	0.371	0.643	9.013
@@ -1720,7 +1720,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Arkansas	Grant	2017	0.123	0.520	0.394	0.440	0.422	3.911
 6	Arkansas	Greene	2017	0.274	0.503	0.416	0.360	0.429	1.237
 6	Arkansas	Hempstead	2017	0.308	0.411	0.468	0.451	0.397	1.778
-6	Arkansas	Hot	2017 Spring	0.143	0.410	0.356	0.419	0.487	2.410
+6	Arkansas	Hot Spring	2017	0.143	0.410	0.356	0.419	0.487	2.410
 6	Arkansas	Howard	2017	0.299	0.380	0.362	0.427	0.389	0.534
 6	Arkansas	Independence	2017	0.199	0.451	0.461	0.354	0.460	2.267
 6	Arkansas	Izard	2017	0.266	0.382	0.379	0.356	0.485	0.832
@@ -1731,7 +1731,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Arkansas	Lawrence	2017	0.185	0.508	0.368	0.410	0.413	1.666
 6	Arkansas	Lee	2017	0.142	0.532	0.215	0.461	0.378	-0.130
 6	Arkansas	Lincoln	2017	0.127	0.534	0.286	0.460	0.369	1.215
-6	Arkansas	Little	2017 River	0.260	0.428	0.364	0.495	0.406	1.589
+6	Arkansas	Little River	2017	0.260	0.428	0.364	0.495	0.406	1.589
 6	Arkansas	Logan	2017	0.171	0.543	0.402	0.481	0.534	4.932
 6	Arkansas	Lonoke	2017	0.319	0.605	0.536	0.455	0.511	3.619
 6	Arkansas	Madison	2017	0.128	0.447	0.359	0.399	0.392	1.207
@@ -1758,10 +1758,10 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Arkansas	Sebastian	2017	0.353	0.530	0.457	0.451	0.452	2.111
 6	Arkansas	Sevier	2017	0.263	0.192	0.341	0.480	0.326	-0.304
 6	Arkansas	Sharp	2017	0.206	0.421	0.380	0.364	0.554	2.022
-6	Arkansas	St	2017. Francis	0.135	0.546	0.378	0.473	0.479	4.871
+6	Arkansas	St. Francis	2017	0.135	0.546	0.378	0.473	0.479	4.871
 6	Arkansas	Stone	2017	0.247	0.368	0.356	0.419	0.441	0.864
 6	Arkansas	Union	2017	0.338	0.487	0.452	0.458	0.522	2.486
-6	Arkansas	Van	2017 Buren	0.331	0.458	0.400	0.387	0.458	1.133
+6	Arkansas	Van Buren	2017	0.331	0.458	0.400	0.387	0.458	1.133
 6	Arkansas	Washington	2017	0.322	0.465	0.668	0.359	0.458	3.195
 6	Arkansas	White	2017	0.292	0.532	0.515	0.427	0.463	2.957
 6	Arkansas	Woodruff	2017	0.219	0.564	0.310	0.492	0.263	0.529
@@ -1781,10 +1781,10 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Louisiana	Catahoula	2017	0.149	0.526	0.267	0.496	0.318	0.527
 6	Louisiana	Claiborne	2017	0.228	0.526	0.230	0.422	0.408	-0.096
 6	Louisiana	Concordia	2017	0.160	0.526	0.342	0.523	0.374	2.853
-6	Louisiana	De	2017 Soto	0.183	0.560	0.468	0.459	0.475	4.720
-6	Louisiana	East	2017 Baton Rouge	0.666	0.496	0.589	0.354	0.588	1.637
-6	Louisiana	East	2017 Carroll	0.293	0.540	0.210	0.482	0.377	0.082
-6	Louisiana	East	2017 Feliciana	0.265	0.495	0.364	0.371	0.363	0.338
+6	Louisiana	De Soto	2017	0.183	0.560	0.468	0.459	0.475	4.720
+6	Louisiana	East Baton Rouge	2017	0.666	0.496	0.589	0.354	0.588	1.637
+6	Louisiana	East Carroll	2017	0.293	0.540	0.210	0.482	0.377	0.082
+6	Louisiana	East Feliciana	2017	0.265	0.495	0.364	0.371	0.363	0.338
 6	Louisiana	Evangeline	2017	0.257	0.522	0.359	0.480	0.421	1.878
 6	Louisiana	Franklin	2017	0.125	0.525	0.348	0.462	0.504	4.653
 6	Louisiana	Grant	2017	0.132	0.496	0.452	0.579	0.426	7.309
@@ -1792,8 +1792,8 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Louisiana	Iberville	2017	0.524	0.555	0.427	0.448	0.584	1.795
 6	Louisiana	Jackson	2017	0.244	0.525	0.318	0.416	0.521	1.714
 6	Louisiana	Jefferson	2017	0.314	0.554	0.403	0.485	0.477	2.416
-6	Louisiana	Jefferson	2017 Davis	0.626	0.582	0.483	0.371	0.578	1.463
-6	Louisiana	La	2017 Salle	0.156	0.523	0.392	0.472	0.487	4.394
+6	Louisiana	Jefferson Davis	2017	0.626	0.582	0.483	0.371	0.578	1.463
+6	Louisiana	La Salle	2017	0.156	0.523	0.392	0.472	0.487	4.394
 6	Louisiana	Lafayette	2017	0.655	0.562	0.596	0.437	0.588	2.106
 6	Louisiana	Lafourche	2017	0.442	0.574	0.521	0.397	0.484	2.012
 6	Louisiana	Lincoln	2017	0.255	0.503	0.432	0.426	0.400	1.905
@@ -1804,20 +1804,20 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Louisiana	Orleans	2017	0.692	0.543	0.388	0.386	0.398	0.447
 6	Louisiana	Ouachita	2017	0.406	0.528	0.551	0.443	0.535	2.794
 6	Louisiana	Plaquemines	2017	0.338	0.568	0.532	0.368	0.486	2.502
-6	Louisiana	Pointe	2017 Coupee	0.352	0.547	0.434	0.465	0.537	2.562
+6	Louisiana	Pointe Coupee	2017	0.352	0.547	0.434	0.465	0.537	2.562
 6	Louisiana	Rapides	2017	0.313	0.515	0.717	0.507	0.559	5.652
-6	Louisiana	Red	2017 River	0.202	0.532	0.353	0.462	0.448	2.419
+6	Louisiana	Red River	2017	0.202	0.532	0.353	0.462	0.448	2.419
 6	Louisiana	Richland	2017	0.129	0.541	0.315	0.483	0.574	5.411
 6	Louisiana	Sabine	2017	0.119	0.541	0.420	0.408	0.430	4.255
-6	Louisiana	St	2017. Bernard	0.321	0.598	0.450	0.330	0.519	1.954
-6	Louisiana	St	2017. Charles	0.554	0.594	0.437	0.457	0.589	1.877
-6	Louisiana	St	2017. Helena	0.206	0.419	0.290	0.430	0.443	0.583
-6	Louisiana	St	2017. James	0.473	0.562	0.362	0.464	0.550	1.584
-6	Louisiana	St	2017. John the Baptist	0.484	0.589	0.392	0.416	0.595	1.713
-6	Louisiana	St	2017. Landry	0.261	0.527	0.547	0.481	0.510	4.490
-6	Louisiana	St	2017. Martin	0.345	0.541	0.416	0.437	0.529	2.213
-6	Louisiana	St	2017. Mary	0.351	0.557	0.501	0.453	0.541	3.047
-6	Louisiana	St	2017. Tammany	0.698	0.363	0.597	0.423	0.518	1.450
+6	Louisiana	St. Bernard	2017	0.321	0.598	0.450	0.330	0.519	1.954
+6	Louisiana	St. Charles	2017	0.554	0.594	0.437	0.457	0.589	1.877
+6	Louisiana	St. Helena	2017	0.206	0.419	0.290	0.430	0.443	0.583
+6	Louisiana	St. James	2017	0.473	0.562	0.362	0.464	0.550	1.584
+6	Louisiana	St. John the Baptist	2017	0.484	0.589	0.392	0.416	0.595	1.713
+6	Louisiana	St. Landry	2017	0.261	0.527	0.547	0.481	0.510	4.490
+6	Louisiana	St. Martin	2017	0.345	0.541	0.416	0.437	0.529	2.213
+6	Louisiana	St. Mary	2017	0.351	0.557	0.501	0.453	0.541	3.047
+6	Louisiana	St. Tammany	2017	0.698	0.363	0.597	0.423	0.518	1.450
 6	Louisiana	Tangipahoa	2017	0.404	0.444	0.573	0.422	0.438	2.150
 6	Louisiana	Tensas	2017	0.269	0.510	0.344	0.532	0.300	1.212
 6	Louisiana	Terrebonne	2017	0.335	0.570	0.475	0.364	0.491	2.075
@@ -1826,43 +1826,43 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Louisiana	Vernon	2017	0.215	0.578	0.498	0.538	0.412	4.829
 6	Louisiana	Washington	2017	0.254	0.258	0.348	0.441	0.371	-0.009
 6	Louisiana	Webster	2017	0.234	0.538	0.449	0.460	0.497	3.591
-6	Louisiana	West	2017 Baton Rouge	0.596	0.564	0.451	0.487	0.691	2.213
-6	Louisiana	West	2017 Carroll	0.113	0.565	0.328	0.495	0.367	3.342
-6	Louisiana	West	2017 Feliciana	0.314	0.549	0.370	0.409	0.490	1.608
+6	Louisiana	West Baton Rouge	2017	0.596	0.564	0.451	0.487	0.691	2.213
+6	Louisiana	West Carroll	2017	0.113	0.565	0.328	0.495	0.367	3.342
+6	Louisiana	West Feliciana	2017	0.314	0.549	0.370	0.409	0.490	1.608
 6	Louisiana	Winn	2017	0.145	0.477	0.364	0.475	0.464	3.635
-6	New Mexico	Bernalillo	0.581	0.571	0.611	0.461	0.557	2.459
-6	New Mexico	Catron	0.179	0.535	0.394	0.576	0.504	5.553
-6	New Mexico	Chaves	0.283	0.584	0.554	0.465	0.511	4.260
-6	New Mexico	Cibola	0.100	0.578	0.429	0.534	0.454	9.271
-6	New Mexico	Colfax	0.155	0.598	0.463	0.465	0.553	6.846
-6	New Mexico	Curry	0.190	0.576	0.482	0.293	0.528	3.260
-6	New Mexico	De Baca	0.132	0.625	0.258	0.427	0.583	3.844
-6	New Mexico	Doña Ana	0.175	0.560	0.736	0.635	0.497	11.766
-6	New Mexico	Eddy	0.204	0.582	0.540	0.645	0.490	7.677
-6	New Mexico	Grant	0.114	0.570	0.530	0.535	0.646	13.803
-6	New Mexico	Guadalupe	0.104	0.608	0.330	0.341	0.585	4.574
-6	New Mexico	Harding	0.087	0.715	0.206	0.372	0.299	-2.708
-6	New Mexico	Hidalgo	0.099	0.533	0.298	0.567	0.336	3.866
-6	New Mexico	Lea	0.180	0.548	0.570	0.490	0.469	6.629
-6	New Mexico	Lincoln	0.248	0.557	0.576	0.502	0.603	6.103
-6	New Mexico	Los Alamos	0.365	0.523	0.256	0.557	0.596	2.041
-6	New Mexico	Luna	0.077	0.547	0.472	0.617	0.349	13.043
-6	New Mexico	McKinley	0.095	0.629	0.624	0.607	0.469	18.046
-6	New Mexico	Mora	0.118	0.531	0.329	0.310	0.411	-0.183
-6	New Mexico	Otero	0.110	0.517	0.601	0.659	0.438	14.514
-6	New Mexico	Quay	0.116	0.570	0.412	0.392	0.608	7.141
-6	New Mexico	Rio Arriba	0.134	0.600	0.619	0.574	0.553	13.058
-6	New Mexico	Roosevelt	0.221	0.589	0.372	0.311	0.487	1.367
-6	New Mexico	San Juan	0.122	0.621	0.693	0.620	0.519	16.431
-6	New Mexico	San Miguel	0.130	0.571	0.467	0.423	0.435	5.450
-6	New Mexico	Sandoval	0.147	0.643	0.642	0.544	0.510	11.526
-6	New Mexico	Santa Fe	0.157	0.602	0.592	0.517	0.629	10.747
-6	New Mexico	Sierra	0.087	0.566	0.360	0.762	0.484	15.566
-6	New Mexico	Socorro	0.249	0.537	0.446	0.589	0.398	3.834
-6	New Mexico	Taos	0.106	0.599	0.545	0.443	0.562	11.730
-6	New Mexico	Torrance	0.102	0.593	0.430	0.411	0.516	7.476
-6	New Mexico	Union	0.145	0.639	0.234	0.398	0.592	2.799
-6	New Mexico	Valencia	0.164	0.594	0.507	0.534	0.490	7.405
+6	New Mexico	Bernalillo	2017	0.581	0.571	0.611	0.461	0.557	2.459
+6	New Mexico	Catron	2017	0.179	0.535	0.394	0.576	0.504	5.553
+6	New Mexico	Chaves	2017	0.283	0.584	0.554	0.465	0.511	4.260
+6	New Mexico	Cibola	2017	0.100	0.578	0.429	0.534	0.454	9.271
+6	New Mexico	Colfax	2017	0.155	0.598	0.463	0.465	0.553	6.846
+6	New Mexico	Curry	2017	0.190	0.576	0.482	0.293	0.528	3.260
+6	New Mexico	De Baca	2017	0.132	0.625	0.258	0.427	0.583	3.844
+6	New Mexico	Doña Ana	2017	0.175	0.560	0.736	0.635	0.497	11.766
+6	New Mexico	Eddy	2017	0.204	0.582	0.540	0.645	0.490	7.677
+6	New Mexico	Grant	2017	0.114	0.570	0.530	0.535	0.646	13.803
+6	New Mexico	Guadalupe	2017	0.104	0.608	0.330	0.341	0.585	4.574
+6	New Mexico	Harding	2017	0.087	0.715	0.206	0.372	0.299	-2.708
+6	New Mexico	Hidalgo	2017	0.099	0.533	0.298	0.567	0.336	3.866
+6	New Mexico	Lea	2017	0.180	0.548	0.570	0.490	0.469	6.629
+6	New Mexico	Lincoln	2017	0.248	0.557	0.576	0.502	0.603	6.103
+6	New Mexico	Los Alamos	2017	0.365	0.523	0.256	0.557	0.596	2.041
+6	New Mexico	Luna	2017	0.077	0.547	0.472	0.617	0.349	13.043
+6	New Mexico	McKinley	2017	0.095	0.629	0.624	0.607	0.469	18.046
+6	New Mexico	Mora	2017	0.118	0.531	0.329	0.310	0.411	-0.183
+6	New Mexico	Otero	2017	0.110	0.517	0.601	0.659	0.438	14.514
+6	New Mexico	Quay	2017	0.116	0.570	0.412	0.392	0.608	7.141
+6	New Mexico	Rio Arriba	2017	0.134	0.600	0.619	0.574	0.553	13.058
+6	New Mexico	Roosevelt	2017	0.221	0.589	0.372	0.311	0.487	1.367
+6	New Mexico	San Juan	2017	0.122	0.621	0.693	0.620	0.519	16.431
+6	New Mexico	San Miguel	2017	0.130	0.571	0.467	0.423	0.435	5.450
+6	New Mexico	Sandoval	2017	0.147	0.643	0.642	0.544	0.510	11.526
+6	New Mexico	Santa Fe	2017	0.157	0.602	0.592	0.517	0.629	10.747
+6	New Mexico	Sierra	2017	0.087	0.566	0.360	0.762	0.484	15.566
+6	New Mexico	Socorro	2017	0.249	0.537	0.446	0.589	0.398	3.834
+6	New Mexico	Taos	2017	0.106	0.599	0.545	0.443	0.562	11.730
+6	New Mexico	Torrance	2017	0.102	0.593	0.430	0.411	0.516	7.476
+6	New Mexico	Union	2017	0.145	0.639	0.234	0.398	0.592	2.799
+6	New Mexico	Valencia	2017	0.164	0.594	0.507	0.534	0.490	7.405
 6	Oklahoma	Adair	2017	0.152	0.540	0.328	0.396	0.322	0.135
 6	Oklahoma	Alfalfa	2017	0.257	0.684	0.188	0.303	0.736	1.459
 6	Oklahoma	Atoka	2017	0.252	0.651	0.377	0.400	0.416	1.801
@@ -1902,7 +1902,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Oklahoma	Kingfisher	2017	0.201	0.630	0.359	0.393	0.706	4.673
 6	Oklahoma	Kiowa	2017	0.279	0.611	0.320	0.386	0.711	2.893
 6	Oklahoma	Latimer	2017	0.191	0.549	0.319	0.420	0.470	1.861
-6	Oklahoma	Le	2017 Flore	0.236	0.414	0.548	0.533	0.393	4.056
+6	Oklahoma	Le Flore	2017	0.236	0.414	0.548	0.533	0.393	4.056
 6	Oklahoma	Lincoln	2017	0.206	0.676	0.402	0.372	0.632	4.372
 6	Oklahoma	Logan	2017	0.210	0.639	0.392	0.384	0.511	2.998
 6	Oklahoma	Love	2017	0.236	0.638	0.294	0.405	0.502	1.702
@@ -1927,7 +1927,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Oklahoma	Pontotoc	2017	0.168	0.563	0.432	0.383	0.596	4.906
 6	Oklahoma	Pottawatomie	2017	0.194	0.631	0.392	0.364	0.489	2.728
 6	Oklahoma	Pushmataha	2017	0.139	0.535	0.389	0.410	0.412	2.786
-6	Oklahoma	Roger	2017 Mills	0.300	0.686	0.354	0.303	0.649	2.168
+6	Oklahoma	Roger Mills	2017	0.300	0.686	0.354	0.303	0.649	2.168
 6	Oklahoma	Rogers	2017	0.291	0.626	0.501	0.496	0.545	4.302
 6	Oklahoma	Seminole	2017	0.180	0.693	0.272	0.344	0.511	1.483
 6	Oklahoma	Sequoyah	2017	0.156	0.516	0.439	0.414	0.414	3.319
@@ -1998,7 +1998,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Texas	Dallam	2017	0.299	0.613	0.258	0.338	0.509	0.435
 6	Texas	Dallas	2017	0.844	0.575	0.789	0.236	0.485	1.436
 6	Texas	Dawson	2017	0.097	0.571	0.295	0.298	0.463	-0.034
-6	Texas	Deaf	2017 Smith	0.200	0.571	0.304	0.377	0.455	1.020
+6	Texas	Deaf Smith	2017	0.200	0.571	0.304	0.377	0.455	1.020
 6	Texas	Delta	2017	0.289	0.629	0.227	0.421	0.376	0.020
 6	Texas	Denton	2017	0.512	0.634	0.711	0.460	0.493	3.180
 6	Texas	DeWitt	2017	0.102	0.512	0.298	0.468	0.475	3.814
@@ -2009,7 +2009,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Texas	Eastland	2017	0.120	0.549	0.354	0.374	0.491	3.138
 6	Texas	Ector	2017	0.382	0.529	0.507	0.447	0.448	2.248
 6	Texas	Edwards	2017	0.118	0.492	0.205	0.341	0.385	-3.117
-6	Texas	El	2017 Paso	0.417	0.566	0.709	0.367	0.443	2.941
+6	Texas	El Paso	2017	0.417	0.566	0.709	0.367	0.443	2.941
 6	Texas	Ellis	2017	0.446	0.604	0.716	0.371	0.538	3.319
 6	Texas	Erath	2017	0.116	0.569	0.452	0.469	0.558	8.793
 6	Texas	Falls	2017	0.155	0.536	0.326	0.426	0.405	1.615
@@ -2018,7 +2018,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Texas	Fisher	2017	0.174	0.638	0.183	0.382	0.475	-0.014
 6	Texas	Floyd	2017	0.238	0.597	0.212	0.553	0.552	2.554
 6	Texas	Foard	2017	0.096	0.559	0.249	0.364	0.308	-2.910
-6	Texas	Fort	2017 Bend	0.411	0.597	0.785	0.420	0.580	4.527
+6	Texas	Fort Bend	2017	0.411	0.597	0.785	0.420	0.580	4.527
 6	Texas	Franklin	2017	0.231	0.521	0.271	0.334	0.393	-0.707
 6	Texas	Freestone	2017	0.198	0.550	0.406	0.370	0.432	1.969
 6	Texas	Frio	2017	0.085	0.515	0.335	0.419	0.378	2.126
@@ -2061,10 +2061,10 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Texas	Jack	2017	0.132	0.541	0.297	0.348	0.423	0.153
 6	Texas	Jackson	2017	0.121	0.552	0.337	0.481	0.538	5.694
 6	Texas	Jasper	2017	0.371	0.483	0.431	0.465	0.463	1.845
-6	Texas	Jeff	2017 Davis	0.143	0.109	0.292	0.439	0.318	-2.852
+6	Texas	Jeff Davis	2017	0.143	0.109	0.292	0.439	0.318	-2.852
 6	Texas	Jefferson	2017	0.530	0.506	0.698	0.449	0.521	2.821
-6	Texas	Jim	2017 Hogg	0.262	0.545	0.219	0.381	0.470	-0.040
-6	Texas	Jim	2017 Wells	0.109	0.539	0.328	0.391	0.392	1.321
+6	Texas	Jim Hogg	2017	0.262	0.545	0.219	0.381	0.470	-0.040
+6	Texas	Jim Wells	2017	0.109	0.539	0.328	0.391	0.392	1.321
 6	Texas	Johnson	2017	0.359	0.559	0.595	0.434	0.515	3.405
 6	Texas	Jones	2017	0.116	0.563	0.266	0.468	0.520	3.825
 6	Texas	Karnes	2017	0.098	0.543	0.320	0.398	0.406	1.751
@@ -2078,7 +2078,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Texas	Kinney	2017	0.097	0.574	0.315	0.416	0.225	-1.285
 6	Texas	Kleberg	2017	0.124	0.549	0.314	0.458	0.379	2.054
 6	Texas	Knox	2017	0.129	0.601	0.338	0.398	0.490	3.422
-6	Texas	La	2017 Salle	0.090	0.494	0.176	0.333	0.292	-7.177
+6	Texas	La Salle	2017	0.090	0.494	0.176	0.333	0.292	-7.177
 6	Texas	Lamar	2017	0.169	0.538	0.481	0.439	0.511	5.341
 6	Texas	Lamb	2017	0.157	0.586	0.246	0.406	0.480	1.155
 6	Texas	Lampasas	2017	0.111	0.572	0.336	0.393	0.526	4.211
@@ -2088,7 +2088,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Texas	Liberty	2017	0.316	0.539	0.508	0.428	0.467	2.731
 6	Texas	Limestone	2017	0.176	0.552	0.398	0.408	0.468	3.049
 6	Texas	Lipscomb	2017	0.334	0.749	0.332	0.371	0.375	0.850
-6	Texas	Live	2017 Oak	0.094	0.558	0.384	0.458	0.547	8.289
+6	Texas	Live Oak	2017	0.094	0.558	0.384	0.458	0.547	8.289
 6	Texas	Llano	2017	0.101	0.516	0.381	0.396	0.482	4.490
 6	Texas	Loving	2017	0.092	0.805	0.223	0.411	0.308	0.140
 6	Texas	Lubbock	2017	0.492	0.576	0.599	0.437	0.495	2.477
@@ -2121,7 +2121,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Texas	Ochiltree	2017	0.289	0.523	0.283	0.367	0.451	0.223
 6	Texas	Oldham	2017	0.328	0.710	0.278	0.313	0.382	-0.089
 6	Texas	Orange	2017	0.624	0.505	0.446	0.394	0.458	0.898
-6	Texas	Palo	2017 Pinto	0.171	0.510	0.455	0.378	0.411	2.690
+6	Texas	Palo Pinto	2017	0.171	0.510	0.455	0.378	0.411	2.690
 6	Texas	Panola	2017	0.186	0.527	0.395	0.443	0.378	2.201
 6	Texas	Parker	2017	0.253	0.586	0.630	0.366	0.528	4.741
 6	Texas	Parmer	2017	0.174	0.631	0.342	0.480	0.412	3.064
@@ -2133,7 +2133,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Texas	Randall	2017	0.474	0.594	0.408	0.425	0.594	1.882
 6	Texas	Reagan	2017	0.188	0.558	0.196	0.385	0.525	0.305
 6	Texas	Real	2017	0.086	0.455	0.199	0.439	0.407	-1.566
-6	Texas	Red	2017 River	0.262	0.523	0.298	0.385	0.359	-0.121
+6	Texas	Red River	2017	0.262	0.523	0.298	0.385	0.359	-0.121
 6	Texas	Reeves	2017	0.110	0.477	0.292	0.308	0.425	-1.398
 6	Texas	Refugio	2017	0.116	0.572	0.266	0.468	0.443	2.590
 6	Texas	Roberts	2017	0.349	0.698	0.187	0.314	0.470	-0.310
@@ -2142,10 +2142,10 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Texas	Runnels	2017	0.231	0.554	0.220	0.500	0.546	1.910
 6	Texas	Rusk	2017	0.209	0.552	0.507	0.368	0.407	2.912
 6	Texas	Sabine	2017	0.127	0.454	0.327	0.490	0.305	1.009
-6	Texas	San	2017 Augustine	0.132	0.460	0.205	0.494	0.344	-0.790
-6	Texas	San	2017 Jacinto	0.263	0.513	0.275	0.493	0.347	0.531
-6	Texas	San	2017 Patricio	0.189	0.549	0.489	0.444	0.402	3.882
-6	Texas	San	2017 Saba	0.161	0.525	0.188	0.382	0.625	1.197
+6	Texas	San Augustine	2017	0.132	0.460	0.205	0.494	0.344	-0.790
+6	Texas	San Jacinto	2017	0.263	0.513	0.275	0.493	0.347	0.531
+6	Texas	San Patricio	2017	0.189	0.549	0.489	0.444	0.402	3.882
+6	Texas	San Saba	2017	0.161	0.525	0.188	0.382	0.625	1.197
 6	Texas	Schleicher	2017	0.113	0.552	0.229	0.423	0.497	1.583
 6	Texas	Scurry	2017	0.149	0.578	0.324	0.375	0.413	1.170
 6	Texas	Shackelford	2017	0.247	0.590	0.292	0.415	0.336	0.202
@@ -2165,15 +2165,15 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Texas	Terry	2017	0.114	0.565	0.305	0.351	0.377	-0.159
 6	Texas	Throckmorton	2017	0.109	0.597	0.194	0.461	0.442	1.057
 6	Texas	Titus	2017	0.152	0.556	0.454	0.371	0.413	3.236
-6	Texas	Tom	2017 Green	0.156	0.556	0.530	0.473	0.556	7.846
+6	Texas	Tom Green	2017	0.156	0.556	0.530	0.473	0.556	7.846
 6	Texas	Travis	2017	0.489	0.161	0.844	0.308	0.514	2.410
 6	Texas	Trinity	2017	0.201	0.499	0.310	0.436	0.381	0.728
 6	Texas	Tyler	2017	0.276	0.492	0.371	0.392	0.370	0.622
 6	Texas	Upshur	2017	0.151	0.562	0.406	0.369	0.510	3.695
 6	Texas	Upton	2017	0.107	0.631	0.292	0.492	0.448	4.648
 6	Texas	Uvalde	2017	0.067	0.488	0.378	0.460	0.484	8.659
-6	Texas	Val	2017 Verde	0.082	0.561	0.485	0.375	0.424	7.420
-6	Texas	Van	2017 Zandt	0.099	0.576	0.444	0.369	0.492	6.388
+6	Texas	Val Verde	2017	0.082	0.561	0.485	0.375	0.424	7.420
+6	Texas	Van Zandt	2017	0.099	0.576	0.444	0.369	0.492	6.388
 6	Texas	Victoria	2017	0.141	0.529	0.512	0.510	0.541	8.576
 6	Texas	Walker	2017	0.223	0.510	0.422	0.391	0.463	2.285
 6	Texas	Waller	2017	0.311	0.554	0.417	0.371	0.508	1.846
@@ -2200,17 +2200,17 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Iowa	Appanoose	2017	0.164	0.597	0.306	0.395	0.562	2.959
 7	Iowa	Audubon	2017	0.202	0.645	0.255	0.387	0.788	4.067
 7	Iowa	Benton	2017	0.158	0.650	0.481	0.393	0.700	8.064
-7	Iowa	Black	2017 Hawk	0.486	0.581	0.527	0.376	0.561	2.087
+7	Iowa	Black Hawk	2017	0.486	0.581	0.527	0.376	0.561	2.087
 7	Iowa	Boone	2017	0.171	0.593	0.364	0.414	0.636	4.863
 7	Iowa	Bremer	2017	0.149	0.646	0.434	0.526	0.792	11.109
 7	Iowa	Buchanan	2017	0.185	0.646	0.437	0.435	0.675	6.547
-7	Iowa	Buena	2017 Vista	0.147	0.633	0.425	0.465	0.614	7.586
+7	Iowa	Buena Vista	2017	0.147	0.633	0.425	0.465	0.614	7.586
 7	Iowa	Butler	2017	0.202	0.664	0.398	0.488	0.736	6.785
 7	Iowa	Calhoun	2017	0.271	0.655	0.324	0.392	0.666	2.909
 7	Iowa	Carroll	2017	0.170	0.607	0.439	0.331	0.800	6.819
 7	Iowa	Cass	2017	0.191	0.627	0.384	0.445	0.843	7.308
 7	Iowa	Cedar	2017	0.146	0.647	0.441	0.511	0.677	9.657
-7	Iowa	Cerro	2017 Gordo	0.217	0.588	0.423	0.424	0.618	4.480
+7	Iowa	Cerro Gordo	2017	0.217	0.588	0.423	0.424	0.618	4.480
 7	Iowa	Cherokee	2017	0.101	0.597	0.319	0.380	0.830	10.032
 7	Iowa	Chickasaw	2017	0.092	0.621	0.376	0.513	0.777	15.283
 7	Iowa	Clarke	2017	0.177	0.600	0.297	0.418	0.547	2.781
@@ -2222,7 +2222,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Iowa	Davis	2017	0.201	0.594	0.290	0.375	0.460	0.953
 7	Iowa	Decatur	2017	0.182	0.644	0.291	0.396	0.509	2.163
 7	Iowa	Delaware	2017	0.297	0.621	0.430	0.378	0.771	4.078
-7	Iowa	Des	2017 Moines	0.282	0.574	0.336	0.489	0.561	2.744
+7	Iowa	Des Moines	2017	0.282	0.574	0.336	0.489	0.561	2.744
 7	Iowa	Dickinson	2017	0.186	0.610	0.431	0.485	0.721	7.354
 7	Iowa	Dubuque	2017	0.322	0.584	0.494	0.372	0.684	3.600
 7	Iowa	Emmet	2017	0.151	0.596	0.302	0.483	0.688	6.204
@@ -2264,10 +2264,10 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Iowa	Monroe	2017	0.222	0.573	0.284	0.373	0.629	2.185
 7	Iowa	Montgomery	2017	0.172	0.586	0.215	0.390	0.646	2.247
 7	Iowa	Muscatine	2017	0.243	0.579	0.365	0.490	0.546	3.412
-7	Iowa	O	2017'Brien	0.123	0.620	0.380	0.463	0.712	9.481
+7	Iowa	O'Brien	2017	0.123	0.620	0.380	0.463	0.712	9.481
 7	Iowa	Osceola	2017	0.236	0.623	0.390	0.462	0.716	5.102
 7	Iowa	Page	2017	0.128	0.592	0.292	0.422	0.634	5.109
-7	Iowa	Palo	2017 Alto	0.158	0.638	0.375	0.406	0.697	6.353
+7	Iowa	Palo Alto	2017	0.158	0.638	0.375	0.406	0.697	6.353
 7	Iowa	Plymouth	2017	0.114	0.624	0.467	0.323	0.722	9.482
 7	Iowa	Pocahontas	2017	0.313	0.643	0.302	0.479	0.690	3.138
 7	Iowa	Polk	2017	0.746	0.589	0.715	0.375	0.581	2.088
@@ -2282,7 +2282,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Iowa	Tama	2017	0.177	0.648	0.369	0.409	0.523	3.764
 7	Iowa	Taylor	2017	0.292	0.693	0.174	0.376	0.539	0.479
 7	Iowa	Union	2017	0.221	0.621	0.289	0.375	0.705	3.164
-7	Iowa	Van	2017 Buren	0.172	0.652	0.340	0.442	0.461	3.192
+7	Iowa	Van Buren	2017	0.172	0.652	0.340	0.442	0.461	3.192
 7	Iowa	Wapello	2017	0.265	0.558	0.347	0.374	0.498	1.432
 7	Iowa	Warren	2017	0.200	0.627	0.435	0.458	0.620	5.636
 7	Iowa	Washington	2017	0.131	0.629	0.420	0.464	0.740	10.273
@@ -2413,7 +2413,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Missouri	Caldwell	2017	0.081	0.686	0.333	0.428	0.554	8.815
 7	Missouri	Callaway	2017	0.137	0.538	0.574	0.351	0.552	7.415
 7	Missouri	Camden	2017	0.206	0.503	0.533	0.282	0.584	3.707
-7	Missouri	Cape	2017 Girardeau	0.338	0.419	0.540	0.358	0.664	3.087
+7	Missouri	Cape Girardeau	2017	0.338	0.419	0.540	0.358	0.664	3.087
 7	Missouri	Carroll	2017	0.104	0.624	0.333	0.365	0.579	5.240
 7	Missouri	Carter	2017	0.379	0.426	0.329	0.489	0.367	0.595
 7	Missouri	Cass	2017	0.297	0.591	0.600	0.348	0.598	4.101
@@ -2469,7 +2469,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Missouri	Monroe	2017	0.123	0.606	0.325	0.448	0.622	6.467
 7	Missouri	Montgomery	2017	0.105	0.557	0.380	0.396	0.573	6.351
 7	Missouri	Morgan	2017	0.125	0.507	0.455	0.354	0.485	4.327
-7	Missouri	New	2017 Madrid	0.325	0.512	0.418	0.362	0.393	0.890
+7	Missouri	New Madrid	2017	0.325	0.512	0.418	0.362	0.393	0.890
 7	Missouri	Newton	2017	0.318	0.480	0.526	0.326	0.542	2.350
 7	Missouri	Nodaway	2017	0.099	0.599	0.509	0.429	0.601	12.014
 7	Missouri	Oregon	2017	0.178	0.442	0.271	0.465	0.451	1.092
@@ -2495,12 +2495,12 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Missouri	Scott	2017	0.274	0.505	0.431	0.347	0.557	2.192
 7	Missouri	Shannon	2017	0.152	0.424	0.339	0.486	0.317	0.958
 7	Missouri	Shelby	2017	0.080	0.635	0.348	0.412	0.581	8.971
-7	Missouri	St	2017. Charles	0.796	0.568	0.558	0.333	0.602	1.326
-7	Missouri	St	2017. Clair	0.126	0.550	0.296	0.533	0.471	4.523
-7	Missouri	St	2017. Francois	0.271	0.483	0.446	0.388	0.493	2.187
-7	Missouri	St	2017. Louis	0.597	0.509	0.254	0.010	0.374	-1.763
-7	Missouri	St	2017. Louis County	0.853	0.522	0.620	0.152	0.530	0.689
-7	Missouri	Ste	2017. Genevieve	0.120	0.472	0.397	0.350	0.632	5.275
+7	Missouri	St. Charles	2017	0.796	0.568	0.558	0.333	0.602	1.326
+7	Missouri	St. Clair	2017	0.126	0.550	0.296	0.533	0.471	4.523
+7	Missouri	St. Francois	2017	0.271	0.483	0.446	0.388	0.493	2.187
+7	Missouri	St. Louis	2017	0.597	0.509	0.254	0.010	0.374	-1.763
+7	Missouri	St. Louis County	2017	0.853	0.522	0.620	0.152	0.530	0.689
+7	Missouri	Ste. Genevieve	2017	0.120	0.472	0.397	0.350	0.632	5.275
 7	Missouri	Stoddard	2017	0.169	0.511	0.452	0.370	0.446	2.968
 7	Missouri	Stone	2017	0.179	0.424	0.477	0.431	0.587	5.081
 7	Missouri	Sullivan	2017	0.082	0.645	0.331	0.400	0.463	5.134
@@ -2519,7 +2519,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Nebraska	Banner	2017	0.153	0.684	0.171	0.224	0.236	-5.517
 7	Nebraska	Blaine	2017	0.353	0.678	0.153	0.312	0.477	-0.595
 7	Nebraska	Boone	2017	0.077	0.646	0.306	0.299	0.681	6.937
-7	Nebraska	Box	2017 Butte	0.118	0.571	0.318	0.314	0.636	3.726
+7	Nebraska	Box Butte	2017	0.118	0.571	0.318	0.314	0.636	3.726
 7	Nebraska	Boyd	2017	0.407	0.686	0.191	0.270	0.586	0.021
 7	Nebraska	Brown	2017	0.272	0.566	0.196	0.323	0.818	1.805
 7	Nebraska	Buffalo	2017	0.282	0.601	0.510	0.344	0.736	4.432
@@ -2564,7 +2564,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Nebraska	Johnson	2017	0.116	0.656	0.298	0.312	0.673	4.683
 7	Nebraska	Kearney	2017	0.300	0.626	0.323	0.443	0.708	3.224
 7	Nebraska	Keith	2017	0.164	0.584	0.375	0.269	0.686	3.619
-7	Nebraska	Keya	2017 Paha	0.288	0.673	0.179	0.294	0.372	-1.371
+7	Nebraska	Keya Paha	2017	0.288	0.673	0.179	0.294	0.372	-1.371
 7	Nebraska	Kimball	2017	0.219	0.595	0.136	0.304	0.509	-1.353
 7	Nebraska	Knox	2017	0.230	0.657	0.418	0.419	0.673	4.881
 7	Nebraska	Lancaster	2017	0.594	0.575	0.636	0.419	0.631	2.594
@@ -2585,13 +2585,13 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Nebraska	Pierce	2017	0.053	0.672	0.299	0.388	0.826	19.883
 7	Nebraska	Platte	2017	0.145	0.592	0.431	0.359	0.736	7.360
 7	Nebraska	Polk	2017	0.238	0.676	0.317	0.407	0.690	3.685
-7	Nebraska	Red	2017 Willow	0.104	0.546	0.313	0.305	0.677	4.416
+7	Nebraska	Red Willow	2017	0.104	0.546	0.313	0.305	0.677	4.416
 7	Nebraska	Richardson	2017	0.074	0.590	0.310	0.408	0.719	11.161
 7	Nebraska	Rock	2017	0.183	0.676	0.242	0.308	0.520	0.539
 7	Nebraska	Saline	2017	0.272	0.608	0.346	0.392	0.598	2.465
 7	Nebraska	Sarpy	2017	0.509	0.619	0.353	0.363	0.595	1.218
 7	Nebraska	Saunders	2017	0.140	0.658	0.453	0.423	0.708	9.277
-7	Nebraska	Scotts	2017 Bluff	0.392	0.601	0.470	0.309	0.716	2.602
+7	Nebraska	Scotts Bluff	2017	0.392	0.601	0.470	0.309	0.716	2.602
 7	Nebraska	Seward	2017	0.160	0.645	0.417	0.408	0.772	7.970
 7	Nebraska	Sheridan	2017	0.319	0.615	0.279	0.247	0.595	0.417
 7	Nebraska	Sherman	2017	0.283	0.650	0.240	0.297	0.611	0.777
@@ -2616,7 +2616,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Colorado	Broomfield	2017	0.702	0.550	0.227	0.246	0.524	-0.300
 8	Colorado	Chaffee	2017	0.091	0.499	0.472	0.504	0.744	15.955
 8	Colorado	Cheyenne	2017	0.106	0.639	0.294	0.265	0.497	0.482
-8	Colorado	Clear	2017 Creek	0.202	0.567	0.499	0.438	0.619	5.911
+8	Colorado	Clear Creek	2017	0.202	0.567	0.499	0.438	0.619	5.911
 8	Colorado	Conejos	2017	0.082	0.575	0.339	0.385	0.410	2.807
 8	Colorado	Costilla	2017	0.122	0.504	0.328	0.224	0.206	-5.452
 8	Colorado	Crowley	2017	0.125	0.604	0.150	0.307	0.167	-7.285
@@ -2626,7 +2626,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Colorado	Dolores	2017	0.097	0.503	0.222	0.577	0.438	3.845
 8	Colorado	Douglas	2017	0.467	0.566	0.565	0.411	0.588	2.649
 8	Colorado	Eagle	2017	0.124	0.548	0.627	0.543	0.650	14.752
-8	Colorado	El	2017 Paso	0.490	0.533	0.875	0.318	0.500	3.325
+8	Colorado	El Paso	2017	0.490	0.533	0.875	0.318	0.500	3.325
 8	Colorado	Elbert	2017	0.132	0.621	0.579	0.269	0.657	8.441
 8	Colorado	Fremont	2017	0.155	0.518	0.498	0.418	0.527	5.879
 8	Colorado	Garfield	2017	0.131	0.545	0.707	0.454	0.688	14.497
@@ -2638,11 +2638,11 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Colorado	Jackson	2017	0.148	0.556	0.257	0.375	0.369	-0.750
 8	Colorado	Jefferson	2017	0.553	0.535	0.647	0.379	0.625	2.568
 8	Colorado	Kiowa	2017	0.168	0.662	0.276	0.312	0.449	0.276
-8	Colorado	Kit	2017 Carson	0.125	0.567	0.382	0.290	0.709	5.528
-8	Colorado	La	2017 Plata	0.151	0.556	0.642	0.526	0.705	12.897
+8	Colorado	Kit Carson	2017	0.125	0.567	0.382	0.290	0.709	5.528
+8	Colorado	La Plata	2017	0.151	0.556	0.642	0.526	0.705	12.897
 8	Colorado	Lake	2017	0.101	0.485	0.179	0.535	0.585	4.230
 8	Colorado	Larimer	2017	0.380	0.537	0.856	0.388	0.591	5.092
-8	Colorado	Las	2017 Animas	0.154	0.544	0.402	0.324	0.588	3.673
+8	Colorado	Las Animas	2017	0.154	0.544	0.402	0.324	0.588	3.673
 8	Colorado	Lincoln	2017	0.133	0.616	0.416	0.391	0.485	4.811
 8	Colorado	Logan	2017	0.154	0.545	0.541	0.275	0.569	5.050
 8	Colorado	Mesa	2017	0.169	0.513	0.729	0.582	0.615	12.394
@@ -2658,12 +2658,12 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Colorado	Pitkin	2017	0.076	0.513	0.498	0.485	0.604	16.108
 8	Colorado	Prowers	2017	0.229	0.542	0.308	0.306	0.582	1.130
 8	Colorado	Pueblo	2017	0.199	0.503	0.631	0.337	0.516	5.171
-8	Colorado	Rio	2017 Blanco	0.127	0.525	0.323	0.495	0.530	5.060
-8	Colorado	Rio	2017 Grande	0.313	0.549	0.404	0.353	0.542	1.787
+8	Colorado	Rio Blanco	2017	0.127	0.525	0.323	0.495	0.530	5.060
+8	Colorado	Rio Grande	2017	0.313	0.549	0.404	0.353	0.542	1.787
 8	Colorado	Routt	2017	0.124	0.545	0.663	0.435	0.771	15.286
 8	Colorado	Saguache	2017	0.109	0.531	0.415	0.419	0.461	5.254
-8	Colorado	San	2017 Juan	0.079	0.594	0.296	0.647	0.387	9.349
-8	Colorado	San	2017 Miguel	0.093	0.583	0.475	0.517	0.668	15.411
+8	Colorado	San Juan	2017	0.079	0.594	0.296	0.647	0.387	9.349
+8	Colorado	San Miguel	2017	0.093	0.583	0.475	0.517	0.668	15.411
 8	Colorado	Sedgwick	2017	0.126	0.641	0.249	0.316	0.478	0.152
 8	Colorado	Summit	2017	0.126	0.557	0.561	0.453	0.764	13.243
 8	Colorado	Teller	2017	0.168	0.546	0.505	0.452	0.650	7.637
@@ -2671,7 +2671,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Colorado	Weld	2017	0.302	0.556	0.971	0.305	0.523	6.360
 8	Colorado	Yuma	2017	0.162	0.522	0.447	0.312	0.649	4.653
 8	Montana	Beaverhead	2017	0.083	0.557	0.412	0.450	0.798	16.037
-8	Montana	Big	2017 Horn	0.213	0.542	0.351	0.583	0.439	3.621
+8	Montana	Big Horn	2017	0.213	0.542	0.351	0.583	0.439	3.621
 8	Montana	Blaine	2017	0.132	0.572	0.380	0.450	0.539	5.696
 8	Montana	Broadwater	2017	0.091	0.552	0.323	0.451	0.626	8.275
 8	Montana	Carbon	2017	0.135	0.571	0.482	0.448	0.831	11.762
@@ -2681,20 +2681,20 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Montana	Custer	2017	0.132	0.525	0.383	0.311	0.820	6.985
 8	Montana	Daniels	2017	0.056	0.575	0.292	0.443	0.790	17.873
 8	Montana	Dawson	2017	0.130	0.537	0.352	0.296	0.741	5.078
-8	Montana	Deer	2017 Lodge	0.080	0.505	0.233	0.541	0.516	5.822
+8	Montana	Deer Lodge	2017	0.080	0.505	0.233	0.541	0.516	5.822
 8	Montana	Fallon	2017	0.083	0.564	0.311	0.274	0.729	6.005
 8	Montana	Fergus	2017	0.129	0.543	0.407	0.307	0.767	6.857
 8	Montana	Flathead	2017	0.114	0.536	0.827	0.545	0.697	21.584
 8	Montana	Gallatin	2017	0.354	0.542	0.657	0.469	0.776	5.571
 8	Montana	Garfield	2017	0.375	0.621	0.271	0.327	0.540	0.556
 8	Montana	Glacier	2017	0.113	0.484	0.335	0.494	0.420	3.684
-8	Montana	Golden	2017 Valley	0.084	0.669	0.216	0.281	0.249	-6.829
+8	Montana	Golden Valley	2017	0.084	0.669	0.216	0.281	0.249	-6.829
 8	Montana	Granite	2017	0.060	0.540	0.321	0.476	0.560	11.108
 8	Montana	Hill	2017	0.114	0.522	0.330	0.288	0.683	3.961
 8	Montana	Jefferson	2017	0.093	0.582	0.523	0.387	0.756	15.229
-8	Montana	Judith	2017 Basin	0.129	0.656	0.240	0.388	0.565	2.786
+8	Montana	Judith Basin	2017	0.129	0.656	0.240	0.388	0.565	2.786
 8	Montana	Lake	2017	0.116	0.550	0.481	0.515	0.590	10.841
-8	Montana	Lewis	2017 and Clark	0.133	0.532	0.591	0.458	0.725	12.489
+8	Montana	Lewis and Clark	2017	0.133	0.532	0.591	0.458	0.725	12.489
 8	Montana	Liberty	2017	0.073	0.545	0.271	0.299	0.503	-0.115
 8	Montana	Lincoln	2017	0.078	0.511	0.507	0.525	0.645	18.224
 8	Montana	Madison	2017	0.126	0.545	0.485	0.525	0.690	11.825
@@ -2707,7 +2707,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Montana	Petroleum	2017	0.311	0.658	0.177	0.437	0.354	-0.322
 8	Montana	Phillips	2017	0.190	0.524	0.369	0.516	0.735	6.438
 8	Montana	Pondera	2017	0.098	0.610	0.319	0.409	0.576	6.063
-8	Montana	Powder	2017 River	0.123	0.567	0.270	0.332	0.622	2.660
+8	Montana	Powder River	2017	0.123	0.567	0.270	0.332	0.622	2.660
 8	Montana	Powell	2017	0.086	0.556	0.276	0.468	0.622	7.727
 8	Montana	Prairie	2017	0.206	0.541	0.206	0.363	0.510	-0.077
 8	Montana	Ravalli	2017	0.074	0.531	0.488	0.493	0.600	16.423
@@ -2716,9 +2716,9 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Montana	Rosebud	2017	0.163	0.562	0.500	0.308	0.558	4.588
 8	Montana	Sanders	2017	0.103	0.567	0.542	0.473	0.691	14.805
 8	Montana	Sheridan	2017	0.121	0.588	0.290	0.323	0.867	7.094
-8	Montana	Silver	2017 Bow	0.079	0.493	0.348	0.401	0.682	9.441
+8	Montana	Silver Bow	2017	0.079	0.493	0.348	0.401	0.682	9.441
 8	Montana	Stillwater	2017	0.154	0.606	0.419	0.337	0.634	5.162
-8	Montana	Sweet	2017 Grass	0.125	0.620	0.315	0.330	0.723	5.505
+8	Montana	Sweet Grass	2017	0.125	0.620	0.315	0.330	0.723	5.505
 8	Montana	Teton	2017	0.106	0.629	0.386	0.432	0.865	13.429
 8	Montana	Toole	2017	0.048	0.526	0.299	0.263	0.773	10.149
 8	Montana	Treasure	2017	0.093	0.666	0.232	0.267	0.405	-2.839
@@ -2726,127 +2726,127 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Montana	Wheatland	2017	0.109	0.528	0.268	0.308	0.574	1.148
 8	Montana	Wibaux	2017	0.168	0.567	0.197	0.296	0.573	-0.322
 8	Montana	Yellowstone	2017	0.254	0.534	0.696	0.294	0.635	5.361
-8	North Dakota	Adams	0.183	0.574	0.311	0.248	0.743	2.577
-8	North Dakota	Barnes	0.121	0.545	0.445	0.345	0.711	8.073
-8	North Dakota	Benson	0.223	0.615	0.408	0.461	0.484	3.539
-8	North Dakota	Billings	0.171	0.614	0.256	0.511	0.470	2.781
-8	North Dakota	Bottineau	0.121	0.532	0.391	0.417	0.743	8.749
-8	North Dakota	Bowman	0.107	0.506	0.327	0.291	0.990	9.677
-8	North Dakota	Burke	0.108	0.601	0.307	0.262	0.637	2.920
-8	North Dakota	Burleigh	0.361	0.506	0.530	0.300	0.727	2.998
-8	North Dakota	Cass	0.268	0.545	0.707	0.400	0.623	6.095
-8	North Dakota	Cavalier	0.122	0.551	0.363	0.442	0.867	10.702
-8	North Dakota	Dickey	0.123	0.554	0.363	0.367	0.716	6.717
-8	North Dakota	Divide	0.082	0.485	0.330	0.238	0.814	6.719
-8	North Dakota	Dunn	0.139	0.610	0.304	0.358	0.771	5.879
-8	North Dakota	Eddy	0.103	0.595	0.216	0.382	0.496	0.803
-8	North Dakota	Emmons	0.117	0.591	0.348	0.282	0.843	7.421
-8	North Dakota	Foster	0.154	0.572	0.303	0.413	0.674	4.665
-8	North Dakota	Golden Valley	0.095	0.568	0.251	0.400	0.568	3.531
-8	North Dakota	Grand Forks	0.210	0.548	0.525	0.379	0.581	4.859
-8	North Dakota	Grant	0.184	0.622	0.276	0.277	0.496	0.084
-8	North Dakota	Griggs	0.157	0.567	0.304	0.271	0.620	1.671
-8	North Dakota	Hettinger	0.122	0.612	0.279	0.261	0.719	3.344
-8	North Dakota	Kidder	0.197	0.616	0.301	0.265	0.641	1.659
-8	North Dakota	LaMoure	0.116	0.624	0.405	0.333	0.655	6.948
-8	North Dakota	Logan	0.163	0.610	0.308	0.250	0.695	2.522
-8	North Dakota	McHenry	0.092	0.597	0.405	0.343	0.681	9.319
-8	North Dakota	McIntosh	0.113	0.600	0.318	0.300	0.736	5.578
-8	North Dakota	McKenzie	0.139	0.531	0.418	0.443	0.671	7.549
-8	North Dakota	McLean	0.115	0.592	0.510	0.399	0.843	13.818
-8	North Dakota	Mercer	0.125	0.550	0.487	0.314	0.676	7.611
-8	North Dakota	Morton	0.270	0.551	0.585	0.252	0.757	4.497
-8	North Dakota	Mountrail	0.138	0.573	0.412	0.376	0.575	5.235
-8	North Dakota	Nelson	0.209	0.604	0.384	0.386	0.735	4.885
-8	North Dakota	Oliver	0.107	0.589	0.279	0.279	0.490	-0.194
-8	North Dakota	Pembina	0.110	0.602	0.483	0.445	0.900	16.005
-8	North Dakota	Pierce	0.087	0.514	0.257	0.323	0.657	3.266
-8	North Dakota	Ramsey	0.174	0.537	0.344	0.408	0.873	6.727
-8	North Dakota	Ransom	0.168	0.581	0.335	0.324	0.767	4.618
-8	North Dakota	Renville	0.170	0.620	0.266	0.321	0.609	1.839
-8	North Dakota	Richland	0.139	0.594	0.469	0.360	0.689	7.808
-8	North Dakota	Rolette	0.090	0.482	0.376	0.472	0.646	10.147
-8	North Dakota	Sargent	0.303	0.650	0.330	0.336	0.729	2.596
-8	North Dakota	Sheridan	0.105	0.628	0.225	0.359	0.371	-1.544
-8	North Dakota	Sioux	0.261	0.650	0.276	0.567	0.065	-0.355
-8	North Dakota	Slope	0.172	0.652	0.183	0.415	0.378	-0.565
-8	North Dakota	Stark	0.100	0.529	0.510	0.289	0.742	10.516
-8	North Dakota	Steele	0.305	0.586	0.296	0.345	0.381	-0.093
-8	North Dakota	Stutsman	0.100	0.537	0.496	0.345	0.723	11.253
-8	North Dakota	Towner	0.093	0.610	0.339	0.377	0.618	7.045
-8	North Dakota	Traill	0.135	0.625	0.387	0.383	0.744	7.865
-8	North Dakota	Walsh	0.102	0.585	0.416	0.383	0.709	10.050
-8	North Dakota	Ward	0.093	0.537	0.631	0.373	0.656	15.330
-8	North Dakota	Wells	0.092	0.559	0.345	0.371	0.727	8.845
-8	North Dakota	Williams	0.098	0.510	0.520	0.313	0.665	9.914
-8	South Dakota	Aurora	0.090	0.677	0.252	0.229	0.824	5.883
-8	South Dakota	Beadle	0.145	0.535	0.360	0.248	0.753	4.040
-8	South Dakota	Bennett	0.151	0.455	0.212	0.555	0.330	0.212
-8	South Dakota	Bon Homme	0.097	0.586	0.341	0.358	0.776	9.286
-8	South Dakota	Brookings	0.103	0.547	0.463	0.403	0.634	9.881
-8	South Dakota	Brown	0.143	0.548	0.462	0.278	0.819	7.493
-8	South Dakota	Brule	0.144	0.555	0.267	0.358	0.767	4.541
-8	South Dakota	Buffalo	0.120	0.524	0.248	0.454	0.011	-5.625
-8	South Dakota	Butte	0.160	0.520	0.270	0.330	0.625	1.737
-8	South Dakota	Campbell	0.078	0.581	0.204	0.297	0.306	-6.970
-8	South Dakota	Charles Mix	0.129	0.600	0.383	0.466	0.574	6.952
-8	South Dakota	Clark	0.089	0.615	0.246	0.377	0.640	5.126
-8	South Dakota	Clay	0.067	0.534	0.325	0.333	0.508	3.212
-8	South Dakota	Codington	0.086	0.539	0.380	0.387	0.739	11.127
-8	South Dakota	Corson	0.162	0.628	0.287	0.590	0.135	0.656
-8	South Dakota	Custer	0.198	0.499	0.395	0.497	0.713	5.945
-8	South Dakota	Davison	0.155	0.525	0.365	0.275	0.772	4.448
-8	South Dakota	Day	0.079	0.566	0.333	0.456	0.886	16.546
-8	South Dakota	Deuel	0.055	0.636	0.335	0.382	0.636	13.073
-8	South Dakota	Dewey	0.178	0.539	0.311	0.569	0.326	2.289
-8	South Dakota	Douglas	0.176	0.615	0.272	0.246	0.711	1.930
-8	South Dakota	Edmunds	0.088	0.580	0.332	0.319	0.849	10.376
-8	South Dakota	Fall River	0.199	0.512	0.270	0.419	0.648	2.700
-8	South Dakota	Faulk	0.080	0.594	0.226	0.329	0.611	2.588
-8	South Dakota	Grant	0.086	0.566	0.372	0.460	0.793	14.496
-8	South Dakota	Gregory	0.151	0.598	0.258	0.322	0.588	1.528
-8	South Dakota	Haakon	0.275	0.557	0.254	0.290	0.721	1.322
-8	South Dakota	Hamlin	0.061	0.639	0.331	0.341	0.696	11.966
-8	South Dakota	Hand	0.117	0.584	0.238	0.341	0.674	3.274
-8	South Dakota	Hanson	0.089	0.677	0.291	0.344	0.462	2.306
-8	South Dakota	Harding	0.212	0.616	0.234	0.345	0.519	0.498
-8	South Dakota	Hughes	0.120	0.538	0.394	0.391	0.855	10.230
-8	South Dakota	Hutchinson	0.156	0.581	0.355	0.314	0.756	5.034
-8	South Dakota	Hyde	0.076	0.578	0.223	0.273	0.511	-2.035
-8	South Dakota	Jackson	0.229	0.490	0.281	0.464	0.384	0.585
-8	South Dakota	Jerauld	0.221	0.578	0.226	0.308	0.593	0.458
-8	South Dakota	Jones	0.113	0.570	0.255	0.282	0.612	1.267
-8	South Dakota	Kingsbury	0.144	0.615	0.334	0.381	0.840	7.588
-8	South Dakota	Lake	0.089	0.539	0.315	0.427	0.701	9.002
-8	South Dakota	Lawrence	0.256	0.512	0.431	0.498	0.639	4.461
-8	South Dakota	Lincoln	0.252	0.563	0.491	0.366	0.691	4.485
-8	South Dakota	Lyman	0.153	0.581	0.338	0.369	0.488	2.261
-8	South Dakota	Marshall	0.159	0.578	0.302	0.468	0.549	3.824
-8	South Dakota	McCook	0.158	0.643	0.356	0.334	0.830	6.607
-8	South Dakota	McPherson	0.092	0.525	0.257	0.387	0.421	-0.108
-8	South Dakota	Meade	0.212	0.531	0.443	0.323	0.732	4.462
-8	South Dakota	Mellette	0.189	0.553	0.226	0.373	0.300	-1.812
-8	South Dakota	Miner	0.077	0.574	0.249	0.250	0.528	-1.463
-8	South Dakota	Minnehaha	0.324	0.554	0.597	0.289	0.647	3.474
-8	South Dakota	Moody	0.076	0.602	0.269	0.474	0.618	9.201
-8	South Dakota	Oglala Lakota	0.153	0.391	0.394	0.557	0.131	0.435
-8	South Dakota	Pennington	0.264	0.497	0.649	0.410	0.649	5.715
-8	South Dakota	Perkins	0.208	0.588	0.178	0.257	0.741	0.713
-8	South Dakota	Potter	0.081	0.588	0.069	0.282	0.617	-3.983
-8	South Dakota	Roberts	0.084	0.586	0.380	0.638	0.784	20.260
-8	South Dakota	Sanborn	0.140	0.609	0.200	0.291	0.415	-2.341
-8	South Dakota	Spink	0.086	0.601	0.339	0.320	0.754	8.991
-8	South Dakota	Stanley	0.137	0.529	0.303	0.355	0.691	4.133
-8	South Dakota	Sully	0.094	0.587	0.216	0.337	0.654	2.923
-8	South Dakota	Todd	0.142	0.482	0.336	0.613	0.173	1.585
-8	South Dakota	Tripp	0.150	0.500	0.241	0.282	0.633	0.523
-8	South Dakota	Turner	0.185	0.654	0.345	0.381	0.841	6.282
-8	South Dakota	Union	0.110	0.602	0.427	0.392	0.634	8.575
-8	South Dakota	Walworth	0.087	0.534	0.240	0.340	0.777	6.204
-8	South Dakota	Yankton	0.133	0.523	0.319	0.368	0.771	5.963
-8	South Dakota	Ziebach	0.231	0.644	0.261	0.508	0.134	-0.635
+8	North Dakota	Adams	2017	0.183	0.574	0.311	0.248	0.743	2.577
+8	North Dakota	Barnes	2017	0.121	0.545	0.445	0.345	0.711	8.073
+8	North Dakota	Benson	2017	0.223	0.615	0.408	0.461	0.484	3.539
+8	North Dakota	Billings	2017	0.171	0.614	0.256	0.511	0.470	2.781
+8	North Dakota	Bottineau	2017	0.121	0.532	0.391	0.417	0.743	8.749
+8	North Dakota	Bowman	2017	0.107	0.506	0.327	0.291	0.990	9.677
+8	North Dakota	Burke	2017	0.108	0.601	0.307	0.262	0.637	2.920
+8	North Dakota	Burleigh	2017	0.361	0.506	0.530	0.300	0.727	2.998
+8	North Dakota	Cass	2017	0.268	0.545	0.707	0.400	0.623	6.095
+8	North Dakota	Cavalier	2017	0.122	0.551	0.363	0.442	0.867	10.702
+8	North Dakota	Dickey	2017	0.123	0.554	0.363	0.367	0.716	6.717
+8	North Dakota	Divide	2017	0.082	0.485	0.330	0.238	0.814	6.719
+8	North Dakota	Dunn	2017	0.139	0.610	0.304	0.358	0.771	5.879
+8	North Dakota	Eddy	2017	0.103	0.595	0.216	0.382	0.496	0.803
+8	North Dakota	Emmons	2017	0.117	0.591	0.348	0.282	0.843	7.421
+8	North Dakota	Foster	2017	0.154	0.572	0.303	0.413	0.674	4.665
+8	North Dakota	Golden Valley	2017	0.095	0.568	0.251	0.400	0.568	3.531
+8	North Dakota	Grand Forks	2017	0.210	0.548	0.525	0.379	0.581	4.859
+8	North Dakota	Grant	2017	0.184	0.622	0.276	0.277	0.496	0.084
+8	North Dakota	Griggs	2017	0.157	0.567	0.304	0.271	0.620	1.671
+8	North Dakota	Hettinger	2017	0.122	0.612	0.279	0.261	0.719	3.344
+8	North Dakota	Kidder	2017	0.197	0.616	0.301	0.265	0.641	1.659
+8	North Dakota	LaMoure	2017	0.116	0.624	0.405	0.333	0.655	6.948
+8	North Dakota	Logan	2017	0.163	0.610	0.308	0.250	0.695	2.522
+8	North Dakota	McHenry	2017	0.092	0.597	0.405	0.343	0.681	9.319
+8	North Dakota	McIntosh	2017	0.113	0.600	0.318	0.300	0.736	5.578
+8	North Dakota	McKenzie	2017	0.139	0.531	0.418	0.443	0.671	7.549
+8	North Dakota	McLean	2017	0.115	0.592	0.510	0.399	0.843	13.818
+8	North Dakota	Mercer	2017	0.125	0.550	0.487	0.314	0.676	7.611
+8	North Dakota	Morton	2017	0.270	0.551	0.585	0.252	0.757	4.497
+8	North Dakota	Mountrail	2017	0.138	0.573	0.412	0.376	0.575	5.235
+8	North Dakota	Nelson	2017	0.209	0.604	0.384	0.386	0.735	4.885
+8	North Dakota	Oliver	2017	0.107	0.589	0.279	0.279	0.490	-0.194
+8	North Dakota	Pembina	2017	0.110	0.602	0.483	0.445	0.900	16.005
+8	North Dakota	Pierce	2017	0.087	0.514	0.257	0.323	0.657	3.266
+8	North Dakota	Ramsey	2017	0.174	0.537	0.344	0.408	0.873	6.727
+8	North Dakota	Ransom	2017	0.168	0.581	0.335	0.324	0.767	4.618
+8	North Dakota	Renville	2017	0.170	0.620	0.266	0.321	0.609	1.839
+8	North Dakota	Richland	2017	0.139	0.594	0.469	0.360	0.689	7.808
+8	North Dakota	Rolette	2017	0.090	0.482	0.376	0.472	0.646	10.147
+8	North Dakota	Sargent	2017	0.303	0.650	0.330	0.336	0.729	2.596
+8	North Dakota	Sheridan	2017	0.105	0.628	0.225	0.359	0.371	-1.544
+8	North Dakota	Sioux	2017	0.261	0.650	0.276	0.567	0.065	-0.355
+8	North Dakota	Slope	2017	0.172	0.652	0.183	0.415	0.378	-0.565
+8	North Dakota	Stark	2017	0.100	0.529	0.510	0.289	0.742	10.516
+8	North Dakota	Steele	2017	0.305	0.586	0.296	0.345	0.381	-0.093
+8	North Dakota	Stutsman	2017	0.100	0.537	0.496	0.345	0.723	11.253
+8	North Dakota	Towner	2017	0.093	0.610	0.339	0.377	0.618	7.045
+8	North Dakota	Traill	2017	0.135	0.625	0.387	0.383	0.744	7.865
+8	North Dakota	Walsh	2017	0.102	0.585	0.416	0.383	0.709	10.050
+8	North Dakota	Ward	2017	0.093	0.537	0.631	0.373	0.656	15.330
+8	North Dakota	Wells	2017	0.092	0.559	0.345	0.371	0.727	8.845
+8	North Dakota	Williams	2017	0.098	0.510	0.520	0.313	0.665	9.914
+8	South Dakota	Aurora	2017	0.090	0.677	0.252	0.229	0.824	5.883
+8	South Dakota	Beadle	2017	0.145	0.535	0.360	0.248	0.753	4.040
+8	South Dakota	Bennett	2017	0.151	0.455	0.212	0.555	0.330	0.212
+8	South Dakota	Bon Homme	2017	0.097	0.586	0.341	0.358	0.776	9.286
+8	South Dakota	Brookings	2017	0.103	0.547	0.463	0.403	0.634	9.881
+8	South Dakota	Brown	2017	0.143	0.548	0.462	0.278	0.819	7.493
+8	South Dakota	Brule	2017	0.144	0.555	0.267	0.358	0.767	4.541
+8	South Dakota	Buffalo	2017	0.120	0.524	0.248	0.454	0.011	-5.625
+8	South Dakota	Butte	2017	0.160	0.520	0.270	0.330	0.625	1.737
+8	South Dakota	Campbell	2017	0.078	0.581	0.204	0.297	0.306	-6.970
+8	South Dakota	Charles Mix	2017	0.129	0.600	0.383	0.466	0.574	6.952
+8	South Dakota	Clark	2017	0.089	0.615	0.246	0.377	0.640	5.126
+8	South Dakota	Clay	2017	0.067	0.534	0.325	0.333	0.508	3.212
+8	South Dakota	Codington	2017	0.086	0.539	0.380	0.387	0.739	11.127
+8	South Dakota	Corson	2017	0.162	0.628	0.287	0.590	0.135	0.656
+8	South Dakota	Custer	2017	0.198	0.499	0.395	0.497	0.713	5.945
+8	South Dakota	Davison	2017	0.155	0.525	0.365	0.275	0.772	4.448
+8	South Dakota	Day	2017	0.079	0.566	0.333	0.456	0.886	16.546
+8	South Dakota	Deuel	2017	0.055	0.636	0.335	0.382	0.636	13.073
+8	South Dakota	Dewey	2017	0.178	0.539	0.311	0.569	0.326	2.289
+8	South Dakota	Douglas	2017	0.176	0.615	0.272	0.246	0.711	1.930
+8	South Dakota	Edmunds	2017	0.088	0.580	0.332	0.319	0.849	10.376
+8	South Dakota	Fall River	2017	0.199	0.512	0.270	0.419	0.648	2.700
+8	South Dakota	Faulk	2017	0.080	0.594	0.226	0.329	0.611	2.588
+8	South Dakota	Grant	2017	0.086	0.566	0.372	0.460	0.793	14.496
+8	South Dakota	Gregory	2017	0.151	0.598	0.258	0.322	0.588	1.528
+8	South Dakota	Haakon	2017	0.275	0.557	0.254	0.290	0.721	1.322
+8	South Dakota	Hamlin	2017	0.061	0.639	0.331	0.341	0.696	11.966
+8	South Dakota	Hand	2017	0.117	0.584	0.238	0.341	0.674	3.274
+8	South Dakota	Hanson	2017	0.089	0.677	0.291	0.344	0.462	2.306
+8	South Dakota	Harding	2017	0.212	0.616	0.234	0.345	0.519	0.498
+8	South Dakota	Hughes	2017	0.120	0.538	0.394	0.391	0.855	10.230
+8	South Dakota	Hutchinson	2017	0.156	0.581	0.355	0.314	0.756	5.034
+8	South Dakota	Hyde	2017	0.076	0.578	0.223	0.273	0.511	-2.035
+8	South Dakota	Jackson	2017	0.229	0.490	0.281	0.464	0.384	0.585
+8	South Dakota	Jerauld	2017	0.221	0.578	0.226	0.308	0.593	0.458
+8	South Dakota	Jones	2017	0.113	0.570	0.255	0.282	0.612	1.267
+8	South Dakota	Kingsbury	2017	0.144	0.615	0.334	0.381	0.840	7.588
+8	South Dakota	Lake	2017	0.089	0.539	0.315	0.427	0.701	9.002
+8	South Dakota	Lawrence	2017	0.256	0.512	0.431	0.498	0.639	4.461
+8	South Dakota	Lincoln	2017	0.252	0.563	0.491	0.366	0.691	4.485
+8	South Dakota	Lyman	2017	0.153	0.581	0.338	0.369	0.488	2.261
+8	South Dakota	Marshall	2017	0.159	0.578	0.302	0.468	0.549	3.824
+8	South Dakota	McCook	2017	0.158	0.643	0.356	0.334	0.830	6.607
+8	South Dakota	McPherson	2017	0.092	0.525	0.257	0.387	0.421	-0.108
+8	South Dakota	Meade	2017	0.212	0.531	0.443	0.323	0.732	4.462
+8	South Dakota	Mellette	2017	0.189	0.553	0.226	0.373	0.300	-1.812
+8	South Dakota	Miner	2017	0.077	0.574	0.249	0.250	0.528	-1.463
+8	South Dakota	Minnehaha	2017	0.324	0.554	0.597	0.289	0.647	3.474
+8	South Dakota	Moody	2017	0.076	0.602	0.269	0.474	0.618	9.201
+8	South Dakota	Oglala Lakota	2017	0.153	0.391	0.394	0.557	0.131	0.435
+8	South Dakota	Pennington	2017	0.264	0.497	0.649	0.410	0.649	5.715
+8	South Dakota	Perkins	2017	0.208	0.588	0.178	0.257	0.741	0.713
+8	South Dakota	Potter	2017	0.081	0.588	0.069	0.282	0.617	-3.983
+8	South Dakota	Roberts	2017	0.084	0.586	0.380	0.638	0.784	20.260
+8	South Dakota	Sanborn	2017	0.140	0.609	0.200	0.291	0.415	-2.341
+8	South Dakota	Spink	2017	0.086	0.601	0.339	0.320	0.754	8.991
+8	South Dakota	Stanley	2017	0.137	0.529	0.303	0.355	0.691	4.133
+8	South Dakota	Sully	2017	0.094	0.587	0.216	0.337	0.654	2.923
+8	South Dakota	Todd	2017	0.142	0.482	0.336	0.613	0.173	1.585
+8	South Dakota	Tripp	2017	0.150	0.500	0.241	0.282	0.633	0.523
+8	South Dakota	Turner	2017	0.185	0.654	0.345	0.381	0.841	6.282
+8	South Dakota	Union	2017	0.110	0.602	0.427	0.392	0.634	8.575
+8	South Dakota	Walworth	2017	0.087	0.534	0.240	0.340	0.777	6.204
+8	South Dakota	Yankton	2017	0.133	0.523	0.319	0.368	0.771	5.963
+8	South Dakota	Ziebach	2017	0.231	0.644	0.261	0.508	0.134	-0.635
 8	Utah	Beaver	2017	0.135	0.534	0.552	0.507	0.590	10.459
-8	Utah	Box	2017 Elder	0.167	0.569	0.599	0.319	0.635	7.172
+8	Utah	Box Elder	2017	0.167	0.569	0.599	0.319	0.635	7.172
 8	Utah	Cache	2017	0.267	0.554	0.541	0.494	0.638	5.482
 8	Utah	Carbon	2017	0.120	0.546	0.438	0.444	0.564	7.619
 8	Utah	Daggett	2017	0.128	0.572	0.311	0.610	0.404	5.428
@@ -2862,8 +2862,8 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Utah	Morgan	2017	0.155	0.546	0.462	0.371	0.701	6.897
 8	Utah	Piute	2017	0.103	0.627	0.252	0.605	0.399	5.514
 8	Utah	Rich	2017	0.110	0.458	0.393	0.427	0.604	6.762
-8	Utah	Salt	2017 Lake	0.775	0.515	0.768	0.236	0.612	1.734
-8	Utah	San	2017 Juan	0.127	0.524	0.481	0.492	0.617	9.625
+8	Utah	Salt Lake	2017	0.775	0.515	0.768	0.236	0.612	1.734
+8	Utah	San Juan	2017	0.127	0.524	0.481	0.492	0.617	9.625
 8	Utah	Sanpete	2017	0.137	0.542	0.446	0.460	0.681	8.715
 8	Utah	Sevier	2017	0.134	0.553	0.463	0.496	0.683	10.084
 8	Utah	Summit	2017	0.156	0.543	0.570	0.429	0.606	8.408
@@ -2875,14 +2875,14 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 8	Utah	Wayne	2017	0.204	0.576	0.367	0.511	0.750	6.282
 8	Utah	Weber	2017	0.569	0.510	0.459	0.393	0.630	1.647
 8	Wyoming	Albany	2017	0.110	0.442	0.545	0.372	0.502	7.237
-8	Wyoming	Big	2017 Horn	0.115	0.562	0.313	0.524	0.681	8.924
+8	Wyoming	Big Horn	2017	0.115	0.562	0.313	0.524	0.681	8.924
 8	Wyoming	Campbell	2017	0.227	0.530	0.683	0.397	0.634	6.938
 8	Wyoming	Carbon	2017	0.094	0.540	0.626	0.533	0.685	19.825
 8	Wyoming	Converse	2017	0.101	0.528	0.516	0.389	0.677	11.776
 8	Wyoming	Crook	2017	0.201	0.518	0.376	0.311	0.709	3.383
 8	Wyoming	Fremont	2017	0.132	0.540	0.589	0.464	0.602	10.801
 8	Wyoming	Goshen	2017	0.119	0.533	0.366	0.242	0.621	2.722
-8	Wyoming	Hot	2017 Springs	0.189	0.533	0.218	0.476	0.622	2.674
+8	Wyoming	Hot Springs	2017	0.189	0.533	0.218	0.476	0.622	2.674
 8	Wyoming	Johnson	2017	0.143	0.507	0.395	0.395	0.873	8.731
 8	Wyoming	Laramie	2017	0.171	0.512	0.566	0.268	0.599	4.999
 8	Wyoming	Lincoln	2017	0.155	0.543	0.573	0.549	0.755	12.283
@@ -2903,13 +2903,13 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 9	Arizona	Gila	2017	0.112	0.395	0.528	0.463	0.495	8.156
 9	Arizona	Graham	2017	0.108	0.454	0.427	0.457	0.540	7.169
 9	Arizona	Greenlee	2017	0.130	0.420	0.378	0.590	0.481	6.348
-9	Arizona	La	2017 Paz	0.187	0.390	0.547	0.346	0.363	2.207
+9	Arizona	La Paz	2017	0.187	0.390	0.547	0.346	0.363	2.207
 9	Arizona	Maricopa	2017	0.662	0.472	0.942	0.276	0.471	2.400
 9	Arizona	Mohave	2017	0.122	0.423	0.830	0.275	0.365	8.406
 9	Arizona	Navajo	2017	0.131	0.415	0.804	0.534	0.513	14.327
 9	Arizona	Pima	2017	0.225	0.457	0.895	0.465	0.454	8.369
 9	Arizona	Pinal	2017	0.249	0.450	0.873	0.343	0.389	5.562
-9	Arizona	Santa	2017 Cruz	0.123	0.477	0.420	0.456	0.399	4.062
+9	Arizona	Santa Cruz	2017	0.123	0.477	0.420	0.456	0.399	4.062
 9	Arizona	Yavapai	2017	0.131	0.434	0.896	0.286	0.504	11.566
 9	Arizona	Yuma	2017	0.179	0.451	0.731	0.368	0.415	6.248
 9	California	Alameda	2017	0.501	0.184	0.720	0.338	0.549	2.018
@@ -2918,9 +2918,9 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 9	California	Butte	2017	0.211	0.328	0.721	0.414	0.397	4.956
 9	California	Calaveras	2017	0.131	0.322	0.494	0.433	0.553	6.045
 9	California	Colusa	2017	0.147	0.299	0.390	0.410	0.359	0.338
-9	California	Contra	2017 Costa	0.651	0.226	0.734	0.371	0.525	1.728
-9	California	Del	2017 Norte	0.191	0.202	0.407	0.586	0.374	2.423
-9	California	El	2017 Dorado	0.209	0.352	0.623	0.444	0.538	5.551
+9	California	Contra Costa	2017	0.651	0.226	0.734	0.371	0.525	1.728
+9	California	Del Norte	2017	0.191	0.202	0.407	0.586	0.374	2.423
+9	California	El Dorado	2017	0.209	0.352	0.623	0.444	0.538	5.551
 9	California	Fresno	2017	0.241	0.234	0.960	0.435	0.478	7.474
 9	California	Glenn	2017	0.149	0.428	0.367	0.471	0.379	2.075
 9	California	Humboldt	2017	0.148	0.291	0.805	0.580	0.511	12.626
@@ -2930,7 +2930,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 9	California	Kings	2017	0.201	0.325	0.632	0.172	0.345	0.548
 9	California	Lake	2017	0.160	0.010	0.490	0.552	0.360	2.388
 9	California	Lassen	2017	0.117	0.462	0.630	0.535	0.529	12.797
-9	California	Los	2017 Angeles	0.576	0.289	0.881	0.363	0.535	2.745
+9	California	Los Angeles	2017	0.576	0.289	0.881	0.363	0.535	2.745
 9	California	Madera	2017	0.182	0.238	0.695	0.403	0.451	5.324
 9	California	Marin	2017	0.159	0.223	0.414	0.656	0.545	6.355
 9	California	Mariposa	2017	0.272	0.010	0.476	0.512	0.515	2.019
@@ -2946,16 +2946,16 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 9	California	Plumas	2017	0.291	0.408	0.635	0.561	0.527	5.203
 9	California	Riverside	2017	0.453	0.411	0.934	0.500	0.488	4.609
 9	California	Sacramento	2017	0.626	0.372	0.763	0.370	0.590	2.351
-9	California	San	2017 Benito	0.124	0.380	0.427	0.402	0.453	3.179
-9	California	San	2017 Bernandino	0.215	0.432	0.985	0.479	0.480	10.118
-9	California	San	2017 Diego	0.386	0.353	0.907	0.507	0.520	5.276
-9	California	San	2017 Francisco	0.240	0.424	0.429	0.614	0.530	4.658
-9	California	San	2017 Joaquin	0.564	0.390	0.724	0.304	0.447	1.673
-9	California	San	2017 Luis Obispo	0.439	0.250	0.861	0.471	0.606	4.310
-9	California	San	2017 Mateo	0.186	0.214	0.557	0.485	0.539	5.122
-9	California	Santa	2017 Barbara	0.224	0.331	0.830	0.645	0.559	9.926
-9	California	Santa	2017 Clara	0.363	0.212	0.682	0.420	0.552	3.167
-9	California	Santa	2017 Cruz	0.173	0.231	0.382	0.625	0.532	4.802
+9	California	San Benito	2017	0.124	0.380	0.427	0.402	0.453	3.179
+9	California	San Bernandino	2017	0.215	0.432	0.985	0.479	0.480	10.118
+9	California	San Diego	2017	0.386	0.353	0.907	0.507	0.520	5.276
+9	California	San Francisco	2017	0.240	0.424	0.429	0.614	0.530	4.658
+9	California	San Joaquin	2017	0.564	0.390	0.724	0.304	0.447	1.673
+9	California	San Luis Obispo	2017	0.439	0.250	0.861	0.471	0.606	4.310
+9	California	San Mateo	2017	0.186	0.214	0.557	0.485	0.539	5.122
+9	California	Santa Barbara	2017	0.224	0.331	0.830	0.645	0.559	9.926
+9	California	Santa Clara	2017	0.363	0.212	0.682	0.420	0.552	3.167
+9	California	Santa Cruz	2017	0.173	0.231	0.382	0.625	0.532	4.802
 9	California	Shasta	2017	0.134	0.227	0.799	0.429	0.462	9.821
 9	California	Sierra	2017	0.157	0.336	0.366	0.600	0.406	3.724
 9	California	Siskiyou	2017	0.398	0.208	0.740	0.440	0.541	3.335
@@ -2991,33 +2991,33 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 9	Nevada	Pershing	2017	0.154	0.467	0.389	0.524	0.321	2.738
 9	Nevada	Storey	2017	0.266	0.441	0.309	0.347	0.498	0.364
 9	Nevada	Washoe	2017	0.183	0.433	0.841	0.552	0.517	11.206
-9	Nevada	White	2017 Pine	0.082	0.407	0.333	0.658	0.575	12.737
-10	Alaska	Aleutians	2017 East	0.012	0.411	0.342	0.990	0.305	111.828
-10	Alaska	Aleutians	2017 West	0.039	0.516	0.479	0.523	0.424	23.133
+9	Nevada	White Pine	2017	0.082	0.407	0.333	0.658	0.575	12.737
+10	Alaska	Aleutians East	2017	0.012	0.411	0.342	0.990	0.305	111.828
+10	Alaska	Aleutians West	2017	0.039	0.516	0.479	0.523	0.424	23.133
 10	Alaska	Anchorage	2017	0.078	0.634	0.693	0.443	0.557	21.363
-10	Alaska	Bristol	2017 Bay	0.034	0.525	0.307	0.795	0.234	22.400
+10	Alaska	Bristol Bay	2017	0.034	0.525	0.307	0.795	0.234	22.400
 10	Alaska	Denali	2017	0.116	0.490	0.413	0.377	0.309	1.080
 10	Alaska	Dillingham	2017	0.022	0.411	0.489	0.508	0.428	37.134
-10	Alaska	Fairbanks	2017 North Star	0.050	0.590	0.665	0.455	0.579	32.653
+10	Alaska	Fairbanks North Star	2017	0.050	0.590	0.665	0.455	0.579	32.653
 10	Alaska	Haines	2017	0.021	0.538	0.371	0.664	0.596	62.768
-10	Alaska	Hoonah	2017-Angoon	0.010	0.378	0.416	0.502	0.357	42.005
-10	Alaska	Juneau	2017 City	0.013	0.602	0.561	0.686	0.731	167.953
-10	Alaska	Kenai	2017 Peninsula	0.053	0.548	0.713	0.482	0.630	35.503
-10	Alaska	Ketchikan	2017 Gateway	0.010	0.591	0.464	0.614	0.617	154.851
-10	Alaska	Kodiak	2017 Island	0.010	0.576	0.557	0.928	0.474	227.188
-10	Alaska	Lake	2017 and Peninsula	0.045	0.337	0.488	0.718	0.247	19.594
-10	Alaska	North	2017 Slope	0.038	0.427	0.747	0.959	0.365	65.884
+10	Alaska	Hoonah-Angoon	2017	0.010	0.378	0.416	0.502	0.357	42.005
+10	Alaska	Juneau City	2017	0.013	0.602	0.561	0.686	0.731	167.953
+10	Alaska	Kenai Peninsula	2017	0.053	0.548	0.713	0.482	0.630	35.503
+10	Alaska	Ketchikan Gateway	2017	0.010	0.591	0.464	0.614	0.617	154.851
+10	Alaska	Kodiak Island	2017	0.010	0.576	0.557	0.928	0.474	227.188
+10	Alaska	Lake and Peninsula	2017	0.045	0.337	0.488	0.718	0.247	19.594
+10	Alaska	North Slope	2017	0.038	0.427	0.747	0.959	0.365	65.884
 10	Alaska	Petersburg	2017	0.026	0.533	0.318	0.538	0.604	33.766
-10	Alaska	Prince	2017 of Wales-Hyde	0.018	0.398	0.573	0.487	0.443	56.732
-10	Alaska	Sitka	2017 City	0.036	0.538	0.398	0.709	0.681	46.371
+10	Alaska	Prince of Wales-Hyde	2017	0.018	0.398	0.573	0.487	0.443	56.732
+10	Alaska	Sitka City	2017	0.036	0.538	0.398	0.709	0.681	46.371
 10	Alaska	Skagway	2017	0.028	0.574	0.245	0.501	0.520	17.349
-10	Alaska	Valdez	2017-Cordova	0.126	0.470	0.689	0.475	0.603	13.185
+10	Alaska	Valdez-Cordova	2017	0.126	0.470	0.689	0.475	0.603	13.185
 10	Alaska	Wrangell	2017	0.011	0.430	0.269	0.520	0.373	13.694
 10	Alaska	Yakutat	2017	0.044	0.476	0.256	0.924	0.449	29.465
 10	Idaho	Ada	2017	0.345	0.449	0.562	0.586	0.580	4.434
 10	Idaho	Adams	2017	0.093	0.435	0.376	0.627	0.573	11.862
 10	Idaho	Bannock	2017	0.190	0.435	0.519	0.587	0.615	7.744
-10	Idaho	Bear	2017 Lake	0.102	0.121	0.284	0.480	0.632	2.939
+10	Idaho	Bear Lake	2017	0.102	0.121	0.284	0.480	0.632	2.939
 10	Idaho	Benewah	2017	0.062	0.490	0.326	0.612	0.476	12.795
 10	Idaho	Bingham	2017	0.146	0.433	0.492	0.507	0.626	8.334
 10	Idaho	Blaine	2017	0.101	0.440	0.550	0.563	0.683	16.084
@@ -3048,14 +3048,14 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 10	Idaho	Lincoln	2017	0.151	0.504	0.270	0.676	0.536	6.217
 10	Idaho	Madison	2017	0.157	0.443	0.430	0.469	0.542	5.125
 10	Idaho	Minidoka	2017	0.093	0.439	0.333	0.571	0.487	7.381
-10	Idaho	Nez	2017 Perce	0.105	0.449	0.480	0.582	0.612	13.007
+10	Idaho	Nez Perce	2017	0.105	0.449	0.480	0.582	0.612	13.007
 10	Idaho	Oneida	2017	0.146	0.485	0.246	0.510	0.546	3.197
 10	Idaho	Owyhee	2017	0.106	0.449	0.367	0.559	0.430	6.101
 10	Idaho	Payette	2017	0.135	0.348	0.359	0.465	0.440	2.329
 10	Idaho	Power	2017	0.115	0.446	0.349	0.465	0.476	3.966
 10	Idaho	Shoshone	2017	0.085	0.493	0.261	0.449	0.490	2.978
 10	Idaho	Teton	2017	0.124	0.451	0.427	0.492	0.622	8.235
-10	Idaho	Twin	2017 Falls	0.125	0.407	0.592	0.501	0.599	11.176
+10	Idaho	Twin Falls	2017	0.125	0.407	0.592	0.501	0.599	11.176
 10	Idaho	Valley	2017	0.088	0.424	0.506	0.602	0.812	20.892
 10	Idaho	Washington	2017	0.101	0.348	0.321	0.542	0.434	3.876
 10	Oregon	Baker	2017	0.089	0.456	0.475	0.580	0.554	13.833
@@ -3071,7 +3071,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 10	Oregon	Gilliam	2017	0.066	0.507	0.287	0.461	0.370	2.000
 10	Oregon	Grant	2017	0.108	0.485	0.372	0.616	0.521	9.434
 10	Oregon	Harney	2017	0.100	0.444	0.373	0.584	0.489	8.365
-10	Oregon	Hood	2017 River	0.147	0.337	0.392	0.601	0.552	6.432
+10	Oregon	Hood River	2017	0.147	0.337	0.392	0.601	0.552	6.432
 10	Oregon	Jackson	2017	0.159	0.286	0.727	0.526	0.428	8.522
 10	Oregon	Jefferson	2017	0.125	0.450	0.485	0.487	0.391	5.667
 10	Oregon	Josephine	2017	0.142	0.171	0.477	0.518	0.399	3.504
@@ -3107,7 +3107,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 10	Washington	Franklin	2017	0.158	0.431	0.461	0.396	0.486	3.713
 10	Washington	Garfield	2017	0.101	0.460	0.226	0.466	0.397	-0.132
 10	Washington	Grant	2017	0.155	0.430	0.699	0.551	0.458	9.957
-10	Washington	Grays	2017 Harbor	0.096	0.408	0.597	0.436	0.400	8.933
+10	Washington	Grays Harbor	2017	0.096	0.408	0.597	0.436	0.400	8.933
 10	Washington	Island	2017	0.192	0.574	0.374	0.432	0.456	2.758
 10	Washington	Jefferson	2017	0.152	0.337	0.468	0.479	0.518	5.154
 10	Washington	King	2017	0.527	0.441	0.864	0.501	0.521	3.793
@@ -3119,9 +3119,9 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 10	Washington	Mason	2017	0.101	0.395	0.499	0.500	0.406	7.440
 10	Washington	Okanogan	2017	0.138	0.425	0.609	0.454	0.503	8.369
 10	Washington	Pacific	2017	0.092	0.350	0.448	0.382	0.387	2.636
-10	Washington	Pend	2017 Orielle	0.081	0.445	0.447	0.603	0.430	11.957
+10	Washington	Pend Orielle	2017	0.081	0.445	0.447	0.603	0.430	11.957
 10	Washington	Pierce	2017	0.571	0.419	0.727	0.476	0.489	2.612
-10	Washington	San	2017 Juan	0.095	0.535	0.432	0.694	0.638	17.356
+10	Washington	San Juan	2017	0.095	0.535	0.432	0.694	0.638	17.356
 10	Washington	Skagit	2017	0.141	0.437	0.569	0.570	0.507	9.542
 10	Washington	Skamania	2017	0.124	0.400	0.391	0.593	0.406	5.619
 10	Washington	Snohomish	2017	0.263	0.452	0.722	0.641	0.541	7.658
@@ -3129,7 +3129,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 10	Washington	Stevens	2017	0.108	0.465	0.581	0.466	0.500	10.563
 10	Washington	Thurston	2017	0.531	0.417	0.564	0.464	0.522	2.042
 10	Washington	Wahkiakum	2017	0.179	0.351	0.153	0.396	0.202	-4.844
-10	Washington	Walla	2017 Walla	0.103	0.419	0.543	0.369	0.432	6.018
+10	Washington	Walla Walla	2017	0.103	0.419	0.543	0.369	0.432	6.018
 10	Washington	Whatcom	2017	0.188	0.429	0.694	0.557	0.533	9.015
 10	Washington	Whitman	2017	0.086	0.464	0.703	0.391	0.402	12.613
 10	Washington	Yakima	2017	0.174	0.411	0.705	0.538	0.438	8.452
