@@ -7,3 +7,4 @@ done
 
 Import Data
 /opt/mssql-tools/bin/bcp CSCI226.dbo.EpaCrsi in $PROJECT_WD/data/2017_epa_crsi.dat -S $HOSTNAME -U sa -P $MSSQL_SA_PASSWORD -F 2 -f $PROJECT_WD/data/EpaCrsi-c.fmt
+/opt/mssql-tools/bin/bcp CSCI226.dbo.Dp1 in $PROJECT_WD/data/DECENNIALDP2020.DP1-Data.dat -S $HOSTNAME -U sa -P $MSSQL_SA_PASSWORD -F 3 -f $PROJECT_WD/data/Dp1-c.fmt
