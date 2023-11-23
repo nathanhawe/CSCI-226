@@ -1,0 +1,12 @@
+14.0
+10
+1       SQLCHAR             0       12      "\t"   1     EpaRegion                                                                    ""
+2       SQLCHAR             0       510     "\t"   2     UsState                                                                      SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR             0       510     "\t"   3     County                                                                       SQL_Latin1_General_CP1_CI_AS
+4       SQLCHAR             0       12      "\t"   4     ReportYear                                                                   ""
+5       SQLCHAR             0       41      "\t"   5     Risk                                                                         ""
+6       SQLCHAR             0       41      "\t"   6     Governance                                                                   ""
+7       SQLCHAR             0       41      "\t"   7     BuiltEnvironment                                                             ""
+8       SQLCHAR             0       41      "\t"   8     NaturalEnvironment                                                           ""
+9       SQLCHAR             0       41      "\t"   9     Society                                                                      ""
+10      SQLCHAR             0       41      "\n"   10    Crsi                                                                         ""
