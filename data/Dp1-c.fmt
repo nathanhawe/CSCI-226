@@ -1,6 +1,6 @@
 14.0
 643
-1       SQLCHAR             0       510     "\t"   1     GEO_ID                                       SQL_Latin1_General_CP1_CI_AS
+1       SQLCHAR             0       255     "\t"   1     GEO_ID                                       SQL_Latin1_General_CP1_CI_AS
 2       SQLCHAR             0       12      "\t"   2     ReportYear                                   ""
 3       SQLCHAR             0       510     "\t"   3     NAME                                         SQL_Latin1_General_CP1_CI_AS
 4       SQLCHAR             0       41      "\t"   4     DP1_0001C                                    ""
