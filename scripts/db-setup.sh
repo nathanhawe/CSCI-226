@@ -12,6 +12,9 @@ do
 done
 
 # Import Data
+echo "Importing EPA to Census Mapping records"
+/opt/mssql-tools/bin/bcp CSCI226.dbo.EpaCensusMap in $PROJECT_WD/data/map.dat -S $HOSTNAME -U sa -P $MSSQL_SA_PASSWORD -F 2 -f $PROJECT_WD/data/map-c.fmt
+
 echo "Importing EPA CRSI Data (EpaCrsi)"
 /opt/mssql-tools/bin/bcp CSCI226.dbo.EpaCrsi in $PROJECT_WD/data/2017_epa_crsi.dat -S $HOSTNAME -U sa -P $MSSQL_SA_PASSWORD -F 2 -f $PROJECT_WD/data/EpaCrsi-c.fmt
 

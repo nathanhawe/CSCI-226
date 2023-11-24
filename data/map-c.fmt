@@ -1,0 +1,5 @@
+14.0
+3
+1       SQLCHAR             0       255     "\t"   1     GEO_ID                           SQL_Latin1_General_CP1_CI_AS
+2       SQLCHAR             0       255     "\t"   2     UsState                          SQL_Latin1_General_CP1_CI_AS
+3       SQLCHAR             0       510     "\n"   3     County                           SQL_Latin1_General_CP1_CI_AS
