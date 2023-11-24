@@ -154,7 +154,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	District of Columbia	District of Columbia	2017	0.676	0.745	0.402	0.200	0.506	0.445
 3	Maryland	Allegany	2017	0.277	0.716	0.421	0.429	0.441	2.728
 3	Maryland	Anne Arundel	2017	0.675	0.760	0.539	0.446	0.553	2.044
-3	Maryland	Baltimore	2017	0.594	0.706	0.393	0.156	0.381	-0.192
+3	Maryland	Baltimore City	2017	0.594	0.706	0.393	0.156	0.381	-0.192
 3	Maryland	Baltimore	2017	0.494	0.719	0.567	0.363	0.585	2.576
 3	Maryland	Calvert	2017	0.317	0.786	0.440	0.472	0.541	3.734
 3	Maryland	Caroline	2017	0.155	0.766	0.389	0.568	0.494	7.527
@@ -280,14 +280,14 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	Virginia	Dinwiddie	2017	0.149	0.664	0.392	0.479	0.531	6.250
 3	Virginia	Emporia	2017	0.528	0.623	0.146	0.265	0.463	-0.810
 3	Virginia	Essex	2017	0.216	0.729	0.343	0.508	0.684	5.729
-3	Virginia	Fairfax	2017	0.485	0.779	0.175	0.148	0.842	0.541
+3	Virginia	Fairfax City	2017	0.485	0.779	0.175	0.148	0.842	0.541
 3	Virginia	Fairfax	2017	0.569	0.755	0.474	0.308	0.557	1.529
 3	Virginia	Falls Church	2017	0.320	0.973	0.152	0.225	0.766	1.369
 3	Virginia	Fauquier	2017	0.243	0.780	0.546	0.436	0.678	6.738
 3	Virginia	Floyd	2017	0.128	0.447	0.336	0.285	0.552	0.985
 3	Virginia	Fluvanna	2017	0.158	0.749	0.397	0.359	0.511	4.382
 3	Virginia	Franklin	2017	0.331	0.709	0.146	0.330	0.399	-0.928
-3	Virginia	Franklin	2017	0.194	0.491	0.422	0.325	0.514	2.182
+3	Virginia	Franklin City	2017	0.194	0.491	0.422	0.325	0.514	2.182
 3	Virginia	Frederick	2017	0.487	0.727	0.451	0.308	0.522	1.460
 3	Virginia	Fredericksburg	2017	0.476	0.764	0.144	0.176	0.578	-0.603
 3	Virginia	Galax	2017	0.272	0.518	0.114	0.193	0.391	-3.439
@@ -347,9 +347,9 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 3	Virginia	Pulaski	2017	0.189	0.451	0.369	0.401	0.518	2.308
 3	Virginia	Radford	2017	0.331	0.516	0.133	0.266	0.334	-2.477
 3	Virginia	Rappahannock	2017	0.132	0.656	0.346	0.439	0.561	5.738
-3	Virginia	Richmond	2017	0.551	0.720	0.245	0.105	0.463	-0.836
+3	Virginia	Richmond City	2017	0.551	0.720	0.245	0.105	0.463	-0.836
 3	Virginia	Richmond	2017	0.238	0.687	0.341	0.489	0.550	3.686
-3	Virginia	Roanoke	2017	0.460	0.508	0.210	0.104	0.536	-1.358
+3	Virginia	Roanoke City	2017	0.460	0.508	0.210	0.104	0.536	-1.358
 3	Virginia	Roanoke	2017	0.468	0.508	0.376	0.308	0.600	0.955
 3	Virginia	Rockbridge	2017	0.158	0.415	0.446	0.444	0.572	5.193
 3	Virginia	Rockingham	2017	0.216	0.687	0.616	0.454	0.555	7.109
@@ -1793,7 +1793,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 6	Louisiana	Jackson	2017	0.244	0.525	0.318	0.416	0.521	1.714
 6	Louisiana	Jefferson	2017	0.314	0.554	0.403	0.485	0.477	2.416
 6	Louisiana	Jefferson Davis	2017	0.626	0.582	0.483	0.371	0.578	1.463
-6	Louisiana	La Salle	2017	0.156	0.523	0.392	0.472	0.487	4.394
+6	Louisiana	LaSalle	2017	0.156	0.523	0.392	0.472	0.487	4.394
 6	Louisiana	Lafayette	2017	0.655	0.562	0.596	0.437	0.588	2.106
 6	Louisiana	Lafourche	2017	0.442	0.574	0.521	0.397	0.484	2.012
 6	Louisiana	Lincoln	2017	0.255	0.503	0.432	0.426	0.400	1.905
@@ -2498,7 +2498,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 7	Missouri	St. Charles	2017	0.796	0.568	0.558	0.333	0.602	1.326
 7	Missouri	St. Clair	2017	0.126	0.550	0.296	0.533	0.471	4.523
 7	Missouri	St. Francois	2017	0.271	0.483	0.446	0.388	0.493	2.187
-7	Missouri	St. Louis	2017	0.597	0.509	0.254	0.010	0.374	-1.763
+7	Missouri	St. Louis City	2017	0.597	0.509	0.254	0.010	0.374	-1.763
 7	Missouri	St. Louis County	2017	0.853	0.522	0.620	0.152	0.530	0.689
 7	Missouri	Ste. Genevieve	2017	0.120	0.472	0.397	0.350	0.632	5.275
 7	Missouri	Stoddard	2017	0.169	0.511	0.452	0.370	0.446	2.968
@@ -2947,7 +2947,7 @@ EpaRegion	UsState	County	Year	Risk	Governance	BuiltEnvironment	NaturalEnvironmen
 9	California	Riverside	2017	0.453	0.411	0.934	0.500	0.488	4.609
 9	California	Sacramento	2017	0.626	0.372	0.763	0.370	0.590	2.351
 9	California	San Benito	2017	0.124	0.380	0.427	0.402	0.453	3.179
-9	California	San Bernandino	2017	0.215	0.432	0.985	0.479	0.480	10.118
+9	California	San Bernardino	2017	0.215	0.432	0.985	0.479	0.480	10.118
 9	California	San Diego	2017	0.386	0.353	0.907	0.507	0.520	5.276
 9	California	San Francisco	2017	0.240	0.424	0.429	0.614	0.530	4.658
 9	California	San Joaquin	2017	0.564	0.390	0.724	0.304	0.447	1.673
