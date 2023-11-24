@@ -26,3 +26,8 @@ echo "Importing 2020 Field of Bachelor's Degree for First Major Data (S1502)"
 
 echo "Importing 2020 Selected Economic Characteristics (DP03)"
 /opt/mssql-tools/bin/bcp CSCI226.dbo.Dp03 in $PROJECT_WD/data/ACSDP5Y2020.DP03-Data.dat -S $HOSTNAME -U sa -P $MSSQL_SA_PASSWORD -F 2 -f $PROJECT_WD/data/Dp03-c.fmt
+
+echo "Importing National Park Service Data"
+/opt/mssql-tools/bin/bcp CSCI226.dbo.Nps in $PROJECT_WD/data/Nps.dat -S $HOSTNAME -U sa -P $MSSQL_SA_PASSWORD -F 2 -f $PROJECT_WD/data/Nps-c.fmt
+
+echo "Setup Complete!"
