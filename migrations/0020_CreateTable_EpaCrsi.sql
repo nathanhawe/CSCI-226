@@ -10,5 +10,10 @@ IF (NOT EXISTS(SELECT 1 FROM CSCI226.INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME=
 		, NaturalEnvironment NUMERIC(6,3) NOT NULL
 		, Society NUMERIC(6,3) NOT NULL
 		, Crsi NUMERIC(6,3) NOT NULL
-		PRIMARY KEY (County, UsState, ReportYear)
+		
+		  PRIMARY KEY (County, UsState, ReportYear)
+		, CONSTRAINT FK_EpaCrsi_EpaCensusMap FOREIGN KEY (UsState, County) 
+			REFERENCES CSCI226.dbo.EpaCensusMap (UsState, County)
+			ON DELETE CASCADE
+			ON UPDATE CASCADE
 	)
