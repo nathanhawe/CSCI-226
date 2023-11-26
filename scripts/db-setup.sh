@@ -8,7 +8,7 @@ done
 # Run Migrations
 for file in $PROJECT_WD/migrations/*.sql
 do
-    /opt/mssql-tools/bin/sqlcmd -H $HOSTNAME -U sa -P $MSSQL_SA_PASSWORD -i $file >> $0
+    /opt/mssql-tools/bin/sqlcmd -H $HOSTNAME -U sa -P $MSSQL_SA_PASSWORD -i $file
 done
 
 # Import Data
