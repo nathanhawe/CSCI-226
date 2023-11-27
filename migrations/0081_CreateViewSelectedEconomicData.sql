@@ -18,7 +18,7 @@ CREATE VIEW vw_SelectedEconomicData AS
 		, DP03_0004E AS EmploymentStatus_Population16AndOver_Civilian_Employed
 		, DP03_0005E AS EmploymentStatus_Population16AndOver_Civilian_Unemployed
 		, DP03_0006E AS EmploymentStatus_Population16AndOver_ArmedForces
-		, DP03_0007E AS EmploymentStatus_Population16AndOver_NotInLaborFoce
+		, DP03_0007E AS EmploymentStatus_Population16AndOver_NotInLaborForce
 		, DP03_0018E AS Commute_Population16AndOver_TotalPopulation
 		, DP03_0019E AS Commute_Population16AndOver_DroveAlone
 		, DP03_0020E AS Commute_Population16AndOver_Carpooled
